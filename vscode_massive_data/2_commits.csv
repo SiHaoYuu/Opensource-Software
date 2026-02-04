@@ -1,0 +1,1317 @@
+﻿GitHub用户,SHA,URL,作者,作者邮箱,序号,提交信息,提交时间,短SHA,获取时间,页码
+pwang347,dd69bcaa41c11d94a12f7bbe373ed6c43f090d8e,https://github.com/microsoft/vscode/commit/dd69bcaa41c11d94a12f7bbe373ed6c43f090d8e,Paul,paul_wang347@hotmail.com,1,Add initial hooks support (#292699),2026-02-04T01:32:57Z,dd69bcaa,2026-02-04T11:32:34.592974,1
+rzhao271,f4ce567e5dcef7a8e5318916173c216015d3b716,https://github.com/microsoft/vscode/commit/f4ce567e5dcef7a8e5318916173c216015d3b716,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,2,"Revert ""Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /extensions/css-language-features"" (#292712)
+
+Revert ""Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /extensions/css-l…""
+
+This reverts ",2026-02-04T01:29:07Z,f4ce567e,2026-02-04T11:32:34.592985,1
+rzhao271,f0a58da7a97bba06528983237866949a1d4bf25b,https://github.com/microsoft/vscode/commit/f0a58da7a97bba06528983237866949a1d4bf25b,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,3,"Revert ""Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /extensions/html-language-features"" (#292714)
+
+Revert ""Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /extensions/html-…""
+
+This reverts",2026-02-04T01:12:53Z,f0a58da7,2026-02-04T11:32:34.592989,1
+rzhao271,02df3fbaa3c9c0203dd186de7847b339823b170b,https://github.com/microsoft/vscode/commit/02df3fbaa3c9c0203dd186de7847b339823b170b,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,4,"Revert ""Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /extensions/json-language-features"" (#292713)
+
+Revert ""Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /extensions/json-…""
+
+This reverts",2026-02-04T01:12:32Z,02df3fba,2026-02-04T11:32:34.592994,1
+dmitrivMS,d158e4e0cf1ea3c93b984f1b7096f3ae282f0d53,https://github.com/microsoft/vscode/commit/d158e4e0cf1ea3c93b984f1b7096f3ae282f0d53,Dmitriy Vasyura,dmitriv@microsoft.com,5,"Update status bar item with hovers (#292136)
+
+* Update status bar item with hovers
+
+* PR feedback, revert test change
+
+* Added setting to control update status bar visibility
+
+* Rename 'onAction' to '",2026-02-04T00:50:05Z,d158e4e0,2026-02-04T11:32:34.592996,1
+justschen,ce9651315fabcd915c9c641c14774d96fd197909,https://github.com/microsoft/vscode/commit/ce9651315fabcd915c9c641c14774d96fd197909,Justin Chen,54879025+justschen@users.noreply.github.com,6,"fix selection, accessibility, and keyboard bug (#292709)",2026-02-04T00:07:08Z,ce965131,2026-02-04T11:32:34.592999,1
+roblourens,68e1b20ce90dedaf48054b721dbe4b630ff6e143,https://github.com/microsoft/vscode/commit/68e1b20ce90dedaf48054b721dbe4b630ff6e143,Rob Lourens,roblourens@gmail.com,7,"Fix quick chat layout (#292705)
+
+* Fix quick chat layout
+Fix #292545
+
+* Simplify",2026-02-03T23:35:26Z,68e1b20c,2026-02-04T11:32:34.593001,1
+mjbvz,dba5f797703524089dbfc8489e0b3f90ed5ec3b6,https://github.com/microsoft/vscode/commit/dba5f797703524089dbfc8489e0b3f90ed5ec3b6,Matt Bierner,12821956+mjbvz@users.noreply.github.com,8,"Merge pull request #292704 from mjbvz/dev/mjbvz/isolated-quokka
+
+Switch to standard import in build file",2026-02-03T23:24:25Z,dba5f797,2026-02-04T11:32:34.593002,1
+sandy081,eeed26e53b4101521b1de55e3c49316aabf7e072,https://github.com/microsoft/vscode/commit/eeed26e53b4101521b1de55e3c49316aabf7e072,Sandeep Somavarapu,sasomava@microsoft.com,9,"fix uninstalling deprecated extensions in all profiles (#292694)
+
+* fix uninstalling deprecated extensions in all profiles
+
+* fix tests",2026-02-03T23:20:23Z,eeed26e5,2026-02-04T11:32:34.593004,1
+mjbvz,2c03cf9542e0ab391548130efba24a4c700b37d7,https://github.com/microsoft/vscode/commit/2c03cf9542e0ab391548130efba24a4c700b37d7,Matt Bierner,12821956+mjbvz@users.noreply.github.com,10,"Merge pull request #292461 from microsoft/dev/mjbvz/ext-ts-go
+
+Use ts-go for building our extensions",2026-02-03T22:58:55Z,2c03cf95,2026-02-04T11:32:34.593006,1
+connor4312,4f19550a0a41078f079a92121a875f5ad5d9417d,https://github.com/microsoft/vscode/commit/4f19550a0a41078f079a92121a875f5ad5d9417d,Connor Peet,connor@peet.io,11,"Merge pull request #292667 from microsoft/connor4312/292174
+
+sessions: prevent transferring a disposed editing session",2026-02-03T22:55:19Z,4f19550a,2026-02-04T11:32:34.593008,1
+lramos15,e2e8686a96f20da42e1a784aaf5e2ad6b1467918,https://github.com/microsoft/vscode/commit/e2e8686a96f20da42e1a784aaf5e2ad6b1467918,Logan Ramos,lramos15@gmail.com,12,"Fix double focus (#292691)
+
+Fix double hover",2026-02-03T22:50:44Z,e2e8686a,2026-02-04T11:32:34.593010,1
+deepak1556,d0e516655abf23ff2b568492c8e8300a51fe968f,https://github.com/microsoft/vscode/commit/d0e516655abf23ff2b568492c8e8300a51fe968f,Robo,hop2deep@gmail.com,13,"fix: rename product executable on macOS (#291948)
+
+* fix: rename product executable name on macOS
+
+* chore: update test/automation/src/electron.ts
+
+Co-authored-by: Copilot <175728472+Copilot@users.nor",2026-02-03T22:50:21Z,d0e51665,2026-02-04T11:32:34.593012,1
+mjbvz,a80927010bdb939fdfaa5430b9e06be88a2dbf8a,https://github.com/microsoft/vscode/commit/a80927010bdb939fdfaa5430b9e06be88a2dbf8a,Matt Bierner,12821956+mjbvz@users.noreply.github.com,14,"Switch to standard import in build file
+
+Weird destructing artifact from js -> ts rewrite was messing up references",2026-02-03T22:44:24Z,a8092701,2026-02-04T11:32:34.593014,1
+Copilot,1296bc99478a6cb9ab29bf1e63a05351f3d85f05,https://github.com/microsoft/vscode/commit/1296bc99478a6cb9ab29bf1e63a05351f3d85f05,Copilot,198982749+Copilot@users.noreply.github.com,15,"Gate Simple Browser ""Add element to chat"" overlay on AI feature settings with immediate toggling (#292679)
+
+* Initial plan
+
+* Add ChatContextKeys.enabled check to Simple Browser overlay
+
+- Import Chat",2026-02-03T22:19:42Z,1296bc99,2026-02-04T11:32:34.593016,1
+anthonykim1,a7f6a57c18a41555b5cd153e7de4f11e3742f973,https://github.com/microsoft/vscode/commit/a7f6a57c18a41555b5cd153e7de4f11e3742f973,Anthony Kim,62267334+anthonykim1@users.noreply.github.com,16,"Update distro (#292681)
+
+Update distro for env extension taskExecution",2026-02-03T21:45:48Z,a7f6a57c,2026-02-04T11:32:34.593018,1
+meganrogge,80e6a921e8bfbb9da36bd2f934474935bf249dba,https://github.com/microsoft/vscode/commit/80e6a921e8bfbb9da36bd2f934474935bf249dba,Megan Rogge,merogge@microsoft.com,17,"add aria label for todo clear button, fix a11y smoketest violation (#292671)
+
+fixes #292665",2026-02-03T21:10:06Z,80e6a921,2026-02-04T11:32:34.593020,1
+osortega,74859618a1f5e87e9264d0bf608167504dd54f75,https://github.com/microsoft/vscode/commit/74859618a1f5e87e9264d0bf608167504dd54f75,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,18,"Merge pull request #292568 from microsoft/osortega/inner-squid
+
+Fix for agent sessions welcome close telemetry",2026-02-03T21:07:52Z,74859618,2026-02-04T11:32:34.593022,1
+connor4312,878ef9c524ed7e7e93da8d546d3241f357577ef2,https://github.com/microsoft/vscode/commit/878ef9c524ed7e7e93da8d546d3241f357577ef2,Connor Peet,copeet@microsoft.com,19,"chat: initial rough draft of request queuing (#292619)
+
+* chat: initial wip on request queuing
+
+* make it work reasonably",2026-02-03T21:01:29Z,878ef9c5,2026-02-04T11:32:34.593023,1
+mjbvz,236d448b6ad0ce73883f72a5df35e9c09553cf71,https://github.com/microsoft/vscode/commit/236d448b6ad0ce73883f72a5df35e9c09553cf71,Matt Bierner,12821956+mjbvz@users.noreply.github.com,20,"Merge pull request #292635 from mjbvz/dev/mjbvz/light-lamprey
+
+Remove default formatter workspace setting for js/ts",2026-02-03T21:00:33Z,236d448b,2026-02-04T11:32:34.593025,1
+dependabot[bot],b9e4c0b6f30ac37e81ab8c96bba1cd9cee27cd33,https://github.com/microsoft/vscode/commit/b9e4c0b6f30ac37e81ab8c96bba1cd9cee27cd33,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,21,"Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /extensions/html-language-features (#292656)
+
+Bump @isaacs/brace-expansion in /extensions/html-language-features
+
+Bumps @isaacs/brace-expansion from",2026-02-03T20:22:19Z,b9e4c0b6,2026-02-04T11:32:34.593027,1
+dependabot[bot],24ece11e9f101a9cc2142154ea1aaeaa97219c6c,https://github.com/microsoft/vscode/commit/24ece11e9f101a9cc2142154ea1aaeaa97219c6c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,22,"Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /extensions/json-language-features (#292651)
+
+Bump @isaacs/brace-expansion in /extensions/json-language-features
+
+Bumps @isaacs/brace-expansion from",2026-02-03T20:21:46Z,24ece11e,2026-02-04T11:32:34.593029,1
+connor4312,1cf32393624c61b48d6446a946ca8e71490622b0,https://github.com/microsoft/vscode/commit/1cf32393624c61b48d6446a946ca8e71490622b0,Connor Peet,connor@peet.io,23,"sessions: prevent transferring a disposed editing session
+
+Since https://github.com/microsoft/vscode/commit/ebaa450e15ddf03d2350a7264a3e931dce0eeb4b the following sequence can happen:
+
+0. User trigger",2026-02-03T20:08:20Z,1cf32393,2026-02-04T11:32:34.593031,1
+dependabot[bot],371cab2e9fbe02e8943f0d8d4eb0d01e71eaa6cc,https://github.com/microsoft/vscode/commit/371cab2e9fbe02e8943f0d8d4eb0d01e71eaa6cc,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,24,"Bump @isaacs/brace-expansion from 5.0.0 to 5.0.1 in /extensions/css-language-features (#292649)
+
+Bump @isaacs/brace-expansion in /extensions/css-language-features
+
+Bumps @isaacs/brace-expansion from 5",2026-02-03T20:11:05Z,371cab2e,2026-02-04T11:32:34.593033,1
+mjbvz,bc109e54db1f1c120adedc723289cd1ea902e536,https://github.com/microsoft/vscode/commit/bc109e54db1f1c120adedc723289cd1ea902e536,Matt Bierner,12821956+mjbvz@users.noreply.github.com,25,"Merge pull request #292646 from mjbvz/dev/mjbvz/junior-hedgehog
+
+Don't return providers in `IChatSessionsService` methods",2026-02-03T19:55:26Z,bc109e54,2026-02-04T11:32:34.593035,1
+mjbvz,d8e3c0dfd105e9d7a7c3760476bf38c4e6147b0b,https://github.com/microsoft/vscode/commit/d8e3c0dfd105e9d7a7c3760476bf38c4e6147b0b,Matt Bierner,12821956+mjbvz@users.noreply.github.com,26,"Merge pull request #292638 from mjbvz/dev/mjbvz/embarrassing-monkey
+
+Update monaco to target lib es2024",2026-02-03T19:43:46Z,d8e3c0df,2026-02-04T11:32:34.593037,1
+mjbvz,8a88f5e295d882f2e8db4b35d93843572bf69997,https://github.com/microsoft/vscode/commit/8a88f5e295d882f2e8db4b35d93843572bf69997,Matt Bierner,12821956+mjbvz@users.noreply.github.com,27,"Merge pull request #292642 from mjbvz/dev/mjbvz/fancy-badger
+
+Remove `notifySessionItemsChanged`",2026-02-03T19:43:21Z,8a88f5e2,2026-02-04T11:32:34.593039,1
+mjbvz,23bc47dbab2e15026de8f7698efbfb1e9b2a42cf,https://github.com/microsoft/vscode/commit/23bc47dbab2e15026de8f7698efbfb1e9b2a42cf,Matt Bierner,12821956+mjbvz@users.noreply.github.com,28,"Don't return providers in IChatSessionsService
+
+Further trying to clean up interface so that `IChatSessionsService` consumers don't know about providers directly",2026-02-03T19:28:59Z,23bc47db,2026-02-04T11:32:34.593040,1
+Copilot,e88024b4a376e7c0785043a785102ee4702a5d3b,https://github.com/microsoft/vscode/commit/e88024b4a376e7c0785043a785102ee4702a5d3b,Copilot,198982749+Copilot@users.noreply.github.com,29,"Fix model name overflow in chat footer with ellipsis (#292616)
+
+* Initial plan
+
+* Add text-overflow ellipsis to chat footer details
+
+Co-authored-by: lramos15 <4544166+lramos15@users.noreply.github.com",2026-02-03T19:24:28Z,e88024b4,2026-02-04T11:32:34.593042,1
+mjbvz,c6c320ff646d860226e5ac506066c2c683423de7,https://github.com/microsoft/vscode/commit/c6c320ff646d860226e5ac506066c2c683423de7,Matt Bierner,12821956+mjbvz@users.noreply.github.com,30,"Remove `notifySessionItemsChanged`
+
+afaik `notifySessionItemsChanged` is only used in tests and the tests it is used in seem to be testing `notifySessionItemsChanged` 🙃",2026-02-03T19:23:17Z,c6c320ff,2026-02-04T11:32:34.593044,1
+mjbvz,c2fdbaa74e377ac0191fd40eb2327ba9d583be06,https://github.com/microsoft/vscode/commit/c2fdbaa74e377ac0191fd40eb2327ba9d583be06,Matt Bierner,12821956+mjbvz@users.noreply.github.com,31,"Merge pull request #292626 from mjbvz/dev/mjbvz/consistent-scallop
+
+Reduce exposure of `IChatSessionItemProvider`",2026-02-03T19:21:46Z,c2fdbaa7,2026-02-04T11:32:34.593046,1
+mjbvz,89e6741fdbb863963790dded1291f7c2a8bc9a9b,https://github.com/microsoft/vscode/commit/89e6741fdbb863963790dded1291f7c2a8bc9a9b,Matt Bierner,12821956+mjbvz@users.noreply.github.com,32,"Update monaco to target lib es2024
+
+Follow up on #271145
+
+This aligns monaco with our main tsconfig target. Tries adopting `findLastIndex` to verify",2026-02-03T19:11:15Z,89e6741f,2026-02-04T11:32:34.593048,1
+mjbvz,d3bcb12f2fac1cbfb4a1321d030896edab9f3ef6,https://github.com/microsoft/vscode/commit/d3bcb12f2fac1cbfb4a1321d030896edab9f3ef6,Matt Bierner,12821956+mjbvz@users.noreply.github.com,33,"Merge pull request #292604 from microsoft/dev/mjbvz/solar-whippet
+
+Use better uri checking for webview resource roots",2026-02-03T19:08:16Z,d3bcb12f,2026-02-04T11:32:34.593050,1
+meganrogge,2f87e3fa5d0bafa23ef702826d8d34d51d9e0057,https://github.com/microsoft/vscode/commit/2f87e3fa5d0bafa23ef702826d8d34d51d9e0057,Megan Rogge,merogge@microsoft.com,34,"add chat response tests, discover and fix a11y issues (#286622)",2026-02-03T19:06:14Z,2f87e3fa,2026-02-04T11:32:34.593052,1
+mjbvz,cf4611570bf9ac416ffabcffd54efd92329d0d56,https://github.com/microsoft/vscode/commit/cf4611570bf9ac416ffabcffd54efd92329d0d56,Matt Bierner,12821956+mjbvz@users.noreply.github.com,35,"Remove default formatter workspace setting for js/ts
+
+This is needed so that we can switch between the ts6 and ts-go without having to change any settings. Longer term the plan is to make ts-go reuse ",2026-02-03T19:05:24Z,cf461157,2026-02-04T11:32:34.593054,1
+mjbvz,5a76a426cd775c74bbb1b75f87f4a8f9969b398d,https://github.com/microsoft/vscode/commit/5a76a426cd775c74bbb1b75f87f4a8f9969b398d,Matt Bierner,12821956+mjbvz@users.noreply.github.com,36,Merge branch 'main' into dev/mjbvz/ext-ts-go,2026-02-03T19:02:05Z,5a76a426,2026-02-04T11:32:34.593055,1
+kycutler,1d64e1e1d05c888a2b3d52f8aa15034be1444e93,https://github.com/microsoft/vscode/commit/1d64e1e1d05c888a2b3d52f8aa15034be1444e93,Kyle Cutler,67761731+kycutler@users.noreply.github.com,37,Browser: clean up command visibility (#292627),2026-02-03T18:48:29Z,1d64e1e1,2026-02-04T11:32:34.593057,1
+mjbvz,19f4d8d2efaecee244268ec181790b533deba9c4,https://github.com/microsoft/vscode/commit/19f4d8d2efaecee244268ec181790b533deba9c4,Matt Bierner,12821956+mjbvz@users.noreply.github.com,38,Update MockChatSessionsService too,2026-02-03T18:32:54Z,19f4d8d2,2026-02-04T11:32:34.593060,1
+Copilot,c22332206d03626fc971fd30cb37ecf8a758528b,https://github.com/microsoft/vscode/commit/c22332206d03626fc971fd30cb37ecf8a758528b,Copilot,198982749+Copilot@users.noreply.github.com,39,"fix: hardcode commonly used settings (#291987)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: rzhao271 <7199958+rzhao271@users.noreply.github.com>",2026-02-03T18:20:30Z,c2233220,2026-02-04T11:32:34.593062,1
+mjbvz,9eee3da0a0b4ef46893785a2dd1c4aed355d241f,https://github.com/microsoft/vscode/commit/9eee3da0a0b4ef46893785a2dd1c4aed355d241f,Matt Bierner,12821956+mjbvz@users.noreply.github.com,40,"Reduce exposure of `IChatSessionItemProvider`
+
+We don't want consumers using this type",2026-02-03T18:18:56Z,9eee3da0,2026-02-04T11:32:34.593064,1
+deepak1556,d797bd8de4623fb9c80a9dfd6eae63271be99780,https://github.com/microsoft/vscode/commit/d797bd8de4623fb9c80a9dfd6eae63271be99780,Robo,hop2deep@gmail.com,41,fix: always remove the old context menu entries on win11 (#291574),2026-02-03T18:17:56Z,d797bd8d,2026-02-04T11:32:34.593066,1
+kycutler,39dd5b5b5b5e47b486765aef48d8aef94aa0a11c,https://github.com/microsoft/vscode/commit/39dd5b5b5b5e47b486765aef48d8aef94aa0a11c,Kyle Cutler,67761731+kycutler@users.noreply.github.com,42,Browser: allow (limited) popups in new windows (#292610),2026-02-03T18:11:58Z,39dd5b5b,2026-02-04T11:32:34.593068,1
+rzhao271,437f57ae6ba6b7bdcaaa6a8fed5c693649b53e88,https://github.com/microsoft/vscode/commit/437f57ae6ba6b7bdcaaa6a8fed5c693649b53e88,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,43,Bump distro (#292608),2026-02-03T18:01:19Z,437f57ae,2026-02-04T11:32:34.593069,1
+lramos15,7ee9b1bc87776644eaa15e2379223bf6e2fa6085,https://github.com/microsoft/vscode/commit/7ee9b1bc87776644eaa15e2379223bf6e2fa6085,Logan Ramos,lramos15@gmail.com,44,Hide chat context widget in compact mode (#292605),2026-02-03T17:51:47Z,7ee9b1bc,2026-02-04T11:32:34.593071,1
+mjbvz,7d0bf5f5dc3b367dd3bf6ccdce143ce9f617bba0,https://github.com/microsoft/vscode/commit/7d0bf5f5dc3b367dd3bf6ccdce143ce9f617bba0,Matt Bierner,12821956+mjbvz@users.noreply.github.com,45,Restore unc handling,2026-02-03T17:46:57Z,7d0bf5f5,2026-02-04T11:32:34.593074,1
+mjbvz,b460c3280b26c3a47d814a3302948ee479715c3b,https://github.com/microsoft/vscode/commit/b460c3280b26c3a47d814a3302948ee479715c3b,Matt Bierner,12821956+mjbvz@users.noreply.github.com,46,Better check,2026-02-03T17:39:37Z,b460c328,2026-02-04T11:32:34.593076,1
+mjbvz,8e2c1ac873d139fb94f1063f07a7622294d85164,https://github.com/microsoft/vscode/commit/8e2c1ac873d139fb94f1063f07a7622294d85164,Matt Bierner,12821956+mjbvz@users.noreply.github.com,47,"Use better uri checking for webview resource roots
+
+Fixes #286373",2026-02-03T17:25:53Z,8e2c1ac8,2026-02-04T11:32:34.593078,1
+osortega,69e53bd021fdc4351e02c5c5a5b029bf934c193b,https://github.com/microsoft/vscode/commit/69e53bd021fdc4351e02c5c5a5b029bf934c193b,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,48,Sync all agent sessions filters (#291887),2026-02-03T17:17:47Z,69e53bd0,2026-02-04T11:32:34.593080,1
+bpasero,1adb77d0f4dbadb1077087395d4bf917cd0359cf,https://github.com/microsoft/vscode/commit/1adb77d0f4dbadb1077087395d4bf917cd0359cf,Benjamin Pasero,benjamin.pasero@gmail.com,49,can send a chat message with anonymous access (fix #292582) (#292593),2026-02-03T17:04:40Z,1adb77d0,2026-02-04T11:32:34.593082,1
+mrleemurray,1ca3a1c1e5e8f1b015d5e76dde7b5eaac0e84a57,https://github.com/microsoft/vscode/commit/1ca3a1c1e5e8f1b015d5e76dde7b5eaac0e84a57,Lee Murray,lemurra@microsoft.com,50,"Merge pull request #292592 from microsoft/mrleemurray/outside-plum-bovid
+
+Add markup token colors for dark and light themes",2026-02-03T17:02:46Z,1ca3a1c1,2026-02-04T11:32:34.593083,1
+lramos15,069239cc3a0991d828caeb9b5a22e093d04a6afe,https://github.com/microsoft/vscode/commit/069239cc3a0991d828caeb9b5a22e093d04a6afe,Logan Ramos,lramos15@gmail.com,51,Qualified name -> Model + id (#292378),2026-02-03T16:50:10Z,069239cc,2026-02-04T11:32:34.593085,1
+mrleemurray,09ca9fe723b2f12074037b80f8fe77c31ab376d8,https://github.com/microsoft/vscode/commit/09ca9fe723b2f12074037b80f8fe77c31ab376d8,mrleemurray,mrleemurray@users.noreply.github.com,52,feat: add markup token colors for dark and light themes,2026-02-03T16:40:08Z,09ca9fe7,2026-02-04T11:32:34.593087,1
+deepak1556,2bf84bff1b1c82e784972790ac66a6a9e1402d41,https://github.com/microsoft/vscode/commit/2bf84bff1b1c82e784972790ac66a6a9e1402d41,Robo,hop2deep@gmail.com,53,chore: update missing lock file changes (#292584),2026-02-03T16:23:02Z,2bf84bff,2026-02-04T11:32:34.593089,1
+osortega,1dd29ba7025031e90223bc280fbb4c33730a6209,https://github.com/microsoft/vscode/commit/1dd29ba7025031e90223bc280fbb4c33730a6209,Osvaldo Ortega,osortega@microsoft.com,54,Merge branch 'main' of https://github.com/microsoft/vscode into osortega/inner-squid,2026-02-03T16:12:54Z,1dd29ba7,2026-02-04T11:32:34.593090,1
+sandy081,162c14651002b31702472566fbef850f116fe862,https://github.com/microsoft/vscode/commit/162c14651002b31702472566fbef850f116fe862,Sandeep Somavarapu,sasomava@microsoft.com,55,push copilot extension to the end (#292570),2026-02-03T15:01:46Z,162c1465,2026-02-04T11:32:34.593092,1
+bpasero,159ca554bf6e836515e1c1c05f80ef26a9fcc460,https://github.com/microsoft/vscode/commit/159ca554bf6e836515e1c1c05f80ef26a9fcc460,Benjamin Pasero,benjamin.pasero@gmail.com,56,smoke - make chat anonymous test less flaky (#292569),2026-02-03T14:57:22Z,159ca554,2026-02-04T11:32:34.593094,1
+osortega,b044431295d7d1a5a8369c8bb3097c487f615c28,https://github.com/microsoft/vscode/commit/b044431295d7d1a5a8369c8bb3097c487f615c28,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,57,"Merge pull request #292280 from microsoft/copilot/fix-search-with-ai-error
+
+Fix undefined folder query handling in AI and text search",2026-02-03T14:55:33Z,b0444312,2026-02-04T11:32:34.593096,1
+osortega,a699605e3bbc43929ef1f3bc5c8b5a9c5fea3874,https://github.com/microsoft/vscode/commit/a699605e3bbc43929ef1f3bc5c8b5a9c5fea3874,Osvaldo Ortega,osortega@microsoft.com,58,Fix for agent sessions welcome close telemetry,2026-02-03T14:35:42Z,a699605e,2026-02-04T11:32:34.593097,1
+sandy081,04b845c1bf71cb185d45d7a32a14daa2489028c8,https://github.com/microsoft/vscode/commit/04b845c1bf71cb185d45d7a32a14daa2489028c8,Sandeep Somavarapu,sasomava@microsoft.com,59,deprecate github.copilot extension (#292498),2026-02-03T14:26:53Z,04b845c1,2026-02-04T11:32:34.593100,1
+erezak,927b695f77ed5a36e5dcf7a7930e397c598b9731,https://github.com/microsoft/vscode/commit/927b695f77ed5a36e5dcf7a7930e397c598b9731,Erez Korn,erakorn@outlook.com,60,"Restore Unified Quick Access Prefix Switching (#292203)
+
+* Restore Unified Quick Access Prefix Switching
+
+Reinstate > and < prefix handling in Unified Quick Access to switch between Commands and Sessi",2026-02-03T14:25:39Z,927b695f,2026-02-04T11:32:34.593102,1
+Tyriar,73a4f3a72df3e15b51fb1c008eb9528c6f19511d,https://github.com/microsoft/vscode/commit/73a4f3a72df3e15b51fb1c008eb9528c6f19511d,Daniel Imms,2193314+Tyriar@users.noreply.github.com,61,"Merge pull request #292381 from microsoft/tyriar/240
+
+Clean up unused activation variables",2026-02-03T13:50:46Z,73a4f3a7,2026-02-04T11:32:34.593104,1
+osortega,6f8a6db420a5c02999056c3cd3bdeb7feb5a45e0,https://github.com/microsoft/vscode/commit/6f8a6db420a5c02999056c3cd3bdeb7feb5a45e0,Osvaldo Ortega,osortega@microsoft.com,62,Revert test,2026-02-03T13:35:56Z,6f8a6db4,2026-02-04T11:32:34.593106,1
+osortega,095ca20d86ef0991f50d892cc4a70429f27fe384,https://github.com/microsoft/vscode/commit/095ca20d86ef0991f50d892cc4a70429f27fe384,Osvaldo Ortega,osortega@microsoft.com,63,Test update,2026-02-03T13:34:55Z,095ca20d,2026-02-04T11:32:34.593107,1
+bpasero,a182381e6c37712ef35a1a5f47ff9cb3600a21af,https://github.com/microsoft/vscode/commit/a182381e6c37712ef35a1a5f47ff9cb3600a21af,Benjamin Pasero,benjamin.pasero@gmail.com,64,Merge branch 'main' into tyriar/240,2026-02-03T13:28:30Z,a182381e,2026-02-04T11:32:34.593109,1
+osortega,7f12d1e5e671d4b1fc108ab0dea56ad7fc36b4a5,https://github.com/microsoft/vscode/commit/7f12d1e5e671d4b1fc108ab0dea56ad7fc36b4a5,Osvaldo Ortega,osortega@microsoft.com,65,Correct fix,2026-02-03T13:21:28Z,7f12d1e5,2026-02-04T11:32:34.593111,1
+alexr00,228669b74890492eb3f71889d30657267fc00b78,https://github.com/microsoft/vscode/commit/228669b74890492eb3f71889d30657267fc00b78,Alex Ross,38270282+alexr00@users.noreply.github.com,66,Missing load of metadata (#292534),2026-02-03T11:30:03Z,228669b7,2026-02-04T11:32:34.593113,1
+alexr00,f2c8acb6cd20ba8707b3b2348dbca6bcc68540c0,https://github.com/microsoft/vscode/commit/f2c8acb6cd20ba8707b3b2348dbca6bcc68540c0,Alex Ross,38270282+alexr00@users.noreply.github.com,67,Use safe stringify for agent session cache (#292537),2026-02-03T11:29:41Z,f2c8acb6,2026-02-04T11:32:34.593115,1
+aeschli,66cc770214201a3874ab10efd1e5161de756e165,https://github.com/microsoft/vscode/commit/66cc770214201a3874ab10efd1e5161de756e165,Martin Aeschlimann,martinae@microsoft.com,68,"runSubagent tool does not find agents that are not userInvokable (#292535)
+
+* runSubagent tool does not find agents that are not userInvokable
+
+* Subagent model selection uses last matching model inst",2026-02-03T11:20:01Z,66cc7702,2026-02-04T11:32:34.593118,1
+osortega,fe6c3e9af68ec3e966025a55abc05b0af1b946f9,https://github.com/microsoft/vscode/commit/fe6c3e9af68ec3e966025a55abc05b0af1b946f9,Osvaldo Ortega,osortega@microsoft.com,69,Actual fix,2026-02-03T11:00:10Z,fe6c3e9a,2026-02-04T11:32:34.593119,1
+bpasero,c7f71097f127c68ab2add59efc9f8c7f26848750,https://github.com/microsoft/vscode/commit/c7f71097f127c68ab2add59efc9f8c7f26848750,Benjamin Pasero,benjamin.pasero@gmail.com,70,agent sessions - show flat list of unread sessions when filter is enabled (#292520),2026-02-03T10:37:00Z,c7f71097,2026-02-04T11:32:34.593121,1
+alexr00,ee6f04619fa75b906b7be37bf934a43207dfdbfd,https://github.com/microsoft/vscode/commit/ee6f04619fa75b906b7be37bf934a43207dfdbfd,Alex Ross,38270282+alexr00@users.noreply.github.com,71,"Pass metadata to agent session commands (#291554)
+
+* Pass metadata to agent session commands
+
+* Pass as second arg
+
+* Add metadat to cached session model
+
+* Check that the metadata is json stringifiab",2026-02-03T08:46:11Z,ee6f0461,2026-02-04T11:32:34.593123,1
+TylerLeonhardt,c8d90ab45fd1612379bbdf2208f042a4d4e58ed3,https://github.com/microsoft/vscode/commit/c8d90ab45fd1612379bbdf2208f042a4d4e58ed3,Tyler James Leonhardt,2644648+TylerLeonhardt@users.noreply.github.com,72,Get rid of dependency on playwright-mcp (#292432),2026-02-03T07:16:17Z,c8d90ab4,2026-02-04T11:32:34.593125,1
+deepak1556,2c2c45a9b55ca198623130455f29127a87308bff,https://github.com/microsoft/vscode/commit/2c2c45a9b55ca198623130455f29127a87308bff,Robo,hop2deep@gmail.com,73,ci: skip server codesign for universal (#292475),2026-02-03T07:03:21Z,2c2c45a9,2026-02-04T11:32:34.593126,1
+mjbvz,9e3e80595036c56c449517dce6926428f767ae1a,https://github.com/microsoft/vscode/commit/9e3e80595036c56c449517dce6926428f767ae1a,Matt Bierner,12821956+mjbvz@users.noreply.github.com,74,Fix for windows,2026-02-03T06:42:48Z,9e3e8059,2026-02-04T11:32:34.593128,1
+mjbvz,1b46833855a89a34213a1c48e748293f429240bd,https://github.com/microsoft/vscode/commit/1b46833855a89a34213a1c48e748293f429240bd,Matt Bierner,12821956+mjbvz@users.noreply.github.com,75,Use npx,2026-02-03T06:38:29Z,1b468338,2026-02-04T11:32:34.593130,1
+bpasero,8d864503e1d96ad37e2c4b001b330a75b03261cb,https://github.com/microsoft/vscode/commit/8d864503e1d96ad37e2c4b001b330a75b03261cb,Benjamin Pasero,benjamin.pasero@gmail.com,76,Agent session list collapsed automatically without interaction (fix #291701) (#292472),2026-02-03T06:07:33Z,8d864503,2026-02-04T11:32:34.593132,1
+DonJayamanne,df57568c748fb93a4c588e9a5012654107afa0c7,https://github.com/microsoft/vscode/commit/df57568c748fb93a4c588e9a5012654107afa0c7,Don Jayamanne,don.jayamanne@outlook.com,77,"Support rendering serialized todo information from background agents (#292212)
+
+* Support rendering serialized todo information from background agents
+
+* Update src/vs/workbench/contrib/chat/browser/w",2026-02-03T05:57:06Z,df57568c,2026-02-04T11:32:34.593134,1
+zhichli,bb8a476f913bb748eeebded3c29bbbf46997090f,https://github.com/microsoft/vscode/commit/bb8a476f913bb748eeebded3c29bbbf46997090f,Zhichao Li,57812115+zhichli@users.noreply.github.com,78,"Merge pull request #292431 from microsoft/copilot/remove-subagent-fallback
+
+Remove hardcoded subagent name fallback from request construction",2026-02-03T05:42:25Z,bb8a476f,2026-02-04T11:32:34.593137,1
+roblourens,079eb4e3cf5e489d0118662040e8cd911674aa05,https://github.com/microsoft/vscode/commit/079eb4e3cf5e489d0118662040e8cd911674aa05,Rob Lourens,roblourens@gmail.com,79,Add parentRequestId for telemetry (#292463),2026-02-03T05:18:51Z,079eb4e3,2026-02-04T11:32:34.593139,1
+meganrogge,53d28894f50ad3594697dcd9263d0d62594d3233,https://github.com/microsoft/vscode/commit/53d28894f50ad3594697dcd9263d0d62594d3233,Megan Rogge,merogge@microsoft.com,80,"ensure stop button comes back (#292366)
+
+fixes #283328",2026-02-03T05:04:37Z,53d28894,2026-02-04T11:32:34.593140,1
+justschen,64e5e9cdcd526d180b85d9de4d91f314d67e5296,https://github.com/microsoft/vscode/commit/64e5e9cdcd526d180b85d9de4d91f314d67e5296,Justin Chen,54879025+justschen@users.noreply.github.com,81,"skip question carousel when stopped, fix esc (#292459)",2026-02-03T05:00:13Z,64e5e9cd,2026-02-04T11:32:34.593142,1
+mjbvz,cca17c1b7fcad5d82ae2d97aed64ff6704ba06ca,https://github.com/microsoft/vscode/commit/cca17c1b7fcad5d82ae2d97aed64ff6704ba06ca,Matt Bierner,12821956+mjbvz@users.noreply.github.com,82,"Use ts-go for building our extensions
+
+Also reverts to use experimental decorators due to stage 3 decorators not being supported yet https://github.com/microsoft/typescript-go/issues/2354
+
+The skipLib",2026-02-03T04:02:55Z,cca17c1b,2026-02-04T11:32:34.593144,1
+justschen,4166e90ac290db7f77800a4f6702903ea4eed476,https://github.com/microsoft/vscode/commit/4166e90ac290db7f77800a4f6702903ea4eed476,Justin Chen,54879025+justschen@users.noreply.github.com,83,"fix working spinner jump (#292450)
+
+* fix working spinner jump
+
+* oopises",2026-02-03T03:40:19Z,4166e90a,2026-02-04T11:32:34.593146,1
+zhichli,c401cada84d80184d53cfd20cc68bae2a5506c17,https://github.com/microsoft/vscode/commit/c401cada84d80184d53cfd20cc68bae2a5506c17,Zhichao Li,57812115+zhichli@users.noreply.github.com,84,Merge branch 'main' into copilot/remove-subagent-fallback,2026-02-03T03:08:32Z,c401cada,2026-02-04T11:32:34.593148,1
+dmitrivMS,8343acba0b32af86e9e1ef6699792e5b2a2f9ad3,https://github.com/microsoft/vscode/commit/8343acba0b32af86e9e1ef6699792e5b2a2f9ad3,Dmitriy Vasyura,dmitriv@microsoft.com,85,Match macOS server entitlements to those used in client builds (#292442),2026-02-03T03:04:42Z,8343acba,2026-02-04T11:32:34.593149,1
+zhichli,84fa8f6fd8b729eed25a85fe42666ee0ad86538c,https://github.com/microsoft/vscode/commit/84fa8f6fd8b729eed25a85fe42666ee0ad86538c,Zhichao Li,57812115+zhichli@users.noreply.github.com,86,Merge branch 'main' into copilot/remove-subagent-fallback,2026-02-03T02:53:47Z,84fa8f6f,2026-02-04T11:32:34.593151,1
+justschen,fd9aeb781cfb30c420802b253681228dd9c40733,https://github.com/microsoft/vscode/commit/fd9aeb781cfb30c420802b253681228dd9c40733,Justin Chen,54879025+justschen@users.noreply.github.com,87,"keyboard improvements to question list (#292429)
+
+* keyboard improvements to question list
+
+* fix test
+
+* address comments",2026-02-03T01:44:03Z,fd9aeb78,2026-02-04T11:32:34.593153,1
+meganrogge,b2f9a674cbe9a75fee34a9f7f20a1c7eb3f6dded,https://github.com/microsoft/vscode/commit/b2f9a674cbe9a75fee34a9f7f20a1c7eb3f6dded,Megan Rogge,merogge@microsoft.com,88,"ensure entire width of terminal output is scrollable (#292408)
+
+fixes #291007",2026-02-03T01:09:47Z,b2f9a674,2026-02-04T11:32:34.593154,1
+Copilot,e9b500b5bcd26d18b03f144f05a9e7342b323a3c,https://github.com/microsoft/vscode/commit/e9b500b5bcd26d18b03f144f05a9e7342b323a3c,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,89,"Remove subagent fallback from runSubagentTool
+
+- Removed `?? 'subagent'` fallback from subAgentName assignment
+- The UI layer (chatSubagentContentPart.ts) already handles undefined agentName with prop",2026-02-03T01:05:45Z,e9b500b5,2026-02-04T11:32:34.593156,1
+pwang347,e6267f1cdb83dfa64daa24825501751f1af6ea0a,https://github.com/microsoft/vscode/commit/e6267f1cdb83dfa64daa24825501751f1af6ea0a,Paul,paul_wang347@hotmail.com,90,Add support for .agents for skills resolution (#292414),2026-02-03T01:02:38Z,e6267f1c,2026-02-04T11:32:34.593158,1
+Copilot,9465c0d4c51ba91050ff3cfdeafc662678813155,https://github.com/microsoft/vscode/commit/9465c0d4c51ba91050ff3cfdeafc662678813155,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,91,Initial plan,2026-02-03T00:53:59Z,9465c0d4,2026-02-04T11:32:34.593160,1
+bpasero,ce590bbcb2c9847deb9a40e159791fb5ffef109a,https://github.com/microsoft/vscode/commit/ce590bbcb2c9847deb9a40e159791fb5ffef109a,Benjamin Pasero,benjamin.pasero@gmail.com,92,chat - just show 1 button in the toast (#292369),2026-02-03T00:19:01Z,ce590bbc,2026-02-04T11:32:34.593161,1
+rebornix,536685340990548a45c3495cc0e8e7ccae6bef20,https://github.com/microsoft/vscode/commit/536685340990548a45c3495cc0e8e7ccae6bef20,Peng Lyu,penn.lv@gmail.com,93,"Support multi window scenarios in vscode mcp server (#289250)
+
+* Add window management tools for multi-window support
+
+* Refactor window management tools to remove title references and simplify respon",2026-02-03T00:11:12Z,53668534,2026-02-04T11:32:34.593163,1
+Tyriar,d6aef2740d91a24d795a373b1160cdf9318a08b6,https://github.com/microsoft/vscode/commit/d6aef2740d91a24d795a373b1160cdf9318a08b6,Daniel Imms,2193314+Tyriar@users.noreply.github.com,94,"Merge pull request #292057 from microsoft/tyriar/291995
+
+Fix run and insert buttons missing in terminal inline chat",2026-02-02T22:24:34Z,d6aef274,2026-02-04T11:32:34.593165,1
+Tyriar,b039da04cb9e4f75dd48803ff1ad3be190e231ac,https://github.com/microsoft/vscode/commit/b039da04cb9e4f75dd48803ff1ad3be190e231ac,Daniel Imms,2193314+Tyriar@users.noreply.github.com,95,Move var removing up one scope,2026-02-02T20:10:57Z,b039da04,2026-02-04T11:32:34.593167,1
+Tyriar,297a8df059cfb4b56f7c33106c62581945b9f88c,https://github.com/microsoft/vscode/commit/297a8df059cfb4b56f7c33106c62581945b9f88c,Daniel Imms,2193314+Tyriar@users.noreply.github.com,96,"Clean up unused activation variables
+
+Fixes #240",2026-02-02T20:09:15Z,297a8df0,2026-02-04T11:32:34.593169,1
+accesswatch,424ef28d9b759ea0f8485cc7e84a81f8b77f8dcc,https://github.com/microsoft/vscode/commit/424ef28d9b759ea0f8485cc7e84a81f8b77f8dcc,Jeff Bishop,jeffbis@arizona.edu,97,"fix: improve QuickInput accessibility for screen readers (#292339)
+
+- Remove redundant role=textbox and static ARIA attributes from QuickInputBox
+- Dynamically set aria-haspopup and aria-autocomplete ",2026-02-02T19:17:05Z,424ef28d,2026-02-04T11:32:34.593171,1
+Copilot,0ad40b2425fcc78686aa4ff8b9d553d73d2175c2,https://github.com/microsoft/vscode/commit/0ad40b2425fcc78686aa4ff8b9d553d73d2175c2,Copilot,198982749+Copilot@users.noreply.github.com,98,Open hidden terminal directly when only one exists instead of showing quick pick (#291885),2026-02-02T19:12:00Z,0ad40b24,2026-02-04T11:32:34.593172,1
+mrleemurray,b28117a8319459aea9f2691905971677d308623c,https://github.com/microsoft/vscode/commit/b28117a8319459aea9f2691905971677d308623c,Lee Murray,lemurra@microsoft.com,99,"Merge pull request #292352 from microsoft/mrleemurray/married-chocolate-parrotfish
+
+Update light and dark theme panel styles",2026-02-02T17:57:30Z,b28117a8,2026-02-04T11:32:34.593174,1
+justschen,10d78a779f99e75f8b5ef33b4223a86e306fa818,https://github.com/microsoft/vscode/commit/10d78a779f99e75f8b5ef33b4223a86e306fa818,Justin Chen,54879025+justschen@users.noreply.github.com,100,fix a few question carousel issues (#292243),2026-02-02T17:52:51Z,10d78a77,2026-02-04T11:32:34.593176,1
+Copilot,a813c76b9e9e74e8018d5e2b2e8bb07aa2f53824,https://github.com/microsoft/vscode/commit/a813c76b9e9e74e8018d5e2b2e8bb07aa2f53824,Copilot,198982749+Copilot@users.noreply.github.com,101,Fix terminal chat entry icon alignment when tabs are narrow (#292349),2026-02-02T17:36:10Z,a813c76b,2026-02-04T11:32:36.761796,2
+bpasero,d1afadebfa25e95eb48d79c5e546e69832a2bed7,https://github.com/microsoft/vscode/commit/d1afadebfa25e95eb48d79c5e546e69832a2bed7,Benjamin Pasero,benjamin.pasero@gmail.com,102,"chat - address some feedback on toast changes (#292347)
+
+* chat - address some feedback on toast changes
+
+* .",2026-02-02T17:35:18Z,d1afadeb,2026-02-04T11:32:36.761818,2
+mrleemurray,3b58e55b5fdb1ea220c3b420721113cbc4498c04,https://github.com/microsoft/vscode/commit/3b58e55b5fdb1ea220c3b420721113cbc4498c04,mrleemurray,mrleemurray@users.noreply.github.com,103,Fix: Update terminal background color in 2026 Dark theme,2026-02-02T17:25:30Z,3b58e55b,2026-02-04T11:32:36.761822,2
+dmitrivMS,0e1c5103cd5ad395c01e0a9e9b29c046f5291ec3,https://github.com/microsoft/vscode/commit/0e1c5103cd5ad395c01e0a9e9b29c046f5291ec3,Dmitriy Vasyura,dmitriv@microsoft.com,104,Remove macOS signing checks exclusions (#291875),2026-02-02T17:24:43Z,0e1c5103,2026-02-04T11:32:36.761826,2
+mrleemurray,aeaf0d9b5dbb5811b4cfabb1b364036d011f506f,https://github.com/microsoft/vscode/commit/aeaf0d9b5dbb5811b4cfabb1b364036d011f506f,mrleemurray,mrleemurray@users.noreply.github.com,105,Fix: Update command center active background color in 2026 Dark theme,2026-02-02T17:23:53Z,aeaf0d9b,2026-02-04T11:32:36.761829,2
+mrleemurray,22624de670c8f3714fdaf2ada425199f68149568,https://github.com/microsoft/vscode/commit/22624de670c8f3714fdaf2ada425199f68149568,mrleemurray,mrleemurray@users.noreply.github.com,106,Fix: Update command center background and border styles in 2026 Light theme,2026-02-02T17:18:19Z,22624de6,2026-02-04T11:32:36.761833,2
+bpasero,1951d880562601ebdb30c0a509d6b7bd37a05f09,https://github.com/microsoft/vscode/commit/1951d880562601ebdb30c0a509d6b7bd37a05f09,Benjamin Pasero,benjamin.pasero@gmail.com,107,Chat Anonymous: can send a chat message with anonymous access (fix #292296) (#292341),2026-02-02T17:14:52Z,1951d880,2026-02-04T11:32:36.761837,2
+mrleemurray,007c641d613126bbb741d94e2245e4813836a61b,https://github.com/microsoft/vscode/commit/007c641d613126bbb741d94e2245e4813836a61b,mrleemurray,mrleemurray@users.noreply.github.com,108,Fix: Update panel and status bar border colors in 2026 Light theme,2026-02-02T17:11:55Z,007c641d,2026-02-04T11:32:36.761840,2
+dileepyavan,01d74202958c4b636a323abd72ba75be581a01d4,https://github.com/microsoft/vscode/commit/01d74202958c4b636a323abd72ba75be581a01d4,dileepyavan,52841896+dileepyavan@users.noreply.github.com,109,"Dileep y/291793 (#292201)
+
+Updating srt paths to work in remote env",2026-02-02T17:05:40Z,01d74202,2026-02-04T11:32:36.761843,2
+mrleemurray,6493db67742e05c22da2140c51055d6ee4d47c5b,https://github.com/microsoft/vscode/commit/6493db67742e05c22da2140c51055d6ee4d47c5b,mrleemurray,mrleemurray@users.noreply.github.com,110,darken light theme panels and reintroduce borders,2026-02-02T16:37:29Z,6493db67,2026-02-04T11:32:36.761847,2
+mrleemurray,238adc8bc607dd294a57e24b37073fbd939aaca9,https://github.com/microsoft/vscode/commit/238adc8bc607dd294a57e24b37073fbd939aaca9,Lee Murray,lemurra@microsoft.com,111,"Merge pull request #292331 from microsoft/mrleemurray/yielding-magenta-ocelot
+
+Mrleemurray/yielding-magenta-ocelot",2026-02-02T15:53:43Z,238adc8b,2026-02-04T11:32:36.761851,2
+mrleemurray,e953059cdc1de21d03ece50c8b719da9fa3433b8,https://github.com/microsoft/vscode/commit/e953059cdc1de21d03ece50c8b719da9fa3433b8,mrleemurray,mrleemurray@users.noreply.github.com,112,fix: adjust font size for tool calls in chat component,2026-02-02T15:28:12Z,e953059c,2026-02-04T11:32:36.761854,2
+mrleemurray,e57c07e5522b9a743f81450d819c10798a66b929,https://github.com/microsoft/vscode/commit/e57c07e5522b9a743f81450d819c10798a66b929,Lee Murray,lemurra@microsoft.com,113,"Merge pull request #292289 from microsoft/mrleemurray/disappointed-salmon-cephalopod
+
+Refactor 2026 theme CSS for improved readability and maintainability",2026-02-02T15:17:36Z,e57c07e5,2026-02-04T11:32:36.761857,2
+dmitrivMS,ed8f9653dadc3029f14bf71917bee5d335c20732,https://github.com/microsoft/vscode/commit/ed8f9653dadc3029f14bf71917bee5d335c20732,Dmitriy Vasyura,dmitriv@microsoft.com,114,Sign macOS server binaries (#291872),2026-02-02T14:53:33Z,ed8f9653,2026-02-04T11:32:36.761861,2
+Copilot,45d5d7cd4cbac333266d749dc2377f44d7d377ad,https://github.com/microsoft/vscode/commit/45d5d7cd4cbac333266d749dc2377f44d7d377ad,Copilot,198982749+Copilot@users.noreply.github.com,115,"Fix: Problems table mode ignoring ""Show Active File Only"" filter (#291860)
+
+* Initial plan
+
+* Fix: Problems table mode not respecting active file filter
+
+When the active file filter is enabled and mar",2026-02-02T14:52:42Z,45d5d7cd,2026-02-04T11:32:36.761864,2
+lramos15,c733d2c421c8e78a8600ef13c596f3203b2d00f3,https://github.com/microsoft/vscode/commit/c733d2c421c8e78a8600ef13c596f3203b2d00f3,Logan Ramos,lramos15@gmail.com,116,Adopt api versioning on chat participant addition (#292318),2026-02-02T14:50:03Z,c733d2c4,2026-02-04T11:32:36.761867,2
+chrmarti,c2fd04dcb4c2575507486b7a512cb6a26ec7e115,https://github.com/microsoft/vscode/commit/c2fd04dcb4c2575507486b7a512cb6a26ec7e115,Christof Marti,chrmarti@microsoft.com,117,Log matching welcome view (#292300),2026-02-02T11:15:55Z,c2fd04dc,2026-02-04T11:32:36.761871,2
+Copilot,cf058dca98e73ab3a51c0bbf17901732db982d14,https://github.com/microsoft/vscode/commit/cf058dca98e73ab3a51c0bbf17901732db982d14,Copilot,198982749+Copilot@users.noreply.github.com,118,"Fix flaky sessionDateFromNow test for today (#292269)
+
+* Initial plan
+
+* Fix flaky sessionDateFromNow test for today
+
+Co-authored-by: bpasero <900690+bpasero@users.noreply.github.com>
+
+---------
+
+Co-a",2026-02-02T14:21:35Z,cf058dca,2026-02-04T11:32:36.761874,2
+alexr00,369d7bf9ba4c9b1ff1b96542cacfcd4521c925cf,https://github.com/microsoft/vscode/commit/369d7bf9ba4c9b1ff1b96542cacfcd4521c925cf,Alex Ross,38270282+alexr00@users.noreply.github.com,119,"Add resourceUri to chat context provider (#292295)
+
+Part of #271104",2026-02-02T14:19:15Z,369d7bf9,2026-02-04T11:32:36.761877,2
+mrleemurray,22d080581f97c2379f1d9cdf713b185f9f155bef,https://github.com/microsoft/vscode/commit/22d080581f97c2379f1d9cdf713b185f9f155bef,Lee Murray,lemurra@microsoft.com,120,"Merge pull request #292291 from microsoft/mrleemurray/parental-crimson-penguin
+
+Update @vscode/codicons version to 0.0.45-5",2026-02-02T14:11:57Z,22d08058,2026-02-04T11:32:36.761880,2
+mrleemurray,ff3a8ab3ac4671c424318cceb1058418e73bfec5,https://github.com/microsoft/vscode/commit/ff3a8ab3ac4671c424318cceb1058418e73bfec5,mrleemurray,mrleemurray@users.noreply.github.com,121,refactor: standardize font sizes for chat components,2026-02-02T12:57:25Z,ff3a8ab3,2026-02-04T11:32:36.761885,2
+mrleemurray,1a4b5b0af1db12eba9d4e3f3fd7ab1d91241f699,https://github.com/microsoft/vscode/commit/1a4b5b0af1db12eba9d4e3f3fd7ab1d91241f699,mrleemurray,mrleemurray@users.noreply.github.com,122,Update @vscode/codicons version to 0.0.45-5 in package.json and package-lock.json,2026-02-02T11:37:08Z,1a4b5b0a,2026-02-04T11:32:36.761888,2
+mrleemurray,90a21e49f9f0e8c5df2d97b9581c193ff5ab995f,https://github.com/microsoft/vscode/commit/90a21e49f9f0e8c5df2d97b9581c193ff5ab995f,mrleemurray,mrleemurray@users.noreply.github.com,123,Refactor 2026 theme CSS for improved readability and maintainability,2026-02-02T11:31:59Z,90a21e49,2026-02-04T11:32:36.761891,2
+bpasero,a5914335df0bf1cae7d818a168ef321def9f8572,https://github.com/microsoft/vscode/commit/a5914335df0bf1cae7d818a168ef321def9f8572,Benjamin Pasero,benjamin.pasero@gmail.com,124,chat - allow to confirm from toast (#292117),2026-02-02T11:20:35Z,a5914335,2026-02-04T11:32:36.761895,2
+joshspicer,b00c464cb6590653aadac9fc5be7313303bab425,https://github.com/microsoft/vscode/commit/b00c464cb6590653aadac9fc5be7313303bab425,Josh Spicer,23246594+joshspicer@users.noreply.github.com,125,"fix agent session projection experiment (#292279)
+
+fix projection experiment",2026-02-02T11:09:27Z,b00c464c,2026-02-04T11:32:36.761897,2
+alexr00,5f1a12acaa5e082060d223a60efa2e3884a1a658,https://github.com/microsoft/vscode/commit/5f1a12acaa5e082060d223a60efa2e3884a1a658,Alex Ross,38270282+alexr00@users.noreply.github.com,126,"Allow commands in chat pull request part (#292281)
+
+Part of #290997",2026-02-02T11:06:45Z,5f1a12ac,2026-02-04T11:32:36.761901,2
+Copilot,8b753e450e822dd40e90a16fe03414c35aa7b37f,https://github.com/microsoft/vscode/commit/8b753e450e822dd40e90a16fe03414c35aa7b37f,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,127,"Add test for undefined folder queries handling
+
+Co-authored-by: osortega <48293249+osortega@users.noreply.github.com>",2026-02-02T10:48:31Z,8b753e45,2026-02-04T11:32:36.761904,2
+osortega,46d46a7a577e6a6d29f78fa46f2274e22d13df2b,https://github.com/microsoft/vscode/commit/46d46a7a577e6a6d29f78fa46f2274e22d13df2b,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,128,"Merge pull request #292169 from microsoft/osortega/giant-basilisk
+
+Adjust auxiliary bar visibility logic based on welcome page",2026-02-02T10:47:51Z,46d46a7a,2026-02-04T11:32:36.761906,2
+osortega,d6ff40d9187f4f0a0d4139211742773111ad6816,https://github.com/microsoft/vscode/commit/d6ff40d9187f4f0a0d4139211742773111ad6816,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,129,"Merge pull request #292160 from microsoft/osortega/certain-duck
+
+Agents welcome view command fixes",2026-02-02T10:47:35Z,d6ff40d9,2026-02-04T11:32:36.761910,2
+Copilot,9d9de3d6bc98229ce61d73c8de3a7b5e9998e44c,https://github.com/microsoft/vscode/commit/9d9de3d6bc98229ce61d73c8de3a7b5e9998e44c,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,130,"Fix: Filter out undefined folder queries in AI and text search
+
+Fixes error ""Cannot read properties of undefined (reading 'folder')"" by
+adding a filter to remove undefined/null folder queries before m",2026-02-02T10:44:55Z,9d9de3d6,2026-02-04T11:32:36.761914,2
+Copilot,ac7bc5c382889b5c4a643e7896af6ce14f87d8f8,https://github.com/microsoft/vscode/commit/ac7bc5c382889b5c4a643e7896af6ce14f87d8f8,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,131,Initial plan,2026-02-02T10:39:34Z,ac7bc5c3,2026-02-04T11:32:36.761916,2
+hediet,620c66a303b645014e921ea2b7d159fc68ff355a,https://github.com/microsoft/vscode/commit/620c66a303b645014e921ea2b7d159fc68ff355a,Henning Dieterichs,hdieterichs@microsoft.com,132,Improves testability (#292271),2026-02-02T10:36:53Z,620c66a3,2026-02-04T11:32:36.761920,2
+joshspicer,d0058619f26007149ce7ca3a90a58e67c35c5d13,https://github.com/microsoft/vscode/commit/d0058619f26007149ce7ca3a90a58e67c35c5d13,Josh Spicer,23246594+joshspicer@users.noreply.github.com,133,"Ensure parent chat is archived when delegating (#292272)
+
+Ensure parent chat is archived when delegating (fixes microsoft/vscode#284114)",2026-02-02T10:33:06Z,d0058619,2026-02-04T11:32:36.761923,2
+alexr00,9ee15085a8ac0854b9f6dab4fc81bf0a4b0c9a0d,https://github.com/microsoft/vscode/commit/9ee15085a8ac0854b9f6dab4fc81bf0a4b0c9a0d,Alex Ross,38270282+alexr00@users.noreply.github.com,134,"Don't await refresh in tree view, and add telemetry (#291902)
+
+* Revert ""Add telemetry for tree view concurrent refresh (#291540)""
+
+This reverts commit 5181d051eb08eafe786fc58159d8993f91fb841f.
+
+* Add",2026-02-02T09:43:51Z,9ee15085,2026-02-04T11:32:36.761928,2
+jrieken,ee31c81c9dd6a3912e34eb0f581f6eb19ccb44e9,https://github.com/microsoft/vscode/commit/ee31c81c9dd6a3912e34eb0f581f6eb19ccb44e9,Johannes Rieken,johannes.rieken@gmail.com,135,"Merge pull request #292109 from n-gist/fix-WatchingProblemCollector-uri-comparison
+
+fix diagnostics not being repushed from problem matcher to markerServ…",2026-02-02T09:34:34Z,ee31c81c,2026-02-04T11:32:36.761931,2
+osortega,e6de9742d9fe647c456eae1451c9c97f82e1abd1,https://github.com/microsoft/vscode/commit/e6de9742d9fe647c456eae1451c9c97f82e1abd1,Osvaldo Ortega,osortega@microsoft.com,136,Review comment,2026-02-02T08:52:49Z,e6de9742,2026-02-04T11:32:36.761935,2
+osortega,8b6d7ee43b726e6cbeff64471d07e1e559dd9ea5,https://github.com/microsoft/vscode/commit/8b6d7ee43b726e6cbeff64471d07e1e559dd9ea5,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,137,"Apply suggestion from @Copilot
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",2026-02-02T08:51:45Z,8b6d7ee4,2026-02-04T11:32:36.761938,2
+osortega,8f25b3b9dd16083e633928988f941809dbb486f7,https://github.com/microsoft/vscode/commit/8f25b3b9dd16083e633928988f941809dbb486f7,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,138,"Apply suggestion from @Copilot
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",2026-02-02T08:51:21Z,8f25b3b9,2026-02-04T11:32:36.761941,2
+osortega,3ee9b01eb2d1d3d8c41f8aac5ad004aa6f42f41f,https://github.com/microsoft/vscode/commit/3ee9b01eb2d1d3d8c41f8aac5ad004aa6f42f41f,Osvaldo Ortega,osortega@microsoft.com,139,Review comments,2026-02-02T08:49:40Z,3ee9b01e,2026-02-04T11:32:36.761945,2
+benibenj,9931e7d956172da0e79d5a96a675102eded4148c,https://github.com/microsoft/vscode/commit/9931e7d956172da0e79d5a96a675102eded4148c,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,140,"Merge pull request #291890 from microsoft/benibenj/equal-dormouse
+
+Include ID in reporter for telemetry tracking",2026-02-02T08:48:57Z,9931e7d9,2026-02-04T11:32:36.761948,2
+osortega,cf0b8b38fabda942c49a0229bc8cc0df9417a5ee,https://github.com/microsoft/vscode/commit/cf0b8b38fabda942c49a0229bc8cc0df9417a5ee,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,141,"Update src/vs/workbench/browser/workbench.contribution.ts
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",2026-02-02T08:44:57Z,cf0b8b38,2026-02-04T11:32:36.761951,2
+benibenj,3139aa8fc76c1e22d3fc67b85e72e1c49211e52f,https://github.com/microsoft/vscode/commit/3139aa8fc76c1e22d3fc67b85e72e1c49211e52f,BeniBenj,besimmonds@microsoft.com,142,fix: Remove extra line in JSDoc comment,2026-02-02T08:26:41Z,3139aa8f,2026-02-04T11:32:36.761954,2
+roblourens,6e3bf5072fd9d74c54e44eeda37ba01ad09b5ee6,https://github.com/microsoft/vscode/commit/6e3bf5072fd9d74c54e44eeda37ba01ad09b5ee6,Rob Lourens,roblourens@gmail.com,143,"Bump min chat render rate (#292232)
+
+5 words/s is not reasonable. We are under-measuring in some streaming scenarios cases that are hard to measure correctly so just have a better minimum",2026-02-02T04:52:17Z,6e3bf507,2026-02-04T11:32:36.761958,2
+roblourens,a42fcb866056f55072c995b275e3b11dcdad4ac5,https://github.com/microsoft/vscode/commit/a42fcb866056f55072c995b275e3b11dcdad4ac5,Rob Lourens,roblourens@gmail.com,144,"Don't report using subagent that doesn't exist (#292199)
+
+* Don't report using subagent that doesn't exist
+
+Fix #292196
+
+* Update test to mock chatModeService.findModeByName",2026-02-02T01:28:06Z,a42fcb86,2026-02-04T11:32:36.761961,2
+osortega,46e75c3726b9ab08f345dc93651532ae266601fc,https://github.com/microsoft/vscode/commit/46e75c3726b9ab08f345dc93651532ae266601fc,Osvaldo Ortega,osortega@microsoft.com,145,Adjust auxiliary bar visibility logic based on welcome page,2026-02-01T16:09:03Z,46e75c37,2026-02-04T11:32:36.761964,2
+Tyriar,77c18b8431d9f97675e98aa8eaeaacb12181a900,https://github.com/microsoft/vscode/commit/77c18b8431d9f97675e98aa8eaeaacb12181a900,Daniel Imms,2193314+Tyriar@users.noreply.github.com,146,"Merge pull request #292151 from microsoft/tyriar/291991
+
+Fix Monaco scroll offset buffer use after destroy",2026-02-01T15:32:38Z,77c18b84,2026-02-04T11:32:36.761967,2
+osortega,8365c4a906a56a37e513896cbdfd651a959c5156,https://github.com/microsoft/vscode/commit/8365c4a906a56a37e513896cbdfd651a959c5156,Osvaldo Ortega,osortega@microsoft.com,147,Agents welcome view command fixes,2026-02-01T15:27:34Z,8365c4a9,2026-02-04T11:32:36.761970,2
+Tyriar,377e7d295fe9f672cccd9ae6bc62f93c032128e0,https://github.com/microsoft/vscode/commit/377e7d295fe9f672cccd9ae6bc62f93c032128e0,Daniel Imms,2193314+Tyriar@users.noreply.github.com,148,"Fix Monaco scroll offset buffer use after destroy
+
+Fixes #291991",2026-02-01T14:06:21Z,377e7d29,2026-02-04T11:32:36.761974,2
+bpasero,084facbe335f670ac237eb2d92778fa186218a54,https://github.com/microsoft/vscode/commit/084facbe335f670ac237eb2d92778fa186218a54,Benjamin Pasero,benjamin.pasero@gmail.com,149,agent sessions - only render non-default session icons (#292116),2026-02-01T08:11:34Z,084facbe,2026-02-04T11:32:36.761977,2
+justschen,c6cdeb142a2d2d5cc896c7bfaef236ab979d2155,https://github.com/microsoft/vscode/commit/c6cdeb142a2d2d5cc896c7bfaef236ab979d2155,Justin Chen,54879025+justschen@users.noreply.github.com,150,fix bad styling in attachments for images (#292099),2026-02-01T03:16:05Z,c6cdeb14,2026-02-04T11:32:36.761980,2
+n-gist,3e88282abbcfc1c052f4c6882d84ae974028a74c,https://github.com/microsoft/vscode/commit/3e88282abbcfc1c052f4c6882d84ae974028a74c,n-gist,58081918+n-gist@users.noreply.github.com,151,fix diagnostics not being repushed from problem matcher to markerServer if vscode.workspace.openTextDocument is used,2026-02-01T03:13:41Z,3e88282a,2026-02-04T11:32:36.761983,2
+mjbvz,e6f0ffde9cd540816b4a1b22e7520424cfa58fdd,https://github.com/microsoft/vscode/commit/e6f0ffde9cd540816b4a1b22e7520424cfa58fdd,Matt Bierner,12821956+mjbvz@users.noreply.github.com,152,"Merge pull request #291937 from mjbvz/dev/mjbvz/severe-buzzard
+
+Update build ts versions",2026-01-31T23:34:15Z,e6f0ffde,2026-02-04T11:32:36.761986,2
+TylerLeonhardt,984af6f3a8f6bd07fd4627c75478f43d1b1dc846,https://github.com/microsoft/vscode/commit/984af6f3a8f6bd07fd4627c75478f43d1b1dc846,Tyler James Leonhardt,2644648+TylerLeonhardt@users.noreply.github.com,153,Better wording for Claude agent description (#292076),2026-01-31T20:01:10Z,984af6f3,2026-02-04T11:32:36.761989,2
+Copilot,306d939cf914f47131d76847602fe51c60eca6fc,https://github.com/microsoft/vscode/commit/306d939cf914f47131d76847602fe51c60eca6fc,Copilot,198982749+Copilot@users.noreply.github.com,154,"Fix panel alignment command breaking with maximized auxiliary bar (#292022)
+
+* Initial plan
+
+* Fix panel alignment breaking when auxiliary bar is maximized
+
+Co-authored-by: bpasero <900690+bpasero@use",2026-01-31T16:33:26Z,306d939c,2026-02-04T11:32:36.761993,2
+Copilot,b31c729a39ed32a4ecaf86e6a05ce1d159aa1496,https://github.com/microsoft/vscode/commit/b31c729a39ed32a4ecaf86e6a05ce1d159aa1496,Copilot,198982749+Copilot@users.noreply.github.com,155,"Add smoke test for anonymous chat access (#291953)
+
+* Initial plan
+
+* Add smoke test for anonymous chat access
+
+Co-authored-by: bpasero <900690+bpasero@users.noreply.github.com>
+
+* fix
+
+* .
+
+* .
+
+* .
+",2026-01-31T16:33:11Z,b31c729a,2026-02-04T11:32:36.761996,2
+bpasero,d21910006a9eb6aabbdaffbda9b6c697c61f7bfb,https://github.com/microsoft/vscode/commit/d21910006a9eb6aabbdaffbda9b6c697c61f7bfb,Benjamin Pasero,benjamin.pasero@gmail.com,156,agent sessions - restore ability to hide sidebar when chat maximised (#292048),2026-01-31T16:32:36Z,d2191000,2026-02-04T11:32:36.761999,2
+Tyriar,00e0d96a9cd176f10f75ea75649b4cb8d23aaff1,https://github.com/microsoft/vscode/commit/00e0d96a9cd176f10f75ea75649b4cb8d23aaff1,Daniel Imms,2193314+Tyriar@users.noreply.github.com,157,"Merge pull request #292063 from microsoft/tyriar/291952
+
+Fix alignment in terminal inline chat widget",2026-01-31T16:20:40Z,00e0d96a,2026-02-04T11:32:36.762002,2
+Tyriar,4fd19cce38a202898aa0a54f074fec61b07973c8,https://github.com/microsoft/vscode/commit/4fd19cce38a202898aa0a54f074fec61b07973c8,Daniel Imms,2193314+Tyriar@users.noreply.github.com,158,"Fix alignment in terminal inline chat widget
+
+Fixes #291952",2026-01-31T15:29:12Z,4fd19cce,2026-02-04T11:32:36.762005,2
+Tyriar,0fdd0280b1f59978da10a0df5d250f3cbf1ed65e,https://github.com/microsoft/vscode/commit/0fdd0280b1f59978da10a0df5d250f3cbf1ed65e,Daniel Imms,2193314+Tyriar@users.noreply.github.com,159,"Fix run and insert buttons missing in terminal inline chat
+
+Root Cause: Commit cfe17d64861 removed the updateCodeBlockTextModels
+function which synchronized code block models immediately when response",2026-01-31T14:55:11Z,0fdd0280,2026-02-04T11:32:36.762009,2
+bpasero,e86a8aebadf343e39c2ef3b0cbcbe0d6c4ec40c9,https://github.com/microsoft/vscode/commit/e86a8aebadf343e39c2ef3b0cbcbe0d6c4ec40c9,Benjamin Pasero,benjamin.pasero@gmail.com,160,agent sessions window - add auto-hide setting for activity bar (#292047),2026-01-31T13:29:00Z,e86a8aeb,2026-02-04T11:32:36.762012,2
+bpasero,81cd59d3b03786a8eda6a12b0f9342f6884d79bd,https://github.com/microsoft/vscode/commit/81cd59d3b03786a8eda6a12b0f9342f6884d79bd,Benjamin Pasero,benjamin.pasero@gmail.com,161,agent sessions - always render the badge if we have it (#292046),2026-01-31T13:28:37Z,81cd59d3,2026-02-04T11:32:36.762016,2
+osortega,906d61af8956ea2933e07536dff15ddc011e76ce,https://github.com/microsoft/vscode/commit/906d61af8956ea2933e07536dff15ddc011e76ce,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,162,"Merge pull request #291852 from microsoft/osortega/vivacious-peafowl
+
+Wait until active editor change to close welcome view",2026-01-31T11:06:12Z,906d61af,2026-02-04T11:32:36.762020,2
+connor4312,04a28998f8b479f452a84bac981aa68e11a6142d,https://github.com/microsoft/vscode/commit/04a28998f8b479f452a84bac981aa68e11a6142d,Connor Peet,copeet@microsoft.com,163,"tools: clean up auto-approved post-approval state (#291998)
+
+Iterates the fix for https://github.com/microsoft/vscode/issues/288508
+
+No assurance post-approval checks happen in a microtask. Tools resu",2026-01-31T07:39:45Z,04a28998,2026-02-04T11:32:36.762023,2
+karthiknadig,993c5c008e427a6ca655d99248acaca3afdab7ac,https://github.com/microsoft/vscode/commit/993c5c008e427a6ca655d99248acaca3afdab7ac,Karthik Nadig,kanadig@microsoft.com,164,"fix: restore freeform support and summary (#292003)
+
+* fix: restore freeform support and summary
+
+* add more tests",2026-01-31T01:19:38Z,993c5c00,2026-02-04T11:32:36.762026,2
+connor4312,9c2578b1e1b35259a577febb762a6d13bbce4e42,https://github.com/microsoft/vscode/commit/9c2578b1e1b35259a577febb762a6d13bbce4e42,Connor Peet,copeet@microsoft.com,165,"chat: enhance compare block diff actions and accessibility (#292005)
+
+Adds improved diff editing workflow and accessibility features to chat
+compare blocks:
+
+- Add toggle inline/side-by-side diff view",2026-01-31T01:18:19Z,9c2578b1,2026-02-04T11:32:36.762030,2
+connor4312,56391d0e89bf23b21ca5f2a2f88d3cf0e8cbd1ad,https://github.com/microsoft/vscode/commit/56391d0e89bf23b21ca5f2a2f88d3cf0e8cbd1ad,Connor Peet,copeet@microsoft.com,166,"chat: fix screen cheese in sensitive file overflow (#291996)
+
+also cleans up old height eventing that is unused since Rob's refactor.
+
+Fixes https://github.com/microsoft/vscode/issues/277541
+
+(Commit ",2026-01-31T00:05:24Z,56391d0e,2026-02-04T11:32:36.762033,2
+eli-w-king,cffc62ce7dccbe06956514a88e7a52973c631b12,https://github.com/microsoft/vscode/commit/cffc62ce7dccbe06956514a88e7a52973c631b12,Elijah King,elijahwilliamking@icloud.com,167,"Merge pull request #291351 from microsoft/international-orca
+
+fix: switch to list-style selection for single and multi-select questions",2026-01-30T23:49:39Z,cffc62ce,2026-02-04T11:32:36.762037,2
+karthiknadig,a8a719a919abff3aaf82b53983b75c2d008a9ec8,https://github.com/microsoft/vscode/commit/a8a719a919abff3aaf82b53983b75c2d008a9ec8,Karthik Nadig,kanadig@microsoft.com,168,another bug in summary,2026-01-30T23:24:37Z,a8a719a9,2026-02-04T11:32:36.762040,2
+karthiknadig,f2d4d1c5ea0573e31ac110e41e45ee139c772922,https://github.com/microsoft/vscode/commit/f2d4d1c5ea0573e31ac110e41e45ee139c772922,Karthik Nadig,kanadig@microsoft.com,169,fixing tests,2026-01-30T23:09:01Z,f2d4d1c5,2026-02-04T11:32:36.762044,2
+kycutler,0632563332c7c08656fb47c97bc4328d62ee1d80,https://github.com/microsoft/vscode/commit/0632563332c7c08656fb47c97bc4328d62ee1d80,Kyle Cutler,67761731+kycutler@users.noreply.github.com,170,"Browser: fix undo, redo, select all on Mac (#291775)
+
+* Browser: fix undo, redo, select all on Mac
+
+* fix",2026-01-30T23:08:22Z,06325633,2026-02-04T11:32:36.762047,2
+rzhao271,b428b974557a371b25fb3827ad25165ed302c31b,https://github.com/microsoft/vscode/commit/b428b974557a371b25fb3827ad25165ed302c31b,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,171,"chore: bump vscode/ripgrep to 1.17.0 (#272744)
+
+* chore: bump vscode/ripgrep to 1.17.0
+
+* Remove outdated test
+
+Nested alternates are now supported in ripgrep 15",2026-01-30T23:05:22Z,b428b974,2026-02-04T11:32:36.762050,2
+eli-w-king,e0bf14a405e801815a3e913898467bec17f3d1fd,https://github.com/microsoft/vscode/commit/e0bf14a405e801815a3e913898467bec17f3d1fd,Elijah King,elijahwilliamking@icloud.com,172,Merge branch 'main' into international-orca,2026-01-30T22:52:27Z,e0bf14a4,2026-02-04T11:32:36.762054,2
+eli-w-king,6a2044236074a2ebd3a7465433d80b7fb9498d84,https://github.com/microsoft/vscode/commit/6a2044236074a2ebd3a7465433d80b7fb9498d84,eli-w-king,elijahwilliamking@icloud.com,173,ignore(),2026-01-30T22:49:29Z,6a204423,2026-02-04T11:32:36.762058,2
+eli-w-king,91a2659073cfb4429d47a1a1b360cb64356ffd6d,https://github.com/microsoft/vscode/commit/91a2659073cfb4429d47a1a1b360cb64356ffd6d,eli-w-king,elijahwilliamking@icloud.com,174,updated styling and moved buttons,2026-01-30T22:45:47Z,91a26590,2026-02-04T11:32:36.762062,2
+meganrogge,88dc2db2e856def99447180fb2fbdf3fda621a7b,https://github.com/microsoft/vscode/commit/88dc2db2e856def99447180fb2fbdf3fda621a7b,Megan Rogge,merogge@microsoft.com,175,"Fix auto-approved terminal commands triggering notification and sound (#291983)
+
+fix #288508",2026-01-30T21:59:44Z,88dc2db2,2026-02-04T11:32:36.762065,2
+meganrogge,17f3b1614a12bd9774ca3b82b84e4a00263e99a4,https://github.com/microsoft/vscode/commit/17f3b1614a12bd9774ca3b82b84e4a00263e99a4,Megan Rogge,merogge@microsoft.com,176,"fix terminal output position (#291964)
+
+fix #289138",2026-01-30T21:55:00Z,17f3b161,2026-02-04T11:32:36.762069,2
+digitarald,05846189a153b78b556780691f799a5f77fc8ca9,https://github.com/microsoft/vscode/commit/05846189a153b78b556780691f799a5f77fc8ca9,Harald Kirschner,hkirschner@microsoft.com,177,Merge branch 'main' into international-orca,2026-01-30T19:35:20Z,05846189,2026-02-04T11:32:36.762073,2
+eli-w-king,f10e8f3b192f3b46b54bc300c3e10ed51b6db7f7,https://github.com/microsoft/vscode/commit/f10e8f3b192f3b46b54bc300c3e10ed51b6db7f7,Elijah King,elijahwilliamking@icloud.com,178,Merge branch 'main' into international-orca,2026-01-30T21:48:11Z,f10e8f3b,2026-02-04T11:32:36.762075,2
+connor4312,9b3393be20b34accd1b658b2c7e6de4875494eb3,https://github.com/microsoft/vscode/commit/9b3393be20b34accd1b658b2c7e6de4875494eb3,Connor Peet,copeet@microsoft.com,179,"chat: clean up some debt around session timings (#291976)
+
+Moves session timing normalization into ChatSessionStore during load rather
+than in ChatServiceImpl at query time. This consolidates the back",2026-01-30T21:14:55Z,9b3393be,2026-02-04T11:32:36.762079,2
+mjbvz,ee01088b74e3fc1ffd6ffbb82d88abda4de36ab3,https://github.com/microsoft/vscode/commit/ee01088b74e3fc1ffd6ffbb82d88abda4de36ab3,Matt Bierner,12821956+mjbvz@users.noreply.github.com,180,Update roots,2026-01-30T21:12:52Z,ee01088b,2026-02-04T11:32:36.762083,2
+karthiknadig,3569fa6ecd24d781df5772f158c96a88b1fc05a7,https://github.com/microsoft/vscode/commit/3569fa6ecd24d781df5772f158c96a88b1fc05a7,Karthik Nadig,kanadig@microsoft.com,181,fix regression after merge,2026-01-30T21:12:27Z,3569fa6e,2026-02-04T11:32:36.762086,2
+karthiknadig,b2d9fe54749852ef87d27363e19218aa08e059ae,https://github.com/microsoft/vscode/commit/b2d9fe54749852ef87d27363e19218aa08e059ae,Karthik Nadig,kanadig@microsoft.com,182,address comments from copilot,2026-01-30T18:47:29Z,b2d9fe54,2026-02-04T11:32:36.762089,2
+rzhao271,fb1e3d22ac541019e49945b90999eaee3badae1e,https://github.com/microsoft/vscode/commit/fb1e3d22ac541019e49945b90999eaee3badae1e,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,183,chore: exclude more files from BinSkim (#291946),2026-01-30T20:58:31Z,fb1e3d22,2026-02-04T11:32:36.762092,2
+connor4312,c77003e5266f847f09be315e8d8809876d57fb01,https://github.com/microsoft/vscode/commit/c77003e5266f847f09be315e8d8809876d57fb01,Connor Peet,connor@peet.io,184,"Merge pull request #291969 from microsoft/connor4312/291962
+
+base: support multiple MIME types per file extension",2026-01-30T20:58:17Z,c77003e5,2026-02-04T11:32:36.762095,2
+TylerLeonhardt,d0201bc5f9b7b49fa34928b6163e08b8097ec86a,https://github.com/microsoft/vscode/commit/d0201bc5f9b7b49fa34928b6163e08b8097ec86a,Tyler James Leonhardt,2644648+TylerLeonhardt@users.noreply.github.com,185,"Add symlinked CLAUDE.md file (#291967)
+
+Works well on macOS and should work on Windows:
+> * Windows compatibility: On Windows, symlinks require Developer Mode enabled or admin privileges. Without thes",2026-01-30T20:56:24Z,d0201bc5,2026-02-04T11:32:36.762098,2
+connor4312,65662d89d56ebad8c4025641c89f1e86bab35f5e,https://github.com/microsoft/vscode/commit/65662d89d56ebad8c4025641c89f1e86bab35f5e,Connor Peet,connor@peet.io,186,"base: support multiple MIME types per file extension
+
+Adds support for multiple MIME types to map to the same file extension by
+allowing mapExtToMediaMimes values to be string or string[]. This enable",2026-01-30T20:14:32Z,65662d89,2026-02-04T11:32:36.762101,2
+lszomoru,bae323865abef569fc83901a38d27921c038bbde,https://github.com/microsoft/vscode/commit/bae323865abef569fc83901a38d27921c038bbde,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,187,Git - add the ability to disable commit signing (#291822),2026-01-30T19:45:00Z,bae32386,2026-02-04T11:32:36.762104,2
+digitarald,f3c9ef1ad0fea479e63265dc51cd422484a6288a,https://github.com/microsoft/vscode/commit/f3c9ef1ad0fea479e63265dc51cd422484a6288a,Harald Kirschner,hkirschner@microsoft.com,188,Merge branch 'main' into international-orca,2026-01-30T19:35:20Z,f3c9ef1a,2026-02-04T11:32:36.762108,2
+meganrogge,17969fbf2505a3265679881e1080d3f805bd2730,https://github.com/microsoft/vscode/commit/17969fbf2505a3265679881e1080d3f805bd2730,Megan Rogge,merogge@microsoft.com,189,"fix cursor being clipped in embedded terminal (#291942)
+
+fix #291867",2026-01-30T19:12:50Z,17969fbf,2026-02-04T11:32:36.762111,2
+meganrogge,c7a00bed0fdc811d67a15ac1b5acf279b5c27707,https://github.com/microsoft/vscode/commit/c7a00bed0fdc811d67a15ac1b5acf279b5c27707,Megan Rogge,merogge@microsoft.com,190,"prevent first 10 lines from being clipped in terminal output (#291941)
+
+fix #291935",2026-01-30T19:12:12Z,c7a00bed,2026-02-04T11:32:36.762114,2
+connor4312,0403a60fb1950f7dcb52500ba18a11299ed8ea34,https://github.com/microsoft/vscode/commit/0403a60fb1950f7dcb52500ba18a11299ed8ea34,Connor Peet,copeet@microsoft.com,191,"tools: fix tools in toolsets not disabling on `when` clause (#291957)
+
+I don't think this is actually a new bug, maybe newly discovered. This
+fix is not an ideal fix -- I would prefer to keep the tool",2026-01-30T19:10:46Z,0403a60f,2026-02-04T11:32:36.762117,2
+mjbvz,0d9a2ef2b0e7623111805075e8e5cc744be12f65,https://github.com/microsoft/vscode/commit/0d9a2ef2b0e7623111805075e8e5cc744be12f65,Matt Bierner,12821956+mjbvz@users.noreply.github.com,192,Add explicit rootDirs,2026-01-30T19:07:53Z,0d9a2ef2,2026-02-04T11:32:36.762120,2
+lramos15,481b139199eeaad169114b2ac292843145a8c82d,https://github.com/microsoft/vscode/commit/481b139199eeaad169114b2ac292843145a8c82d,Logan Ramos,lramos15@gmail.com,193,"Have usage be on the stream rather than on result (#291944)
+
+* Have usage be on the stream rather than on result
+
+* Better lookup",2026-01-30T18:29:31Z,481b1391,2026-02-04T11:32:36.762123,2
+deepak1556,60a106e50da7946116da8dd23df1d42aa66de62e,https://github.com/microsoft/vscode/commit/60a106e50da7946116da8dd23df1d42aa66de62e,Robo,hop2deep@gmail.com,194,chore: remove legacy context menu from system setup (#291938),2026-01-30T18:09:02Z,60a106e5,2026-02-04T11:32:36.762126,2
+jruales,7c5e24723342300549327239f31d7e4e1ed1c900,https://github.com/microsoft/vscode/commit/7c5e24723342300549327239f31d7e4e1ed1c900,Joaquín Ruales,1588988+jruales@users.noreply.github.com,195,Browser: Fix searchbox length (#291806),2026-01-30T18:08:11Z,7c5e2472,2026-02-04T11:32:36.762129,2
+meganrogge,e1d0a27a153c8684b89368140e897e07757ad6fd,https://github.com/microsoft/vscode/commit/e1d0a27a153c8684b89368140e897e07757ad6fd,Megan Rogge,merogge@microsoft.com,196,"Lower data event threshold for showing output (#291929)
+
+fix #291927",2026-01-30T17:56:57Z,e1d0a27a,2026-02-04T11:32:36.762132,2
+mjbvz,7baa2bac1cae870f819a89219bed9b7feaba90e0,https://github.com/microsoft/vscode/commit/7baa2bac1cae870f819a89219bed9b7feaba90e0,Matt Bierner,12821956+mjbvz@users.noreply.github.com,197,Update built ts versions,2026-01-30T17:27:13Z,7baa2bac,2026-02-04T11:32:36.762135,2
+aeschli,f9cc5a21cff8683da32f88915d7b4f50a377bdf9,https://github.com/microsoft/vscode/commit/f9cc5a21cff8683da32f88915d7b4f50a377bdf9,Martin Aeschlimann,martinae@microsoft.com,198,The 'excludeAgent' attribute must be an array (#291924),2026-01-30T17:01:01Z,f9cc5a21,2026-02-04T11:32:36.762138,2
+sandy081,b7795719b5d2085ad7cb321694704ea0a53ea882,https://github.com/microsoft/vscode/commit/b7795719b5d2085ad7cb321694704ea0a53ea882,Sandeep Somavarapu,sasomava@microsoft.com,199,update distro (#291921),2026-01-30T16:53:29Z,b7795719,2026-02-04T11:32:36.762142,2
+Copilot,34e727e4a5b2cf8abe6fca36b486bc614a096480,https://github.com/microsoft/vscode/commit/34e727e4a5b2cf8abe6fca36b486bc614a096480,Copilot,198982749+Copilot@users.noreply.github.com,200,"Add `workbench.activityBar.autoHide` setting to hide activity bar with single view container (#291630)
+
+* Initial plan
+
+* Add workbench.activityBar.autoHide setting to hide activity bar when single vi",2026-01-30T16:40:30Z,34e727e4,2026-02-04T11:32:36.762145,2
+Tyriar,6aa8b5a7b99137aa2f1ae406c62252604ce02ed0,https://github.com/microsoft/vscode/commit/6aa8b5a7b99137aa2f1ae406c62252604ce02ed0,Daniel Imms,2193314+Tyriar@users.noreply.github.com,201,"Merge pull request #291914 from microsoft/tyriar/291913
+
+Add sendSignal to commandsToSkipShell defaults",2026-01-30T16:14:49Z,6aa8b5a7,2026-02-04T11:32:38.846063,3
+joshspicer,2b17889bea76cae3a08203311262ad137632a22c,https://github.com/microsoft/vscode/commit/2b17889bea76cae3a08203311262ad137632a22c,Josh Spicer,23246594+joshspicer@users.noreply.github.com,202,"targetted fix for agent status widget with multiple windows open (#291911)
+
+targetted fix for agent status widget with multiple windows open (fix https://github.com/microsoft/vscode/issues/290863)",2026-01-30T16:12:03Z,2b17889b,2026-02-04T11:32:38.846090,3
+Tyriar,fca41f48b4fd869364e48c8308484516f7b7191c,https://github.com/microsoft/vscode/commit/fca41f48b4fd869364e48c8308484516f7b7191c,Daniel Imms,2193314+Tyriar@users.noreply.github.com,203,"Add sendSignal to commandsToSkipShell defaults
+
+Fixes #291913",2026-01-30T15:55:25Z,fca41f48,2026-02-04T11:32:38.846097,3
+aeschli,da5a231c63aece4107062e27b1498128c9fde293,https://github.com/microsoft/vscode/commit/da5a231c63aece4107062e27b1498128c9fde293,Martin Aeschlimann,martinae@microsoft.com,204,Replace `infer` with `disable-model-invocation` and `user-invokable` (#291907),2026-01-30T15:38:15Z,da5a231c,2026-02-04T11:32:38.846102,3
+alexr00,609f17a76734f092792a33c891af40bbcaea0c64,https://github.com/microsoft/vscode/commit/609f17a76734f092792a33c891af40bbcaea0c64,Alex Ross,38270282+alexr00@users.noreply.github.com,205,Update grammars (#291900),2026-01-30T15:33:10Z,609f17a7,2026-02-04T11:32:38.846110,3
+sandy081,3fb76cabd413270667faef04fc5ddfa01c9bb2df,https://github.com/microsoft/vscode/commit/3fb76cabd413270667faef04fc5ddfa01c9bb2df,Sandeep Somavarapu,sasomava@microsoft.com,206,"fix #290501 (#291876)
+
+* fix #290501
+
+* Revert ""fix #290501""
+
+This reverts commit 3f0ce7842e00f35129b7eecb2e700c1c74ed4ef4.",2026-01-30T14:31:13Z,3fb76cab,2026-02-04T11:32:38.846116,3
+benibenj,f4438c01339f232d24d4177f2e55ce6b6e1e3dac,https://github.com/microsoft/vscode/commit/f4438c01339f232d24d4177f2e55ce6b6e1e3dac,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,207,"Update src/vs/platform/actionWidget/browser/actionWidgetDropdown.ts
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",2026-01-30T14:22:21Z,f4438c01,2026-02-04T11:32:38.846122,3
+benibenj,bc1d1c3db92e8ac8de8fb4181cbcb459b62fd0e8,https://github.com/microsoft/vscode/commit/bc1d1c3db92e8ac8de8fb4181cbcb459b62fd0e8,BeniBenj,besimmonds@microsoft.com,208,include id in event,2026-01-30T14:00:38Z,bc1d1c3d,2026-02-04T11:32:38.846130,3
+sandy081,b41f50f1042d7982ae116cd0e867000f2164749b,https://github.com/microsoft/vscode/commit/b41f50f1042d7982ae116cd0e867000f2164749b,Sandeep Somavarapu,sasomava@microsoft.com,209,update distro (#291881),2026-01-30T13:49:03Z,b41f50f1,2026-02-04T11:32:38.846139,3
+benibenj,f8e5529db51a528be9d3b2e0c600f269b309d8dc,https://github.com/microsoft/vscode/commit/f8e5529db51a528be9d3b2e0c600f269b309d8dc,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,210,"Add ARIA role and label to welcome view content (#291639)
+
+fixes https://github.com/microsoft/vscode/issues/250108",2026-01-30T13:25:01Z,f8e5529d,2026-02-04T11:32:38.846147,3
+hediet,37ac613efa2923bb37ca8809f0b1f1cb233ac69b,https://github.com/microsoft/vscode/commit/37ac613efa2923bb37ca8809f0b1f1cb233ac69b,Henning Dieterichs,hdieterichs@microsoft.com,211,"Implements https://github.com/microsoft/vscode/issues/271133 (#290036)
+
+* Implements https://github.com/microsoft/vscode/issues/271133
+
+* Fixes cyclic file dependency
+
+* Fixes test",2026-01-30T13:04:02Z,37ac613e,2026-02-04T11:32:38.846155,3
+sandy081,086eda1a3516407b0fdea27cf1eb913d4714d3a0,https://github.com/microsoft/vscode/commit/086eda1a3516407b0fdea27cf1eb913d4714d3a0,Sandeep Somavarapu,sasomava@microsoft.com,212,fix #291851 (#291862),2026-01-30T12:58:50Z,086eda1a,2026-02-04T11:32:38.846160,3
+mrleemurray,aafde1d5fd8bd99ea29827052677ee62ab270295,https://github.com/microsoft/vscode/commit/aafde1d5fd8bd99ea29827052677ee62ab270295,Lee Murray,lemurra@microsoft.com,213,"Merge pull request #291869 from microsoft/mrleemurray/nearby-plum-stoat
+
+Enhance notebook overlay styles with z-index and improved shadow effects",2026-01-30T12:54:57Z,aafde1d5,2026-02-04T11:32:38.846166,3
+jrieken,0da4260e415b792e533050f7628120944b0c7815,https://github.com/microsoft/vscode/commit/0da4260e415b792e533050f7628120944b0c7815,Johannes Rieken,johannes.rieken@gmail.com,214,"Merge pull request #267787 from gjsjohnmurray/fix-267766
+
+Prevent symbol-* codicons from displaying colored on toolbars (fix #267766)",2026-01-30T12:39:39Z,0da4260e,2026-02-04T11:32:38.846172,3
+mrleemurray,73c195528fdfc80885657219d19617a4b548834d,https://github.com/microsoft/vscode/commit/73c195528fdfc80885657219d19617a4b548834d,mrleemurray,mrleemurray@users.noreply.github.com,215,Enhance notebook overlay styles with z-index and improved shadow effects,2026-01-30T12:35:01Z,73c19552,2026-02-04T11:32:38.846178,3
+mrleemurray,a51a89db1745037ec038d902832f16f75e051404,https://github.com/microsoft/vscode/commit/a51a89db1745037ec038d902832f16f75e051404,Lee Murray,lemurra@microsoft.com,216,"Merge pull request #291855 from microsoft/mrleemurray/cloudy-jade-cougar
+
+Update activity bar and title bar background colors to improve theme consistency",2026-01-30T11:50:45Z,a51a89db,2026-02-04T11:32:38.846184,3
+jrieken,68cd1d5dc1bd4c8448f8b4acdfb6b85919f2c36c,https://github.com/microsoft/vscode/commit/68cd1d5dc1bd4c8448f8b4acdfb6b85919f2c36c,Johannes Rieken,johannes.rieken@gmail.com,217,Merge branch 'main' into fix-267766,2026-01-30T11:43:47Z,68cd1d5d,2026-02-04T11:32:38.846193,3
+dmitrivMS,f905cf48fccf6fab06f51ca0990899c4ba040a51,https://github.com/microsoft/vscode/commit/f905cf48fccf6fab06f51ca0990899c4ba040a51,Dmitriy Vasyura,dmitriv@microsoft.com,218,"Add CLI DevTunnel sanity test (#291813)
+
+* Add CLI -> DevTunnel -> Web tests
+
+* PR feedback",2026-01-30T11:31:33Z,f905cf48,2026-02-04T11:32:38.846199,3
+mrleemurray,5ac2d2245e74a41dc52d6eacaa05269886fa8874,https://github.com/microsoft/vscode/commit/5ac2d2245e74a41dc52d6eacaa05269886fa8874,mrleemurray,mrleemurray@users.noreply.github.com,219,Update activity bar and title bar background colors to improve theme consistency,2026-01-30T11:29:51Z,5ac2d224,2026-02-04T11:32:38.846205,3
+osortega,f72761109dd15099ae43a87187bd2700bd72b44d,https://github.com/microsoft/vscode/commit/f72761109dd15099ae43a87187bd2700bd72b44d,Osvaldo Ortega,osortega@microsoft.com,220,Wait until active editor change to close welcome view,2026-01-30T11:21:32Z,f7276110,2026-02-04T11:32:38.846209,3
+mrleemurray,837a06628d6f8c1d5d807c5de2ed6cd25853c12e,https://github.com/microsoft/vscode/commit/837a06628d6f8c1d5d807c5de2ed6cd25853c12e,Lee Murray,lemurra@microsoft.com,221,"Merge pull request #291849 from microsoft/mrleemurray/ancient-green-cobra
+
+Remove commented-out z-index adjustments for iframe containers in styles.css",2026-01-30T11:21:23Z,837a0662,2026-02-04T11:32:38.846214,3
+mrleemurray,ff791dbf17cf5f6ca5367287ff719c5dcebf8d01,https://github.com/microsoft/vscode/commit/ff791dbf17cf5f6ca5367287ff719c5dcebf8d01,Lee Murray,lemurra@microsoft.com,222,"Merge pull request #291848 from microsoft/mrleemurray/characteristic-amber-orangutan
+
+fix: update button secondary styles for improved theming consistency",2026-01-30T11:20:56Z,ff791dbf,2026-02-04T11:32:38.846219,3
+benibenj,539f216be4a09f72f70392fd791f163ea70cc80b,https://github.com/microsoft/vscode/commit/539f216be4a09f72f70392fd791f163ea70cc80b,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,223,"Merge pull request #291844 from microsoft/benibenj/uniFix
+
+Provide completions when Copilot extension is not installed",2026-01-30T11:20:09Z,539f216b,2026-02-04T11:32:38.846224,3
+mrleemurray,7b86cfcc6ae837cfa1b9176a9949997854aa9ab6,https://github.com/microsoft/vscode/commit/7b86cfcc6ae837cfa1b9176a9949997854aa9ab6,mrleemurray,mrleemurray@users.noreply.github.com,224,Remove commented-out z-index adjustments for iframe containers in styles.css,2026-01-30T10:58:45Z,7b86cfcc,2026-02-04T11:32:38.846231,3
+mrleemurray,5201505306605b71a26aed1cc378f8d8b20ab742,https://github.com/microsoft/vscode/commit/5201505306605b71a26aed1cc378f8d8b20ab742,mrleemurray,mrleemurray@users.noreply.github.com,225,fix: update button secondary styles for improved theming consistency,2026-01-30T10:54:32Z,52015053,2026-02-04T11:32:38.846238,3
+bpasero,dc1437b20d1a2087321d030461981bbc48d2607f,https://github.com/microsoft/vscode/commit/dc1437b20d1a2087321d030461981bbc48d2607f,Benjamin Pasero,benjamin.pasero@gmail.com,226,"Agent sessions - Session grouping doesn't seem to always account for ""yesterday"" sessions (fix #291589) (#291805)
+
+* Agent sessions - Session grouping doesn't seem to always account for ""yesterday"" se",2026-01-30T10:50:28Z,dc1437b2,2026-02-04T11:32:38.846243,3
+osortega,cfb2e3e39a3f6911ddd8ca70937b4f221a5264a8,https://github.com/microsoft/vscode/commit/cfb2e3e39a3f6911ddd8ca70937b4f221a5264a8,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,227,"Merge pull request #291697 from microsoft/copilot/fix-agent-sessions-welcome-gating
+
+Gate Agent Sessions Welcome page on ChatContextKeys.enabled",2026-01-30T10:37:24Z,cfb2e3e3,2026-02-04T11:32:38.846248,3
+hediet,963958a4bcc7ee4a5b1fbd0abe9e1610e3d779c6,https://github.com/microsoft/vscode/commit/963958a4bcc7ee4a5b1fbd0abe9e1610e3d779c6,Henning Dieterichs,hdieterichs@microsoft.com,228,Fixes invariant violation in tryRebase (#291840),2026-01-30T10:36:16Z,963958a4,2026-02-04T11:32:38.846255,3
+benibenj,75507a19b64a511b169d4668f5b6906af0df3940,https://github.com/microsoft/vscode/commit/75507a19b64a511b169d4668f5b6906af0df3940,BeniBenj,besimmonds@microsoft.com,229,provide completions when copilot extension is not installed,2026-01-30T10:23:43Z,75507a19,2026-02-04T11:32:38.846262,3
+jrieken,4d489412367ea30d910128b1ab132b75e3519521,https://github.com/microsoft/vscode/commit/4d489412367ea30d910128b1ab132b75e3519521,Johannes Rieken,johannes.rieken@gmail.com,230,"update version to 1.110.0 (#291832)
+
+update version",2026-01-30T10:27:04Z,4d489412,2026-02-04T11:32:38.846269,3
+Copilot,58da0af3768cf8d21d21c326df5bbdedd65f96c0,https://github.com/microsoft/vscode/commit/58da0af3768cf8d21d21c326df5bbdedd65f96c0,Copilot,198982749+Copilot@users.noreply.github.com,231,"Remove chat welcome from chat editors when core agent exists (#291722)
+
+* Initial plan
+
+* Remove chat welcome from chat editors when core agent exists
+
+Co-authored-by: bpasero <900690+bpasero@users.no",2026-01-30T10:26:50Z,58da0af3,2026-02-04T11:32:38.846278,3
+osortega,04bfcaa4b71970b378c0ef6b3cb71a335d3632bc,https://github.com/microsoft/vscode/commit/04bfcaa4b71970b378c0ef6b3cb71a335d3632bc,Osvaldo Ortega,osortega@microsoft.com,232,Close editor on AI disablement,2026-01-30T10:18:19Z,04bfcaa4,2026-02-04T11:32:38.846283,3
+jrieken,ea084045c1ea954f98f53a5a7c31a85a1877b100,https://github.com/microsoft/vscode/commit/ea084045c1ea954f98f53a5a7c31a85a1877b100,Johannes Rieken,johannes.rieken@gmail.com,233,oss tool (#291826),2026-01-30T09:48:45Z,ea084045,2026-02-04T11:32:38.846288,3
+osortega,e4949cf2d86e0c3bbc66814d7a00f5ae31090913,https://github.com/microsoft/vscode/commit/e4949cf2d86e0c3bbc66814d7a00f5ae31090913,Osvaldo Ortega,osortega@microsoft.com,234,Review comments,2026-01-30T09:06:55Z,e4949cf2,2026-02-04T11:32:38.846294,3
+cwebster-99,afb4b52c67543eeed136ef98a86cc41c41768ce9,https://github.com/microsoft/vscode/commit/afb4b52c67543eeed136ef98a86cc41c41768ce9,Courtney Webster,60238438+cwebster-99@users.noreply.github.com,235,"feat: enhance ChatModelsWidget with hover support for managed entitle… (#289981)
+
+* feat: enhance ChatModelsWidget with hover support for managed entitlements
+
+* Apply suggestions from code review
+
+* ",2026-01-30T09:05:56Z,afb4b52c,2026-02-04T11:32:38.846300,3
+osortega,faf04ffc4b647fd22a1574ecfe5d2201c20a5e18,https://github.com/microsoft/vscode/commit/faf04ffc4b647fd22a1574ecfe5d2201c20a5e18,Osvaldo Ortega,osortega@microsoft.com,236,Whitespace,2026-01-30T08:53:22Z,faf04ffc,2026-02-04T11:32:38.846304,3
+osortega,d0b073486cfad07b280eac3cdb995ff56e9bf6fc,https://github.com/microsoft/vscode/commit/d0b073486cfad07b280eac3cdb995ff56e9bf6fc,Osvaldo Ortega,osortega@microsoft.com,237,Fallback to welcome page if AI disabled,2026-01-30T08:45:43Z,d0b07348,2026-02-04T11:32:38.846309,3
+osortega,c725a4cad2c3d03a30257993325c683f26943031,https://github.com/microsoft/vscode/commit/c725a4cad2c3d03a30257993325c683f26943031,Osvaldo Ortega,osortega@microsoft.com,238,Merge branch 'main' of https://github.com/microsoft/vscode into copilot/fix-agent-sessions-welcome-gating,2026-01-30T08:35:47Z,c725a4ca,2026-02-04T11:32:38.846316,3
+osortega,e32b95e0ec63ed8f1bc6db818e28a9823eac961b,https://github.com/microsoft/vscode/commit/e32b95e0ec63ed8f1bc6db818e28a9823eac961b,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,239,Merge pull request #291621 from microsoft/osortega/mean-warbler,2026-01-30T08:06:33Z,e32b95e0,2026-02-04T11:32:38.846321,3
+alexr00,a1728b98fa654220245c84bd92bb1baf13f730c6,https://github.com/microsoft/vscode/commit/a1728b98fa654220245c84bd92bb1baf13f730c6,Alex Ross,38270282+alexr00@users.noreply.github.com,240,"Revert ""Bump tar and dmg-builder in /build"" (#291808)
+
+Revert ""Bump tar and dmg-builder in /build (#291331)""
+
+This reverts commit fd3565eb6bd06e688a98cabd029088c16390e62e.",2026-01-30T07:52:21Z,a1728b98,2026-02-04T11:32:38.846327,3
+joshspicer,a84bfab7bc7e1b4d2aab73a29782177114c52330,https://github.com/microsoft/vscode/commit/a84bfab7bc7e1b4d2aab73a29782177114c52330,Josh Spicer,23246594+joshspicer@users.noreply.github.com,241,Agent status indicator: Do not show unread on empty workspace (#291696),2026-01-30T07:46:06Z,a84bfab7,2026-02-04T11:32:38.846333,3
+dmitrivMS,2d23946f08e21857a26fa8cbe4f8cbff7e8f18f0,https://github.com/microsoft/vscode/commit/2d23946f08e21857a26fa8cbe4f8cbff7e8f18f0,Dmitriy Vasyura,dmitriv@microsoft.com,242,"Move `Collapse All` action in SCM to leftmost position (#291474)
+
+* Move `Collapse All` action in SCM to leftmost position
+
+* PR feedback",2026-01-30T06:47:05Z,2d23946f,2026-02-04T11:32:38.846337,3
+roblourens,968b908772adb5b8b36da2c498956dbbbf4642aa,https://github.com/microsoft/vscode/commit/968b908772adb5b8b36da2c498956dbbbf4642aa,Rob Lourens,roblourens@gmail.com,243,"Don't log tool cancellation as error (#291797)
+
+Fix #291096",2026-01-30T05:10:27Z,968b9087,2026-02-04T11:32:38.846343,3
+Tyriar,40e01fce601e763ed26e78081c012ff45a2cfb1c,https://github.com/microsoft/vscode/commit/40e01fce601e763ed26e78081c012ff45a2cfb1c,Daniel Imms,2193314+Tyriar@users.noreply.github.com,244,"Merge pull request #291795 from microsoft/tyriar/290972
+
+Clamp terminal timeout to save values",2026-01-30T04:16:40Z,40e01fce,2026-02-04T11:32:38.846348,3
+Tyriar,b9bd16fb3e2ede3796a66c5d2504f87f1f0d0151,https://github.com/microsoft/vscode/commit/b9bd16fb3e2ede3796a66c5d2504f87f1f0d0151,Daniel Imms,2193314+Tyriar@users.noreply.github.com,245,"Clamp terminal timeout to save values
+
+Fixes #290972",2026-01-30T03:48:59Z,b9bd16fb,2026-02-04T11:32:38.846354,3
+roblourens,543804d5decfd7960b5d3c0bf982c47a10fe6c3d,https://github.com/microsoft/vscode/commit/543804d5decfd7960b5d3c0bf982c47a10fe6c3d,Rob Lourens,roblourens@gmail.com,246,"Disable question tool for subagent (#291780)
+
+Fix #291416",2026-01-30T02:01:24Z,543804d5,2026-02-04T11:32:38.846360,3
+justschen,b17f5e9ede1ea01d96a1d800a4a6bed1f6f0987c,https://github.com/microsoft/vscode/commit/b17f5e9ede1ea01d96a1d800a4a6bed1f6f0987c,Justin Chen,54879025+justschen@users.noreply.github.com,247,fix css mismatch between spinner and thinking header (#291773),2026-01-30T01:42:36Z,b17f5e9e,2026-02-04T11:32:38.846366,3
+karthiknadig,1664edf0be593d16a7922abf6d3105db870dc228,https://github.com/microsoft/vscode/commit/1664edf0be593d16a7922abf6d3105db870dc228,Karthik Nadig,kanadig@microsoft.com,248,fix: tests,2026-01-30T00:51:59Z,1664edf0,2026-02-04T11:32:38.846373,3
+justschen,d9bb11ef313f9b4d6737af2d7d41457b7af5cdab,https://github.com/microsoft/vscode/commit/d9bb11ef313f9b4d6737af2d7d41457b7af5cdab,Justin Chen,54879025+justschen@users.noreply.github.com,249,"associate spinner text with tool call or reasoning block (#291762)
+
+* associate spinner text with tool call or reasoning block
+
+* address some comments, removed a loading title",2026-01-30T00:48:46Z,d9bb11ef,2026-02-04T11:32:38.846379,3
+roblourens,830c548e677ff3f4aa3a32c6eb240a324e8fed71,https://github.com/microsoft/vscode/commit/830c548e677ff3f4aa3a32c6eb240a324e8fed71,Rob Lourens,roblourens@gmail.com,250,"Don't log full renderData (#291767)
+
+This is causing severe log spam and filling up the Window log",2026-01-30T00:46:25Z,830c548e,2026-02-04T11:32:38.846384,3
+mjbvz,a5cfde1b647d7957d07508bb3c432f56f5b330cc,https://github.com/microsoft/vscode/commit/a5cfde1b647d7957d07508bb3c432f56f5b330cc,Matt Bierner,12821956+mjbvz@users.noreply.github.com,251,"Merge pull request #291454 from mjbvz/dev/mjbvz/straightforward-flyingfish
+
+Add a title for generated mermaid diagrams and use this for opened editors",2026-01-30T00:40:22Z,a5cfde1b,2026-02-04T11:32:38.846389,3
+mjbvz,a148fff6a94a8d75c329ed96a8c9519187b5a00d,https://github.com/microsoft/vscode/commit/a148fff6a94a8d75c329ed96a8c9519187b5a00d,Matt Bierner,12821956+mjbvz@users.noreply.github.com,252,Merge branch 'main' into dev/mjbvz/straightforward-flyingfish,2026-01-30T00:19:43Z,a148fff6,2026-02-04T11:32:38.846393,3
+hediet,be2a52eb3259655538f39f5c7c1f97d7475937a2,https://github.com/microsoft/vscode/commit/be2a52eb3259655538f39f5c7c1f97d7475937a2,Henning Dieterichs,hdieterichs@microsoft.com,253,Fixes https://github.com/microsoft/vscode/issues/291242 (#291760),2026-01-30T00:09:00Z,be2a52eb,2026-02-04T11:32:38.846398,3
+eli-w-king,2534a0d1586dce0c50323596671232d8a192fcee,https://github.com/microsoft/vscode/commit/2534a0d1586dce0c50323596671232d8a192fcee,eli-w-king,elijahwilliamking@icloud.com,254,updated styling,2026-01-30T00:08:35Z,2534a0d1,2026-02-04T11:32:38.846403,3
+Copilot,f1b439a339bcc39a6715533a9c0a12391a99e1d5,https://github.com/microsoft/vscode/commit/f1b439a339bcc39a6715533a9c0a12391a99e1d5,Copilot,198982749+Copilot@users.noreply.github.com,255,"Fix chat terminal streaming editor height when there is only one line (#291651)
+
+* Initial plan
+
+* Fix editor height calculation to include vertical padding
+
+Co-authored-by: meganrogge <29464607+megan",2026-01-29T23:53:39Z,f1b439a3,2026-02-04T11:32:38.846409,3
+karthiknadig,9bc1596f1598c69664f693ff9830f4bc8639c8a8,https://github.com/microsoft/vscode/commit/9bc1596f1598c69664f693ff9830f4bc8639c8a8,Karthik Nadig,kanadig@microsoft.com,256,fix: fallback to title when question message is not provided,2026-01-29T23:51:05Z,9bc1596f,2026-02-04T11:32:38.846416,3
+eli-w-king,4bc3336070bab8dac6f3be76f81623ea8a49b81a,https://github.com/microsoft/vscode/commit/4bc3336070bab8dac6f3be76f81623ea8a49b81a,eli-w-king,elijahwilliamking@icloud.com,257,updated tests,2026-01-29T00:19:46Z,4bc33360,2026-02-04T11:32:38.846420,3
+karthiknadig,dff523fc4505b883a8e1673bcf2ad6506924f135,https://github.com/microsoft/vscode/commit/dff523fc4505b883a8e1673bcf2ad6506924f135,Karthik Nadig,kanadig@microsoft.com,258,fix: switch to list-style selection for single and multi-select questions,2026-01-28T16:58:54Z,dff523fc,2026-02-04T11:32:38.846426,3
+roblourens,946a11c4933670bcc113e2985f0a0fb8abda4e56,https://github.com/microsoft/vscode/commit/946a11c4933670bcc113e2985f0a0fb8abda4e56,Rob Lourens,roblourens@gmail.com,259,"Clarify that `verification-steps-needed` is for the team, not the external issue opener (#291758)",2026-01-29T23:32:11Z,946a11c4,2026-02-04T11:32:38.846432,3
+Tyriar,31a01ada161e608f3a60ba441c59726508b2c57f,https://github.com/microsoft/vscode/commit/31a01ada161e608f3a60ba441c59726508b2c57f,Daniel Imms,2193314+Tyriar@users.noreply.github.com,260,"Merge pull request #291725 from microsoft/tyriar/287652_2
+
+Allow xxd exact command line",2026-01-29T23:31:06Z,31a01ada,2026-02-04T11:32:38.846439,3
+dmitrivMS,4ac8b5ed98f95ce2bb71728ce083f3f2cbe10be8,https://github.com/microsoft/vscode/commit/4ac8b5ed98f95ce2bb71728ce083f3f2cbe10be8,Dmitriy Vasyura,dmitriv@microsoft.com,261,"Enable Windows ARM sanity tests on the new pool (#291753)
+
+* Enable Windows ARM sanity tests on the new pool
+
+* Update README",2026-01-29T23:30:36Z,4ac8b5ed,2026-02-04T11:32:38.846445,3
+roblourens,28f29f6087b47b0accf909e5aa74fbab2a0e4578,https://github.com/microsoft/vscode/commit/28f29f6087b47b0accf909e5aa74fbab2a0e4578,Rob Lourens,roblourens@gmail.com,262,"Use correct id for model from subagent (#291757)
+
+Fix #291681",2026-01-29T23:22:46Z,28f29f60,2026-02-04T11:32:38.846451,3
+justschen,66fe91254e600c1ef8db02de220ffefbc519b03b,https://github.com/microsoft/vscode/commit/66fe91254e600c1ef8db02de220ffefbc519b03b,Justin Chen,54879025+justschen@users.noreply.github.com,263,"fix scrolling as content expands in thinking (#291750)
+
+* fix scrolling as content expands in thinking
+
+* add disposables?",2026-01-29T23:17:02Z,66fe9125,2026-02-04T11:32:38.846456,3
+connor4312,3c7595e8d0f7232e90c97c1e3853dc116f5bacf9,https://github.com/microsoft/vscode/commit/3c7595e8d0f7232e90c97c1e3853dc116f5bacf9,Connor Peet,copeet@microsoft.com,264,"mcp: prevent duplicate collection registrations on extension host restart (#291747)
+
+* mcp: prevent duplicate collection registrations on extension host restart
+
+Fixes duplicate tool registration when",2026-01-29T23:14:36Z,3c7595e8,2026-02-04T11:32:38.846463,3
+pwang347,9d43a751c0ff4a78484e3c7d6491eed60c20eb5a,https://github.com/microsoft/vscode/commit/9d43a751c0ff4a78484e3c7d6491eed60c20eb5a,Paul,paul_wang347@hotmail.com,265,Merge branch 'main' into tyriar/287652_2,2026-01-29T23:07:52Z,9d43a751,2026-02-04T11:32:38.846470,3
+sandy081,e83c168deff491a53bfe615777fab6b30abe6ff5,https://github.com/microsoft/vscode/commit/e83c168deff491a53bfe615777fab6b30abe6ff5,Sandeep Somavarapu,sasomava@microsoft.com,266,fix #https://github.com/microsoft/vscode-dev/issues/1366 (#291731),2026-01-29T23:07:27Z,e83c168d,2026-02-04T11:32:38.846476,3
+connor4312,9eaa9ff9b2b83eae4c99c914866124e8ec888004,https://github.com/microsoft/vscode/commit/9eaa9ff9b2b83eae4c99c914866124e8ec888004,Connor Peet,copeet@microsoft.com,267,"chat: fix control flow logic in tool invocation state transition (#291743)
+
+Fixes the incorrect use of 'if' instead of 'else if' in the tool invocation
+state transition logic. This ensures that the co",2026-01-29T23:00:16Z,9eaa9ff9,2026-02-04T11:32:38.846481,3
+roblourens,aa328e0fed07df01d7f0a0cf2c16e6fef17c5b76,https://github.com/microsoft/vscode/commit/aa328e0fed07df01d7f0a0cf2c16e6fef17c5b76,Rob Lourens,roblourens@gmail.com,268,"Ensure we read the observable on the right input part (#291748)
+
+Hoping to fix a layout issue reported by Harald but I don't think this is it.",2026-01-29T22:36:56Z,aa328e0f,2026-02-04T11:32:38.846486,3
+Copilot,07e6e58af5c7a4e031d5d8f924f6a96196dd28f5,https://github.com/microsoft/vscode/commit/07e6e58af5c7a4e031d5d8f924f6a96196dd28f5,Copilot,198982749+Copilot@users.noreply.github.com,269,Fix excessive padding on terminal tool progress part action bar icons (#291648),2026-01-29T22:23:14Z,07e6e58a,2026-02-04T11:32:38.846491,3
+Copilot,6b7d765cc06b227342b9f6727aca336defe1d12e,https://github.com/microsoft/vscode/commit/6b7d765cc06b227342b9f6727aca336defe1d12e,Copilot,198982749+Copilot@users.noreply.github.com,270,Fix chat terminal streaming chevron vertical alignment (#291650),2026-01-29T22:02:09Z,6b7d765c,2026-02-04T11:32:38.846497,3
+rzhao271,000e601e5e27cd796fd1664e84f1206ab25a145c,https://github.com/microsoft/vscode/commit/000e601e5e27cd796fd1664e84f1206ab25a145c,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,271,"Revert ""engineering: use tar+zstd for win32 node_modules cache"" (#291740)
+
+Revert ""engineering: use tar+zstd for win32 node_modules cache (#291624)""
+
+This reverts commit 70529729e608d50528ca02990523b4",2026-01-29T21:48:29Z,000e601e,2026-02-04T11:32:38.846502,3
+mjbvz,bf05ca89b6438a1da848f1aa3ecbfdf30e244fd9,https://github.com/microsoft/vscode/commit/bf05ca89b6438a1da848f1aa3ecbfdf30e244fd9,Matt Bierner,12821956+mjbvz@users.noreply.github.com,272,Merge branch 'main' into dev/mjbvz/straightforward-flyingfish,2026-01-29T21:41:21Z,bf05ca89,2026-02-04T11:32:38.846506,3
+justschen,218de2609fa95470b639b7490b26d2cff3d8b983,https://github.com/microsoft/vscode/commit/218de2609fa95470b639b7490b26d2cff3d8b983,Justin Chen,54879025+justschen@users.noreply.github.com,273,"thinking header fix: styling and better generic text (#291462)
+
+* thinking header fix: styling and better generic text
+
+* only increment in constructor if there is thinking text
+
+* reset the timer, ac",2026-01-29T21:16:57Z,218de260,2026-02-04T11:32:38.846511,3
+dileepyavan,9fbb7b870847322097301203a1ba7aa318c1decf,https://github.com/microsoft/vscode/commit/9fbb7b870847322097301203a1ba7aa318c1decf,dileepyavan,52841896+dileepyavan@users.noreply.github.com,274,"In sandbox mode for chatUI, the command should be displayed without sandbox command and environment variables (#291395)
+
+changes",2026-01-29T21:14:59Z,9fbb7b87,2026-02-04T11:32:38.846515,3
+mjbvz,f7cb28aad308d6614930a9894346051c8685c167,https://github.com/microsoft/vscode/commit/f7cb28aad308d6614930a9894346051c8685c167,Matt Bierner,12821956+mjbvz@users.noreply.github.com,275,Merge branch 'main' into dev/mjbvz/straightforward-flyingfish,2026-01-29T21:06:10Z,f7cb28aa,2026-02-04T11:32:38.846522,3
+dependabot[bot],acfc3629374a386ac1090b4155a229c250436854,https://github.com/microsoft/vscode/commit/acfc3629374a386ac1090b4155a229c250436854,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,276,"Bump tar from 7.5.6 to 7.5.7 (#291723)
+
+Bumps tar from 7.5.6 to 7.5.7.
+
+---
+updated-dependencies:
+- dependency-name: tar
+  dependency-version: 7.5.7
+  dependency-type: direct:development
+...
+
+Signed-o",2026-01-29T20:51:53Z,acfc3629,2026-02-04T11:32:38.846529,3
+dependabot[bot],fd3565eb6bd06e688a98cabd029088c16390e62e,https://github.com/microsoft/vscode/commit/fd3565eb6bd06e688a98cabd029088c16390e62e,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,277,"Bump tar and dmg-builder in /build (#291331)
+
+Bumps [tar](https://github.com/isaacs/node-tar) to 7.5.7 and updates ancestor dependency [dmg-builder](https://github.com/electron-userland/electron-build",2026-01-29T20:25:06Z,fd3565eb,2026-02-04T11:32:38.846535,3
+Tyriar,9cec1f5c35a69b92210549072fe43e616d785ded,https://github.com/microsoft/vscode/commit/9cec1f5c35a69b92210549072fe43e616d785ded,Daniel Imms,2193314+Tyriar@users.noreply.github.com,278,Allow xxd exact command line,2026-01-29T20:23:06Z,9cec1f5c,2026-02-04T11:32:38.846541,3
+bpasero,c534163aad084167299bb642b51576138891a553,https://github.com/microsoft/vscode/commit/c534163aad084167299bb642b51576138891a553,Benjamin Pasero,benjamin.pasero@gmail.com,279,"update instructions (#291715)
+
+* update instructions
+
+* .",2026-01-29T20:19:58Z,c534163a,2026-02-04T11:32:38.846548,3
+joaomoreno,70529729e608d50528ca02990523b409a9713daa,https://github.com/microsoft/vscode/commit/70529729e608d50528ca02990523b409a9713daa,João Moreno,joaomoreno@users.noreply.github.com,280,"engineering: use tar+zstd for win32 node_modules cache (#291624)
+
+* engineering: use tar+zstd for win32 node_modules cache
+
+* bump cache
+
+* Update .github/workflows/pr-node-modules.yml
+
+Co-authored-by",2026-01-29T20:16:43Z,70529729,2026-02-04T11:32:38.846556,3
+eleanorjboyd,e5035e945fb3421a43c40ed65132ffef4c5a5623,https://github.com/microsoft/vscode/commit/e5035e945fb3421a43c40ed65132ffef4c5a5623,Eleanor Boyd,26030610+eleanorjboyd@users.noreply.github.com,281,"Merge pull request #291686 from microsoft/close-wombat
+
+add missing team members to endgame notebook",2026-01-29T20:02:15Z,e5035e94,2026-02-04T11:32:38.846560,3
+dependabot[bot],8936d7e785a0efd4f6b9d928f227a7bdb05f9cda,https://github.com/microsoft/vscode/commit/8936d7e785a0efd4f6b9d928f227a7bdb05f9cda,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,282,"Bump tar from 7.5.6 to 7.5.7 in /build/npm/gyp (#291362)
+
+Bumps [tar](https://github.com/isaacs/node-tar) from 7.5.6 to 7.5.7.
+- [Release notes](https://github.com/isaacs/node-tar/releases)
+- [Changel",2026-01-29T20:01:31Z,8936d7e7,2026-02-04T11:32:38.846565,3
+eli-w-king,e2b78137e516c433afd8f63a2f1e3b2d193558de,https://github.com/microsoft/vscode/commit/e2b78137e516c433afd8f63a2f1e3b2d193558de,eli-w-king,elijahwilliamking@icloud.com,283,fixed close button,2026-01-28T23:38:30Z,e2b78137,2026-02-04T11:32:38.846569,3
+eli-w-king,745fd0bf29e01466bbe3dcca97da56e9134f42c0,https://github.com/microsoft/vscode/commit/745fd0bf29e01466bbe3dcca97da56e9134f42c0,eli-w-king,elijahwilliamking@icloud.com,284,responsive,2026-01-28T23:25:33Z,745fd0bf,2026-02-04T11:32:38.846573,3
+eli-w-king,01f18c11a6a3463ef0a3da619b7b305ae2bec820,https://github.com/microsoft/vscode/commit/01f18c11a6a3463ef0a3da619b7b305ae2bec820,eli-w-king,elijahwilliamking@icloud.com,285,simplified chat questions,2026-01-28T23:09:08Z,01f18c11,2026-02-04T11:32:38.846578,3
+eli-w-king,2d3b03f30516292541834a8503df3944b41e8dae,https://github.com/microsoft/vscode/commit/2d3b03f30516292541834a8503df3944b41e8dae,eli-w-king,elijahwilliamking@icloud.com,286,test,2026-01-28T22:24:27Z,2d3b03f3,2026-02-04T11:32:38.846582,3
+connor4312,c026062cfddbf74c3150a8ae5ae57d371ed02370,https://github.com/microsoft/vscode/commit/c026062cfddbf74c3150a8ae5ae57d371ed02370,Connor Peet,copeet@microsoft.com,287,"chat: add post-approval feedback message (#291712)
+
+Adds display of a localized 'Approve tool result?' message when a chat
+response is waiting for post-approval confirmation on a tool invocation.
+
+- U",2026-01-29T19:52:57Z,c026062c,2026-02-04T11:32:38.846587,3
+karthiknadig,b3f114a5067917dc11415edbe2536035d718b435,https://github.com/microsoft/vscode/commit/b3f114a5067917dc11415edbe2536035d718b435,Karthik Nadig,kanadig@microsoft.com,288,"feat: implement auto-resize for freeform textarea in ask questions (#291680)
+
+* feat: implement auto-resize for freeform textarea in chat question carousel
+
+* fix: use auto exapnding textarea for all ",2026-01-29T19:49:39Z,b3f114a5,2026-02-04T11:32:38.846591,3
+bpasero,6579a01f28dc7c30af49715699e7a52a911bfe3e,https://github.com/microsoft/vscode/commit/6579a01f28dc7c30af49715699e7a52a911bfe3e,Benjamin Pasero,benjamin.pasero@gmail.com,289,refactor - remove unused diff files indicators (#291707),2026-01-29T19:36:14Z,6579a01f,2026-02-04T11:32:38.846596,3
+bpasero,d1fa3d656d3b0ca42fe6f2efc210d9a15f51cf31,https://github.com/microsoft/vscode/commit/d1fa3d656d3b0ca42fe6f2efc210d9a15f51cf31,Benjamin Pasero,benjamin.pasero@gmail.com,290,feat - update icon for `Codex` and `Claude` providers (#291706),2026-01-29T19:29:51Z,d1fa3d65,2026-02-04T11:32:38.846601,3
+bpasero,82530a3d2b0248220b8721afe0d4326a5f6e5fe2,https://github.com/microsoft/vscode/commit/82530a3d2b0248220b8721afe0d4326a5f6e5fe2,Benjamin Pasero,benjamin.pasero@gmail.com,291,refactor - simplify auto-expand logic in `AgentSessionsControl` (#291705),2026-01-29T19:25:51Z,82530a3d,2026-02-04T11:32:38.846606,3
+eleanorjboyd,a0b16aed63892f79c966841d93c0f31930c9acde,https://github.com/microsoft/vscode/commit/a0b16aed63892f79c966841d93c0f31930c9acde,Eleanor Boyd,26030610+eleanorjboyd@users.noreply.github.com,292,Merge branch 'main' into close-wombat,2026-01-29T19:07:34Z,a0b16aed,2026-02-04T11:32:38.846611,3
+dileepyavan,d6d5aec8e8612ad78560a6dfea26b08846f47def,https://github.com/microsoft/vscode/commit/d6d5aec8e8612ad78560a6dfea26b08846f47def,dileepyavan,52841896+dileepyavan@users.noreply.github.com,293,"Adding sandbox pre-reqs to the setting UI for linux (#291670)
+
+changes in settings UI",2026-01-29T18:51:58Z,d6d5aec8,2026-02-04T11:32:38.846616,3
+meganrogge,9081bdd491f344c4312b362bb069dbff8d673eb9,https://github.com/microsoft/vscode/commit/9081bdd491f344c4312b362bb069dbff8d673eb9,Megan Rogge,merogge@microsoft.com,294,check output before appending (#291658),2026-01-29T18:45:54Z,9081bdd4,2026-02-04T11:32:38.846619,3
+Copilot,23415e043711104568677f0742b3ee49f900d628,https://github.com/microsoft/vscode/commit/23415e043711104568677f0742b3ee49f900d628,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,295,"Gate Agent Sessions Welcome page on ChatContextKeys.enabled
+
+Co-authored-by: osortega <48293249+osortega@users.noreply.github.com>",2026-01-29T18:38:44Z,23415e04,2026-02-04T11:32:38.846623,3
+meganrogge,424641585af5c22401e862fd06e8d1c1822a1283,https://github.com/microsoft/vscode/commit/424641585af5c22401e862fd06e8d1c1822a1283,Megan Rogge,merogge@microsoft.com,296,don't prompt if user explicitly set automatic tasks to `off` (#291671),2026-01-29T18:32:56Z,42464158,2026-02-04T11:32:38.846627,3
+Copilot,9de6a5e3882f0aa0606fcf1fff1b3ea3a2bfe9f1,https://github.com/microsoft/vscode/commit/9de6a5e3882f0aa0606fcf1fff1b3ea3a2bfe9f1,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,297,Initial plan,2026-01-29T18:31:07Z,9de6a5e3,2026-02-04T11:32:38.846632,3
+joaomoreno,bf729fa50adbc422b858ba2dcb138357b6a5f7f6,https://github.com/microsoft/vscode/commit/bf729fa50adbc422b858ba2dcb138357b6a5f7f6,João Moreno,joaomoreno@users.noreply.github.com,298,"strip out git askpass sourcemap footer (#291673)
+
+fixes #282020",2026-01-29T18:27:20Z,bf729fa5,2026-02-04T11:32:38.846636,3
+bpasero,90d24f7d3424df566adb7cc6a3d758ca7f169964,https://github.com/microsoft/vscode/commit/90d24f7d3424df566adb7cc6a3d758ca7f169964,Benjamin Pasero,benjamin.pasero@gmail.com,299,Chat Sessions: Toggling filter collapses More section (fix #291544) (#291683),2026-01-29T18:24:33Z,90d24f7d,2026-02-04T11:32:38.846640,3
+meganrogge,a72cd7b63e06ee2bad86679806a56bfff3da30b7,https://github.com/microsoft/vscode/commit/a72cd7b63e06ee2bad86679806a56bfff3da30b7,Megan Rogge,merogge@microsoft.com,300,add wait for command function (#291653),2026-01-29T18:23:33Z,a72cd7b6,2026-02-04T11:32:38.846644,3
+ulugbekna,148bbfdb57a32e666bf8d3254f8989a7cbd8a818,https://github.com/microsoft/vscode/commit/148bbfdb57a32e666bf8d3254f8989a7cbd8a818,ulugbekna,ulugbekna@gmail.com,301,"fix(stringEdit): prevent _tryRebase from producing non-disjoint edits
+
+## Problem
+
+The `_tryRebase` method could produce edits that violate the sorted/disjoint
+invariant required by `StringEdit`, caus",2026-01-29T16:23:25Z,148bbfdb,2026-02-04T11:32:40.932193,4
+bpasero,e710e342972700fe338e80d48af89c3f668fbed7,https://github.com/microsoft/vscode/commit/e710e342972700fe338e80d48af89c3f668fbed7,Benjamin Pasero,benjamin.pasero@gmail.com,302,refactor - remove unused chat issue reporting command (#291684),2026-01-29T18:19:19Z,e710e342,2026-02-04T11:32:40.932214,4
+mrleemurray,65b61f6e725a506c5c2e8aab8997f237c2889ed5,https://github.com/microsoft/vscode/commit/65b61f6e725a506c5c2e8aab8997f237c2889ed5,Lee Murray,lemurra@microsoft.com,303,"Merge pull request #291674 from microsoft/mrleemurray/moderate-coral-urial
+
+Update @vscode/codicons to version 0.0.45-4 and add 'claude' icon",2026-01-29T17:56:09Z,65b61f6e,2026-02-04T11:32:40.932221,4
+rzhao271,80c02caeb02633bddb716cac8d480d7454ad6b5f,https://github.com/microsoft/vscode/commit/80c02caeb02633bddb716cac8d480d7454ad6b5f,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,304,"Apply suggestion from @Copilot
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",2026-01-29T17:56:04Z,80c02cae,2026-02-04T11:32:40.932226,4
+kycutler,6f458a11a99d6d8c881edd31b1ac378ff295f750,https://github.com/microsoft/vscode/commit/6f458a11a99d6d8c881edd31b1ac378ff295f750,Kyle Cutler,67761731+kycutler@users.noreply.github.com,305,"Browser: make paused state less jarring (#291637)
+
+* Browser: make paused state less jarring
+
+* Update src/vs/workbench/contrib/browserView/electron-browser/browserEditor.ts
+
+Co-authored-by: Copilot <",2026-01-29T17:52:38Z,6f458a11,2026-02-04T11:32:40.932231,4
+eleanorjboyd,ede4c001b29c0b8ab94f71ef94fdad8f47c6c220,https://github.com/microsoft/vscode/commit/ede4c001b29c0b8ab94f71ef94fdad8f47c6c220,Eleanor Boyd,26030610+eleanorjboyd@users.noreply.github.com,306,fix,2026-01-29T17:48:56Z,ede4c001,2026-02-04T11:32:40.932236,4
+eleanorjboyd,57508a17696404774d9a97f3d3a8a861d710765d,https://github.com/microsoft/vscode/commit/57508a17696404774d9a97f3d3a8a861d710765d,Eleanor Boyd,26030610+eleanorjboyd@users.noreply.github.com,307,add missing team members,2026-01-29T17:47:47Z,57508a17,2026-02-04T11:32:40.932242,4
+mrleemurray,12ce890b0be963c88d84ff981d9ac942cbed7253,https://github.com/microsoft/vscode/commit/12ce890b0be963c88d84ff981d9ac942cbed7253,mrleemurray,mrleemurray@users.noreply.github.com,308,Update @vscode/codicons to version 0.0.45-4 and add 'claude' icon to codiconsLibrary,2026-01-29T17:26:06Z,12ce890b,2026-02-04T11:32:40.932247,4
+alexr00,e0e634e326c64ad29edce120b10b5aab03ceacc9,https://github.com/microsoft/vscode/commit/e0e634e326c64ad29edce120b10b5aab03ceacc9,Alex Ross,38270282+alexr00@users.noreply.github.com,309,"Bump macOS test timeout to 90 minutes (#291664)
+
+The owners of this have asked us to try a longer timeout to help them determine if the issues we're seeing are perf degradation or a hang",2026-01-29T17:25:35Z,e0e634e3,2026-02-04T11:32:40.932252,4
+jrieken,fe1d4cfca0fd1580ee7c657d865727def71ac435,https://github.com/microsoft/vscode/commit/fe1d4cfca0fd1580ee7c657d865727def71ac435,Johannes Rieken,johannes.rieken@gmail.com,310,chore: update known CSS variabled (#291663),2026-01-29T17:24:06Z,fe1d4cfc,2026-02-04T11:32:40.932258,4
+benibenj,3699d9f2c290f65e9597d8e45e57d46723df2ffb,https://github.com/microsoft/vscode/commit/3699d9f2c290f65e9597d8e45e57d46723df2ffb,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,311,"Merge pull request #291633 from microsoft/benibenj/interested-slug
+
+Change gutter color to be based on editor hover color",2026-01-29T17:23:23Z,3699d9f2,2026-02-04T11:32:40.932264,4
+mrleemurray,16ef2c1fd245984d14be2b2777e17d778b0ee39f,https://github.com/microsoft/vscode/commit/16ef2c1fd245984d14be2b2777e17d778b0ee39f,Lee Murray,lemurra@microsoft.com,312,"Merge pull request #291659 from microsoft/mrleemurray/vocational-amethyst-meadowlark
+
+Update 2026 theme names",2026-01-29T17:10:01Z,16ef2c1f,2026-02-04T11:32:40.932270,4
+mrleemurray,aca1a9779ff0af6ab20fd1de8abfe5f6e749bcba,https://github.com/microsoft/vscode/commit/aca1a9779ff0af6ab20fd1de8abfe5f6e749bcba,Lee Murray,lemurra@microsoft.com,313,"Merge pull request #291646 from microsoft/mrleemurray/thin-chocolate-gerbil
+
+Update @vscode/codicons to version 0.0.45-2 and add 'openai' icon",2026-01-29T16:59:01Z,aca1a977,2026-02-04T11:32:40.932276,4
+benibenj,f94bca23a3a7c107c9f1315d3916bc918b71d767,https://github.com/microsoft/vscode/commit/f94bca23a3a7c107c9f1315d3916bc918b71d767,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,314,Merge branch 'main' into benibenj/interested-slug,2026-01-29T16:58:30Z,f94bca23,2026-02-04T11:32:40.932283,4
+aeschli,fe90dba7c18a2245acc5ba10a715861f8499f813,https://github.com/microsoft/vscode/commit/fe90dba7c18a2245acc5ba10a715861f8499f813,Martin Aeschlimann,martinae@microsoft.com,315,improve new agent.md default empty tool selection (#291647),2026-01-29T16:55:27Z,fe90dba7,2026-02-04T11:32:40.932289,4
+aeschli,46308bc433df41308eb1254c1a55f137c0a3cb10,https://github.com/microsoft/vscode/commit/46308bc433df41308eb1254c1a55f137c0a3cb10,Martin Aeschlimann,martinae@microsoft.com,316,"Remove unnecessary log statement in JSON client (#291645)
+
+[json] remove unnecessary og statement",2026-01-29T16:51:13Z,46308bc4,2026-02-04T11:32:40.932293,4
+connor4312,00b43c826d9b07523068d2b122600d9b74828fce,https://github.com/microsoft/vscode/commit/00b43c826d9b07523068d2b122600d9b74828fce,Connor Peet,copeet@microsoft.com,317,"mcp: update draft typings and announce mcp apps support (#291654)
+
+Implements https://github.com/modelcontextprotocol/ext-apps/blob/main/specification/2026-01-26/apps.mdx#client-host-capabilities
+
+Upd",2026-01-29T16:49:53Z,00b43c82,2026-02-04T11:32:40.932299,4
+jrieken,d9e4d027ebe5c4cbe9f775101996c70917e7eeff,https://github.com/microsoft/vscode/commit/d9e4d027ebe5c4cbe9f775101996c70917e7eeff,Johannes Rieken,johannes.rieken@gmail.com,318,https://github.com/microsoft/vscode/issues/289753 (#291644),2026-01-29T16:36:55Z,d9e4d027,2026-02-04T11:32:40.932305,4
+mrleemurray,7ba11de8cfad58e43a38fd64fca7daf6dd92d16c,https://github.com/microsoft/vscode/commit/7ba11de8cfad58e43a38fd64fca7daf6dd92d16c,mrleemurray,mrleemurray@users.noreply.github.com,319,fix: update theme IDs and labels for consistency,2026-01-29T16:35:41Z,7ba11de8,2026-02-04T11:32:40.932311,4
+aeschli,d944566c4db6f2159e2b4309a0282a948e99fe83,https://github.com/microsoft/vscode/commit/d944566c4db6f2159e2b4309a0282a948e99fe83,Martin Aeschlimann,martinae@microsoft.com,320,Show chat agents/prompts in extension features list (#291643),2026-01-29T16:34:57Z,d944566c,2026-02-04T11:32:40.932317,4
+sandy081,5271ac01f0653fcb5e9ce9ff4a230e6798f19106,https://github.com/microsoft/vscode/commit/5271ac01f0653fcb5e9ce9ff4a230e6798f19106,Sandeep Somavarapu,sasomava@microsoft.com,321,read cached policy data even before fetching the default account (#291631),2026-01-29T16:33:17Z,5271ac01,2026-02-04T11:32:40.932324,4
+sandy081,a823d7d21c85bd633de62acf86ed6a54cfdafb38,https://github.com/microsoft/vscode/commit/a823d7d21c85bd633de62acf86ed6a54cfdafb38,Sandeep Somavarapu,sasomava@microsoft.com,322,update distro (#291635),2026-01-29T16:28:04Z,a823d7d2,2026-02-04T11:32:40.932329,4
+mrleemurray,a6f5b3e9a6bf1f087456691e16d7ea97f7ee3f0e,https://github.com/microsoft/vscode/commit/a6f5b3e9a6bf1f087456691e16d7ea97f7ee3f0e,mrleemurray,mrleemurray@users.noreply.github.com,323,Update @vscode/codicons to version 0.0.45-2 and add 'openai' icon to codiconsLibrary,2026-01-29T16:07:23Z,a6f5b3e9,2026-02-04T11:32:40.932334,4
+joaomoreno,ea32526b0d3bacf917e7624077180a8b8b34bf56,https://github.com/microsoft/vscode/commit/ea32526b0d3bacf917e7624077180a8b8b34bf56,João Moreno,joaomoreno@users.noreply.github.com,324,"Revert ""Chat - implement session picker in the chat panel title"" (#291619)
+
+Revert ""Chat - implement session picker in the chat panel title (#281051)""
+
+This reverts commit 653daa00112c012dedae9f83a27c",2026-01-29T16:06:33Z,ea32526b,2026-02-04T11:32:40.932339,4
+jrieken,a103a120fdb45b6c84b756fec3d611bba9cbd5e6,https://github.com/microsoft/vscode/commit/a103a120fdb45b6c84b756fec3d611bba9cbd5e6,Johannes Rieken,johannes.rieken@gmail.com,325,"fix: enhance selection validation in InlineChatAffordance (#291622)
+
+fix https://github.com/microsoft/vscode/issues/290832",2026-01-29T15:44:21Z,a103a120,2026-02-04T11:32:40.932346,4
+benibenj,6924e8019ad4eb33009e58f2dac21a49b19e678a,https://github.com/microsoft/vscode/commit/6924e8019ad4eb33009e58f2dac21a49b19e678a,BeniBenj,besimmonds@microsoft.com,326,change gutter color to be based on editor hover color,2026-01-29T15:39:47Z,6924e801,2026-02-04T11:32:40.932350,4
+lramos15,e2a9f36c8800bb77b54a3f5da2731337cbd02fce,https://github.com/microsoft/vscode/commit/e2a9f36c8800bb77b54a3f5da2731337cbd02fce,Logan Ramos,lramos15@gmail.com,327,Fix empty hovers due to dom reuse (#291617),2026-01-29T15:24:02Z,e2a9f36c,2026-02-04T11:32:40.932355,4
+osortega,b6efe4985abecb4cec62e189d08595a663cecf43,https://github.com/microsoft/vscode/commit/b6efe4985abecb4cec62e189d08595a663cecf43,Osvaldo Ortega,osortega@microsoft.com,328,Telemetry for welcome page,2026-01-29T15:11:04Z,b6efe498,2026-02-04T11:32:40.932361,4
+osortega,16d4fc6d853bf4d5a82768ca4cc1d62f5284f431,https://github.com/microsoft/vscode/commit/16d4fc6d853bf4d5a82768ca4cc1d62f5284f431,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,329,"Merge pull request #291572 from microsoft/osortega/running-carp
+
+Agents welcome view UI fixes",2026-01-29T15:07:01Z,16d4fc6d,2026-02-04T11:32:40.932365,4
+benibenj,a0fddd4145fa25afde14b23487d7108e6347e4d7,https://github.com/microsoft/vscode/commit/a0fddd4145fa25afde14b23487d7108e6347e4d7,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,330,"Merge pull request #291605 from microsoft/benibenj/naval-turtle
+
+Disable session type picker when editing input",2026-01-29T14:54:57Z,a0fddd41,2026-02-04T11:32:40.932369,4
+benibenj,c1ccb4b88f4c266490051e9c36e206a3253b5acc,https://github.com/microsoft/vscode/commit/c1ccb4b88f4c266490051e9c36e206a3253b5acc,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,331,"Merge pull request #291573 from microsoft/benibenj/moral-snail
+
+only hide word suggestions when inline completions are enabled",2026-01-29T14:37:15Z,c1ccb4b8,2026-02-04T11:32:40.932375,4
+benibenj,144c2e8f6f0da28cb9887d3cb1926b2c6f25c9ba,https://github.com/microsoft/vscode/commit/144c2e8f6f0da28cb9887d3cb1926b2c6f25c9ba,BeniBenj,besimmonds@microsoft.com,332,disable session type picker when editing input,2026-01-29T14:35:09Z,144c2e8f,2026-02-04T11:32:40.932379,4
+lszomoru,653daa00112c012dedae9f83a27c1fbab5e99a43,https://github.com/microsoft/vscode/commit/653daa00112c012dedae9f83a27c1fbab5e99a43,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,333,Chat - implement session picker in the chat panel title (#281051),2026-01-29T14:34:23Z,653daa00,2026-02-04T11:32:40.932383,4
+benibenj,acc738b25d1aae9fde5b4c839f5086d13de3c1d0,https://github.com/microsoft/vscode/commit/acc738b25d1aae9fde5b4c839f5086d13de3c1d0,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,334,"Merge pull request #291597 from microsoft/benibenj/unusual-crayfish
+
+Improve hover color for action list toolbar",2026-01-29T14:32:57Z,acc738b2,2026-02-04T11:32:40.932387,4
+Tyriar,d749f7802adda531d93083a3a4080f5b2c29b50e,https://github.com/microsoft/vscode/commit/d749f7802adda531d93083a3a4080f5b2c29b50e,Daniel Imms,2193314+Tyriar@users.noreply.github.com,335,"Merge pull request #291595 from microsoft/tyriar/288589_2
+
+Make auto approve rules for flags more speciifc",2026-01-29T14:27:34Z,d749f780,2026-02-04T11:32:40.932391,4
+benibenj,6655b5f5621e8b16f0de6bff15b05869b60afef7,https://github.com/microsoft/vscode/commit/6655b5f5621e8b16f0de6bff15b05869b60afef7,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,336,"Merge pull request #291593 from microsoft/benibenj/frozen-lamprey
+
+Agent status and unified agents bar respect command center setting",2026-01-29T14:22:04Z,6655b5f5,2026-02-04T11:32:40.932395,4
+Copilot,b488ab464f1d2a966954adc7bd87c9dac2015280,https://github.com/microsoft/vscode/commit/b488ab464f1d2a966954adc7bd87c9dac2015280,Copilot,198982749+Copilot@users.noreply.github.com,337,"Fix command palette auto-close when focus was in inline chat (#291560)
+
+* Initial plan
+
+* Fix command palette auto-close when focus was in inline chat
+
+Move editor focus logic from InlineChatAffordanc",2026-01-29T14:20:25Z,b488ab46,2026-02-04T11:32:40.932399,4
+a-stewart,7624fc34ef7fd0b4e7e2b1e912736d68ad513b00,https://github.com/microsoft/vscode/commit/7624fc34ef7fd0b4e7e2b1e912736d68ad513b00,Anthony Stewart,150152+a-stewart@users.noreply.github.com,338,Fix bug where a format document command results in an unknown detailed reason,2026-01-19T16:45:50Z,7624fc34,2026-02-04T11:32:40.932403,4
+benibenj,2f13c3247487187846e0941d9280013e71cc9f56,https://github.com/microsoft/vscode/commit/2f13c3247487187846e0941d9280013e71cc9f56,BeniBenj,besimmonds@microsoft.com,339,:listick:,2026-01-29T14:15:17Z,2f13c324,2026-02-04T11:32:40.932406,4
+benibenj,f1308562f45bc8b6873414cdc445863aae445f5d,https://github.com/microsoft/vscode/commit/f1308562f45bc8b6873414cdc445863aae445f5d,BeniBenj,besimmonds@microsoft.com,340,:lipstick:,2026-01-29T14:08:29Z,f1308562,2026-02-04T11:32:40.932411,4
+benibenj,2a8b28ab9a623b289764771fa267863d0147913e,https://github.com/microsoft/vscode/commit/2a8b28ab9a623b289764771fa267863d0147913e,BeniBenj,besimmonds@microsoft.com,341,better hover color for action list toolbar action,2026-01-29T14:07:19Z,2a8b28ab,2026-02-04T11:32:40.932416,4
+Tyriar,221810991f378dd81ff1226c427687cb29c3a1e9,https://github.com/microsoft/vscode/commit/221810991f378dd81ff1226c427687cb29c3a1e9,Daniel Imms,2193314+Tyriar@users.noreply.github.com,342,"Make auto approve rules for flags more speciifc
+
+Fixes #288589",2026-01-29T14:04:32Z,22181099,2026-02-04T11:32:40.932419,4
+benibenj,acbd49bcaa58cd822b27cc1aab8441328621e381,https://github.com/microsoft/vscode/commit/acbd49bcaa58cd822b27cc1aab8441328621e381,BeniBenj,besimmonds@microsoft.com,343,agent status and unified agents bar should respect command center setting,2026-01-29T13:57:19Z,acbd49bc,2026-02-04T11:32:40.932423,4
+mrleemurray,076625e93b744b4e88fc61a8a18abfb148c89b4b,https://github.com/microsoft/vscode/commit/076625e93b744b4e88fc61a8a18abfb148c89b4b,Lee Murray,lemurra@microsoft.com,344,"Merge pull request #291571 from microsoft/mrleemurray/military-bronze-hamster
+
+Refactor 2026 Dark theme colors and enhance tab styling",2026-01-29T13:38:49Z,076625e9,2026-02-04T11:32:40.932428,4
+jrieken,9bd3edc6be2d5bac7eab6515d609e3cf4b087c48,https://github.com/microsoft/vscode/commit/9bd3edc6be2d5bac7eab6515d609e3cf4b087c48,Johannes Rieken,johannes.rieken@gmail.com,345,"inline chat: fix placeholder text and remove unused parameter (#291568)
+
+- Change selection placeholder to 'Modify selected code'
+- Remove unused _hover parameter from InlineChatEditorAffordance
+- Fix",2026-01-29T13:34:25Z,9bd3edc6,2026-02-04T11:32:40.932431,4
+osortega,1b9472fdb8afbe3ef5b798d27d5804b5c060347f,https://github.com/microsoft/vscode/commit/1b9472fdb8afbe3ef5b798d27d5804b5c060347f,Osvaldo Ortega,osortega@microsoft.com,346,Move layout out of if,2026-01-29T11:49:08Z,1b9472fd,2026-02-04T11:32:40.932435,4
+sandy081,f9b45cc9d5f1fd60c55b277281dc9b9be223bd9c,https://github.com/microsoft/vscode/commit/f9b45cc9d5f1fd60c55b277281dc9b9be223bd9c,Sandeep Somavarapu,sasomava@microsoft.com,347,fix #290769 (#291566),2026-01-29T11:45:39Z,f9b45cc9,2026-02-04T11:32:40.932439,4
+benibenj,0f9e7202506740f6da7c4e60f451a52c0f76807c,https://github.com/microsoft/vscode/commit/0f9e7202506740f6da7c4e60f451a52c0f76807c,BeniBenj,besimmonds@microsoft.com,348,only hide word suggestions when inline completions are enabled,2026-01-29T11:44:25Z,0f9e7202,2026-02-04T11:32:40.932442,4
+osortega,f448b54db37d28665d004216f2531b3f8344f084,https://github.com/microsoft/vscode/commit/f448b54db37d28665d004216f2531b3f8344f084,Osvaldo Ortega,osortega@microsoft.com,349,Agents welcome view UI fixes,2026-01-29T11:39:42Z,f448b54d,2026-02-04T11:32:40.932446,4
+mrleemurray,2427fabdbf580521fb62a945982b45f3723bea13,https://github.com/microsoft/vscode/commit/2427fabdbf580521fb62a945982b45f3723bea13,mrleemurray,mrleemurray@users.noreply.github.com,350,Refactor 2026 Dark theme colors and enhance tab styling,2026-01-29T11:39:25Z,2427fabd,2026-02-04T11:32:40.932449,4
+osortega,27485298745956f38558ed1b856dbc0eef003c4f,https://github.com/microsoft/vscode/commit/27485298745956f38558ed1b856dbc0eef003c4f,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,351,"Merge pull request #291414 from microsoft/osortega/damp-viper
+
+Adding border to chat input in welcome view",2026-01-29T11:31:43Z,27485298,2026-02-04T11:32:40.932453,4
+sandy081,35bb52f5c114977be650457f7d2d3eb862ab3b35,https://github.com/microsoft/vscode/commit/35bb52f5c114977be650457f7d2d3eb862ab3b35,Sandeep Somavarapu,sasomava@microsoft.com,352,fix #290760 (#291558),2026-01-29T11:17:45Z,35bb52f5,2026-02-04T11:32:40.932457,4
+mrleemurray,452a4c7882e111a202e34eb5271f3407b51c9fcd,https://github.com/microsoft/vscode/commit/452a4c7882e111a202e34eb5271f3407b51c9fcd,Lee Murray,lemurra@microsoft.com,353,"Merge pull request #291556 from microsoft/mrleemurray/relevant-indigo-marten
+
+Add secondary button border and update related styles and colors",2026-01-29T11:15:52Z,452a4c78,2026-02-04T11:32:40.932461,4
+alexr00,5181d051eb08eafe786fc58159d8993f91fb841f,https://github.com/microsoft/vscode/commit/5181d051eb08eafe786fc58159d8993f91fb841f,Alex Ross,38270282+alexr00@users.noreply.github.com,354,"Add telemetry for tree view concurrent refresh (#291540)
+
+* Add telemetry for tree view concurrent refresh
+
+* Copilot PR feedback
+
+* Remove retry and instead wait for refresh",2026-01-29T11:09:59Z,5181d051,2026-02-04T11:32:40.932465,4
+bpasero,481bea59059b23e7a0954cb5e591db22d6c084c1,https://github.com/microsoft/vscode/commit/481bea59059b23e7a0954cb5e591db22d6c084c1,Benjamin Pasero,benjamin.pasero@gmail.com,355,agent sessions - read/unread tracking tweaks (#291539),2026-01-29T11:09:21Z,481bea59,2026-02-04T11:32:40.932468,4
+jrieken,fc46eded124eca55b795e372415aba600e65fddd,https://github.com/microsoft/vscode/commit/fc46eded124eca55b795e372415aba600e65fddd,Johannes Rieken,johannes.rieken@gmail.com,356,fixes https://github.com/microsoft/vscode/issues/248372 (#291551),2026-01-29T11:08:03Z,fc46eded,2026-02-04T11:32:40.932472,4
+jrieken,36b24b2b4b92c0d5232fb5d0278de562b8fe169c,https://github.com/microsoft/vscode/commit/36b24b2b4b92c0d5232fb5d0278de562b8fe169c,Johannes Rieken,johannes.rieken@gmail.com,357,"Tweak inline zone styles, make affordance and zone work together better (#291549)
+
+* fix: adjust padding and margin for chat input and attachments container
+
+* fix: update chat input container styles ",2026-01-29T11:07:37Z,36b24b2b,2026-02-04T11:32:40.932475,4
+benibenj,7a6db87ecc4955dd2350794825a643b5d96f4dfa,https://github.com/microsoft/vscode/commit/7a6db87ecc4955dd2350794825a643b5d96f4dfa,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,358,"Merge pull request #291555 from microsoft/benibenj/invisible-butterfly
+
+Rename action title to ""Open Model Picker""",2026-01-29T10:53:25Z,7a6db87e,2026-02-04T11:32:40.932479,4
+mrleemurray,32c2dd28912976a829df6ac9ccf8b10a1a32e16b,https://github.com/microsoft/vscode/commit/32c2dd28912976a829df6ac9ccf8b10a1a32e16b,mrleemurray,mrleemurray@users.noreply.github.com,359,Add secondary button border and update related styles and colors,2026-01-29T10:49:11Z,32c2dd28,2026-02-04T11:32:40.932483,4
+Copilot,1872cb38547185ef27dbf6a295793657fc6d11c8,https://github.com/microsoft/vscode/commit/1872cb38547185ef27dbf6a295793657fc6d11c8,Copilot,198982749+Copilot@users.noreply.github.com,360,"Add garbage collection for unused content-addressed askpass directories (#289723)
+
+* Initial plan
+
+* Add garbage collection for old content-addressed askpass directories
+
+- Implement updateDirectoryMt",2026-01-29T10:35:40Z,1872cb38,2026-02-04T11:32:40.932487,4
+sandy081,d46d4d9de27a9cc28d359eb3263a60c0221bab03,https://github.com/microsoft/vscode/commit/d46d4d9de27a9cc28d359eb3263a60c0221bab03,Sandeep Somavarapu,sasomava@microsoft.com,361,fix #291133 (#291546),2026-01-29T10:35:21Z,d46d4d9d,2026-02-04T11:32:40.932490,4
+benibenj,c46f0c09fc9e2f2908dcc0f5200f531dcbea5ef5,https://github.com/microsoft/vscode/commit/c46f0c09fc9e2f2908dcc0f5200f531dcbea5ef5,BeniBenj,besimmonds@microsoft.com,362,rename to open model picker when in overflow,2026-01-29T10:30:29Z,c46f0c09,2026-02-04T11:32:40.932494,4
+sandy081,987f736f422fb1f88df13cf613aa216065b0ae8a,https://github.com/microsoft/vscode/commit/987f736f422fb1f88df13cf613aa216065b0ae8a,Sandeep Somavarapu,sasomava@microsoft.com,363,fix #291340 (#291532),2026-01-29T10:10:35Z,987f736f,2026-02-04T11:32:40.932497,4
+mrleemurray,7bc5a442f84ad3f6f30dac3fe7c4899f8009ef2d,https://github.com/microsoft/vscode/commit/7bc5a442f84ad3f6f30dac3fe7c4899f8009ef2d,Lee Murray,mrleemurray@gmail.com,364,"Merge pull request #291489 from microsoft/eli/theme-fixes-two
+
+theme fixes cont.",2026-01-29T10:06:12Z,7bc5a442,2026-02-04T11:32:40.932501,4
+bpasero,7a488d0f074748d65b5e017eea3662dc0aa17fbd,https://github.com/microsoft/vscode/commit/7a488d0f074748d65b5e017eea3662dc0aa17fbd,Benjamin Pasero,benjamin.pasero@gmail.com,365,"In agent session window, layout falls over when opening editors (fix #291089) (#291529)",2026-01-29T09:59:58Z,7a488d0f,2026-02-04T11:32:40.932505,4
+sandy081,cceba815b0d6a91d0665261e101a12bed91cb037,https://github.com/microsoft/vscode/commit/cceba815b0d6a91d0665261e101a12bed91cb037,Sandeep Somavarapu,sasomava@microsoft.com,366,fix #291360 (#291528),2026-01-29T09:49:15Z,cceba815,2026-02-04T11:32:40.932508,4
+Copilot,f7e21013d978618544ed49d44f8464869f7d133e,https://github.com/microsoft/vscode/commit/f7e21013d978618544ed49d44f8464869f7d133e,Copilot,198982749+Copilot@users.noreply.github.com,367,"Fix inline chat gutter affordance with sticky scroll (#291357)
+
+* Initial plan
+
+* Reveal selection line when clicking inline chat gutter affordance from sticky scroll
+
+Co-authored-by: jrieken <1794099",2026-01-29T09:48:56Z,f7e21013,2026-02-04T11:32:40.932512,4
+jrieken,715f7adc5e78c85d46de62ea33b53516d6acf266,https://github.com/microsoft/vscode/commit/715f7adc5e78c85d46de62ea33b53516d6acf266,Johannes Rieken,johannes.rieken@gmail.com,368,"Merge pull request #291354 from microsoft/copilot/fix-done-widget-issue
+
+Fix ""Done"" affordance not hiding after inline chat exits without changes",2026-01-29T09:48:09Z,715f7adc,2026-02-04T11:32:40.932516,4
+bpasero,cff94e73ad951e5a84deadfdfa7ce67e6d289aef,https://github.com/microsoft/vscode/commit/cff94e73ad951e5a84deadfdfa7ce67e6d289aef,Benjamin Pasero,benjamin.pasero@gmail.com,369,"Chat Sessions: Add Mark All Read action (fix #291213) (#291523)
+
+* Chat Sessions: Add Mark All Read action (fix #291213)
+
+* .",2026-01-29T09:47:40Z,cff94e73,2026-02-04T11:32:40.932519,4
+bpasero,93a1e4ffb0e15852fb789820b5705be3a59c8c63,https://github.com/microsoft/vscode/commit/93a1e4ffb0e15852fb789820b5705be3a59c8c63,Benjamin Pasero,benjamin.pasero@gmail.com,370,agent sessions - drop session providers that are not built-in and not registered (#291516),2026-01-29T09:47:13Z,93a1e4ff,2026-02-04T11:32:40.932523,4
+bpasero,7e43c30f54c04836a069e222b13254582be21755,https://github.com/microsoft/vscode/commit/7e43c30f54c04836a069e222b13254582be21755,Benjamin Pasero,benjamin.pasero@gmail.com,371,"agent sessions - always take the timings from the provider (#291514)
+
+* agent sessions - always take the timings from the provider
+
+* .",2026-01-29T09:33:00Z,7e43c30f,2026-02-04T11:32:40.932526,4
+benibenj,0a9a500870ae9da0709faffb9d10d4238258b35a,https://github.com/microsoft/vscode/commit/0a9a500870ae9da0709faffb9d10d4238258b35a,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,372,"Merge pull request #291512 from microsoft/benibenj/frightened-bird
+
+Improve tool picker telemetry",2026-01-29T09:31:42Z,0a9a5008,2026-02-04T11:32:40.932530,4
+sandy081,bb1eec4bece645f747a7549b807fd8383061c20a,https://github.com/microsoft/vscode/commit/bb1eec4bece645f747a7549b807fd8383061c20a,Sandeep Somavarapu,sasomava@microsoft.com,373,hide agent session mode actions in stable (#291511),2026-01-29T09:30:47Z,bb1eec4b,2026-02-04T11:32:40.932534,4
+sandy081,3b42759b8b501e68106c72b5683dcc114ed789e1,https://github.com/microsoft/vscode/commit/3b42759b8b501e68106c72b5683dcc114ed789e1,Sandeep Somavarapu,sasomava@microsoft.com,374,fix #290724 (#291298),2026-01-29T08:43:38Z,3b42759b,2026-02-04T11:32:40.932537,4
+dmitrivMS,a56e5a19cdd96af91fd6af6cc2711affef54a7df,https://github.com/microsoft/vscode/commit/a56e5a19cdd96af91fd6af6cc2711affef54a7df,Dmitriy Vasyura,dmitriv@microsoft.com,375,Retry network operations on recoverable server errors (#290046),2026-01-29T08:42:58Z,a56e5a19,2026-02-04T11:32:40.932541,4
+bpasero,7dc9ccc9a09f02c6097a2f8b8de34fd9f0527b98,https://github.com/microsoft/vscode/commit/7dc9ccc9a09f02c6097a2f8b8de34fd9f0527b98,Benjamin Pasero,benjamin.pasero@gmail.com,376,chat - use the sentiment property for AI enablement (#291506),2026-01-29T08:40:36Z,7dc9ccc9,2026-02-04T11:32:40.932545,4
+benibenj,3b0916710e5ede034f6d385423cfa24ed725f5b8,https://github.com/microsoft/vscode/commit/3b0916710e5ede034f6d385423cfa24ed725f5b8,BeniBenj,besimmonds@microsoft.com,377,better understanding of picker utilization,2026-01-29T08:35:59Z,3b091671,2026-02-04T11:32:40.932548,4
+bpasero,e7ac236d600b0a7d42573748275fd85ed998921a,https://github.com/microsoft/vscode/commit/e7ac236d600b0a7d42573748275fd85ed998921a,Benjamin Pasero,benjamin.pasero@gmail.com,378,"chat - drop option to hide chat title (#291505)
+
+* chat - drop option to hide chat title
+
+* .",2026-01-29T08:34:23Z,e7ac236d,2026-02-04T11:32:40.932552,4
+Copilot,246b74bd911e5d6379d9b64f79f90a40b25ef1a7,https://github.com/microsoft/vscode/commit/246b74bd911e5d6379d9b64f79f90a40b25ef1a7,Copilot,198982749+Copilot@users.noreply.github.com,379,"Fix VoiceOver announcement for Agent Sessions view (#291320)
+
+* Initial plan
+
+* Add proper ARIA roles to AgentSessionsAccessibilityProvider for VoiceOver
+
+Add getWidgetRole() returning 'list' and getR",2026-01-29T08:29:35Z,246b74bd,2026-02-04T11:32:40.932556,4
+lszomoru,e4e61e5ffaf535a8477969fff6ad930f9e563be1,https://github.com/microsoft/vscode/commit/e4e61e5ffaf535a8477969fff6ad930f9e563be1,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,380,Git - dispose untrusted repositories when trust state changes (#291498),2026-01-29T08:12:59Z,e4e61e5f,2026-02-04T11:32:40.932559,4
+karthiknadig,52c040f24c19b99773549919923307ee86a92827,https://github.com/microsoft/vscode/commit/52c040f24c19b99773549919923307ee86a92827,Karthik Nadig,kanadig@microsoft.com,381,"fix: update freeform input handling to always show for single/multi select questions (#291488)
+
+* fix: update freeform input handling to always show for single/multi select questions
+
+* fix: update sk",2026-01-29T06:46:43Z,52c040f2,2026-02-04T11:32:40.932563,4
+deepak1556,9f5995dd3ff6606eeb13e67f34d889ce81b846d7,https://github.com/microsoft/vscode/commit/9f5995dd3ff6606eeb13e67f34d889ce81b846d7,Robo,hop2deep@gmail.com,382,"ci: restore reliability of terrapin check (#291484)
+
+* ci: remove continueOnError setting
+
+* fix: misconfigured peerdepedency setting for subfolders during postinstall
+
+* fix: restore package lock url",2026-01-29T06:13:32Z,9f5995dd,2026-02-04T11:32:40.932567,4
+eli-w-king,cbd6d81bd5ce1e7e2f8d7cc2d48da7f841e2ae63,https://github.com/microsoft/vscode/commit/cbd6d81bd5ce1e7e2f8d7cc2d48da7f841e2ae63,eli-w-king,elijahwilliamking@icloud.com,383,inactive window indicator,2026-01-29T05:33:21Z,cbd6d81b,2026-02-04T11:32:40.932571,4
+eli-w-king,f9775502365e6225878e00eb3c58c2ba6a0fce4b,https://github.com/microsoft/vscode/commit/f9775502365e6225878e00eb3c58c2ba6a0fce4b,eli-w-king,elijahwilliamking@icloud.com,384,added active tab indicators,2026-01-29T05:29:43Z,f9775502,2026-02-04T11:32:40.932574,4
+eli-w-king,7357248471fd273d13d29e61bc56c0a2e4ac9a9a,https://github.com/microsoft/vscode/commit/7357248471fd273d13d29e61bc56c0a2e4ac9a9a,eli-w-king,elijahwilliamking@icloud.com,385,added active tab indicator,2026-01-29T05:16:06Z,73572484,2026-02-04T11:32:40.932578,4
+eli-w-king,8ca63698440460dac90dc3084e23e25bd925f68c,https://github.com/microsoft/vscode/commit/8ca63698440460dac90dc3084e23e25bd925f68c,eli-w-king,elijahwilliamking@icloud.com,386,more contrast between selected and highlighted (right click) files,2026-01-29T04:55:16Z,8ca63698,2026-02-04T11:32:40.932581,4
+deepak1556,7d83ce8c7ef3a3b21357ddf3dac127a058004319,https://github.com/microsoft/vscode/commit/7d83ce8c7ef3a3b21357ddf3dac127a058004319,Robo,hop2deep@gmail.com,387,chore: update node-pty@1.2.0-beta.10 (#291471),2026-01-29T04:52:07Z,7d83ce8c,2026-02-04T11:32:40.932585,4
+eli-w-king,b498a63c1c78297bcce901aa6f20491988111bde,https://github.com/microsoft/vscode/commit/b498a63c1c78297bcce901aa6f20491988111bde,eli-w-king,elijahwilliamking@icloud.com,388,revised inline titles,2026-01-29T04:52:07Z,b498a63c,2026-02-04T11:32:40.932589,4
+DonJayamanne,544e425b4d0f37ad683a2fba47e96503a4aafe5c,https://github.com/microsoft/vscode/commit/544e425b4d0f37ad683a2fba47e96503a4aafe5c,Don Jayamanne,don.jayamanne@outlook.com,389,Hide tool picker in Agents for contributed sessions (#291473),2026-01-29T04:34:13Z,544e425b,2026-02-04T11:32:40.932592,4
+eli-w-king,b6aa349a9b44351ed806e3a87f365470a9aa921f,https://github.com/microsoft/vscode/commit/b6aa349a9b44351ed806e3a87f365470a9aa921f,eli-w-king,elijahwilliamking@icloud.com,390,added color to boolean values,2026-01-29T04:30:54Z,b6aa349a,2026-02-04T11:32:40.932596,4
+lszomoru,748751e9f522cbffc7216fa23b9a42ec5631323a,https://github.com/microsoft/vscode/commit/748751e9f522cbffc7216fa23b9a42ec5631323a,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,391,"Workspace trust - update proposed APIs  (#291408)
+
+Workspace trust - add proposed API to check whether a URI is trusted and an event for when the list of trusted folders/workspaces change",2026-01-29T04:06:58Z,748751e9,2026-02-04T11:32:40.932599,4
+eli-w-king,9197ab8dc10357cd72a25c5ab55e618860eff89c,https://github.com/microsoft/vscode/commit/9197ab8dc10357cd72a25c5ab55e618860eff89c,eli-w-king,elijahwilliamking@icloud.com,392,fixed chat input buttons foreground,2026-01-29T04:05:43Z,9197ab8d,2026-02-04T11:32:40.932603,4
+eli-w-king,fd3c4bf17baad70a29d776e5a9fb9fa07e93c773,https://github.com/microsoft/vscode/commit/fd3c4bf17baad70a29d776e5a9fb9fa07e93c773,eli-w-king,elijahwilliamking@icloud.com,393,"consistent transparency, white background",2026-01-29T03:48:04Z,fd3c4bf1,2026-02-04T11:32:40.932607,4
+justschen,c6c601febd59b5c94ce3b00caba713893a7650a2,https://github.com/microsoft/vscode/commit/c6c601febd59b5c94ce3b00caba713893a7650a2,Justin Chen,54879025+justschen@users.noreply.github.com,394,ask questions not in thinking + ux improvements (#291456),2026-01-29T01:06:04Z,c6c601fe,2026-02-04T11:32:40.932610,4
+digitarald,ddfbf274ffbd9bf780a12c8d160c9e4ea2bf2362,https://github.com/microsoft/vscode/commit/ddfbf274ffbd9bf780a12c8d160c9e4ea2bf2362,Harald Kirschner,hkirschner@microsoft.com,395,Strengthen skill adherence system prompt with blocking requirement (#291460),2026-01-29T00:52:34Z,ddfbf274,2026-02-04T11:32:40.932614,4
+pwang347,c84bdba0a431663013dc9c2d1b10e50c7205dd7c,https://github.com/microsoft/vscode/commit/c84bdba0a431663013dc9c2d1b10e50c7205dd7c,Paul,paul_wang347@hotmail.com,396,Prompt file diagnostics feedback  (#291450),2026-01-29T00:40:56Z,c84bdba0,2026-02-04T11:32:40.932618,4
+TylerLeonhardt,d3d2601e4a2b6d4d5c547357ec95faf7ee650823,https://github.com/microsoft/vscode/commit/d3d2601e4a2b6d4d5c547357ec95faf7ee650823,Tyler James Leonhardt,2644648+TylerLeonhardt@users.noreply.github.com,397,"Add missing plumbing for extension Quick Pick Item toggles (#291452)
+
+Also cancel event propegation in toggles which would cause he item to be accepted when you clicked on the the toggle.
+
+Fixes https",2026-01-29T00:30:45Z,d3d2601e,2026-02-04T11:32:40.932621,4
+dmitrivMS,8841b29bd580aa1ee704cc13ecf4d793eada567b,https://github.com/microsoft/vscode/commit/8841b29bd580aa1ee704cc13ecf4d793eada567b,Dmitriy Vasyura,dmitriv@microsoft.com,398,Enhance snippet schema documentation with glob pattern details (#291451),2026-01-29T00:18:48Z,8841b29b,2026-02-04T11:32:40.932627,4
+mjbvz,86ab95ec564c3528d6eaa57e544884c573ccd40c,https://github.com/microsoft/vscode/commit/86ab95ec564c3528d6eaa57e544884c573ccd40c,Matt Bierner,12821956+mjbvz@users.noreply.github.com,399,Add a title for generated mermaid diagrams and use this in the editor,2026-01-29T00:10:51Z,86ab95ec,2026-02-04T11:32:40.932630,4
+dmitrivMS,725d99634bb8572b2e3d825cb0bbcaf4e3a67d4f,https://github.com/microsoft/vscode/commit/725d99634bb8572b2e3d825cb0bbcaf4e3a67d4f,Dmitriy Vasyura,dmitriv@microsoft.com,400,Increase timeout for body download in fetchUrl to accommodate large files (#291443),2026-01-28T23:51:21Z,725d9963,2026-02-04T11:32:40.932634,4
+connor4312,7de8a0de7cc7bf7e6bad22d77ae0ab6b6718a2b3,https://github.com/microsoft/vscode/commit/7de8a0de7cc7bf7e6bad22d77ae0ab6b6718a2b3,Connor Peet,copeet@microsoft.com,401,"chat: make tool invocation source property optional (#291439)
+
+Fixes compatibility with pre-1.104 versions where the source property
+may be undefined for deserialized tool invocations. Uses optional c",2026-01-28T23:37:19Z,7de8a0de,2026-02-04T11:32:43.149563,5
+eleanorjboyd,74db171b00b468de26384fa5c8772064c7958663,https://github.com/microsoft/vscode/commit/74db171b00b468de26384fa5c8772064c7958663,Eleanor Boyd,26030610+eleanorjboyd@users.noreply.github.com,402,"Merge pull request #291337 from eleanorjboyd/rural-horse
+
+feature: Add model parameter to handoff operations",2026-01-28T23:27:02Z,74db171b,2026-02-04T11:32:43.149590,5
+dmitrivMS,51c5f16d28cc6b1b8b5b7a5f5833fe69cda0d589,https://github.com/microsoft/vscode/commit/51c5f16d28cc6b1b8b5b7a5f5833fe69cda0d589,Dmitriy Vasyura,dmitriv@microsoft.com,403,PR feedback from previous commit for sanity tests (#291431),2026-01-28T23:11:14Z,51c5f16d,2026-02-04T11:32:43.149596,5
+eleanorjboyd,addbe630f08b33d7393c232d0ce79d93742c41aa,https://github.com/microsoft/vscode/commit/addbe630f08b33d7393c232d0ce79d93742c41aa,Eleanor Boyd,26030610+eleanorjboyd@users.noreply.github.com,404,Merge branch 'main' into rural-horse,2026-01-28T22:46:47Z,addbe630,2026-02-04T11:32:43.149602,5
+eleanorjboyd,032f6b93dbaf8360f18fe0ca45fb58a018907e8e,https://github.com/microsoft/vscode/commit/032f6b93dbaf8360f18fe0ca45fb58a018907e8e,eleanorjboyd,26030610+eleanorjboyd@users.noreply.github.com,405,cleanup,2026-01-28T22:41:38Z,032f6b93,2026-02-04T11:32:43.149607,5
+justschen,37f9dffb156ecfc2cf0ceb0d0e5b3fa2267ffb7b,https://github.com/microsoft/vscode/commit/37f9dffb156ecfc2cf0ceb0d0e5b3fa2267ffb7b,Justin Chen,54879025+justschen@users.noreply.github.com,406,fix questions icons not showing (#291421),2026-01-28T22:36:06Z,37f9dffb,2026-02-04T11:32:43.149613,5
+justschen,afd4046bad661d20f22e4875758c3bfa6d07820f,https://github.com/microsoft/vscode/commit/afd4046bad661d20f22e4875758c3bfa6d07820f,Justin Chen,54879025+justschen@users.noreply.github.com,407,"smarter check for confirmation (#291400)
+
+* smarter check for confirmation
+
+* address some comments
+
+* fix carousel question icon not showing
+
+* undo commit
+
+* undo commit 2",2026-01-28T22:35:02Z,afd4046b,2026-02-04T11:32:43.149618,5
+Copilot,f13da104b22a4b9615209cce1ac29be4f1666909,https://github.com/microsoft/vscode/commit/f13da104b22a4b9615209cce1ac29be4f1666909,Copilot,198982749+Copilot@users.noreply.github.com,408,"Add chat.agent.maxRequests to commonly used settings list (#291398)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: rzhao271 <7199958+rzhao271@user",2026-01-28T22:30:27Z,f13da104,2026-02-04T11:32:43.149624,5
+mjbvz,826c6fea81ab30737f8d1125d6a413e5efe91cd1,https://github.com/microsoft/vscode/commit/826c6fea81ab30737f8d1125d6a413e5efe91cd1,Matt Bierner,12821956+mjbvz@users.noreply.github.com,409,"Merge pull request #291411 from mjbvz/dev/mjbvz/influential-takin
+
+Enable chat mermaid tool by default",2026-01-28T22:03:58Z,826c6fea,2026-02-04T11:32:43.149630,5
+dmitrivMS,4d8241eeaa2ae0dd7c7062b846bff655ee1c6f15,https://github.com/microsoft/vscode/commit/4d8241eeaa2ae0dd7c7062b846bff655ee1c6f15,Dmitriy Vasyura,dmitriv@microsoft.com,410,"Sanity tests updates (#291399)
+
+* Sanity tests updates
+
+* Revert qemu accidental change.",2026-01-28T21:58:56Z,4d8241ee,2026-02-04T11:32:43.149635,5
+osortega,9f2bc7c81c5f7e77b3af20ebbb4e186f177704d4,https://github.com/microsoft/vscode/commit/9f2bc7c81c5f7e77b3af20ebbb4e186f177704d4,Osvaldo Ortega,osortega@microsoft.com,411,Adding border to chat input in welcome view,2026-01-28T21:58:50Z,9f2bc7c8,2026-02-04T11:32:43.149640,5
+sandy081,a8773d175f5311aa30f7cbff393f806e4be0d0a5,https://github.com/microsoft/vscode/commit/a8773d175f5311aa30f7cbff393f806e4be0d0a5,Sandeep Somavarapu,sasomava@microsoft.com,412,"#290627 support extension management CLI to support forced versioning by quality (#291404)
+
+* #290627 support extension management CLI to support forced versioning by quality
+
+* feedback",2026-01-28T21:54:26Z,a8773d17,2026-02-04T11:32:43.149645,5
+mjbvz,96716220290fa0ec76bbe19e31792cd87cb39dc2,https://github.com/microsoft/vscode/commit/96716220290fa0ec76bbe19e31792cd87cb39dc2,Matt Bierner,12821956+mjbvz@users.noreply.github.com,413,"Enable chat mermaid tool by default
+
+Feeling more confident in its current state. Let's preview this feature for stable users too",2026-01-28T21:43:09Z,96716220,2026-02-04T11:32:43.149650,5
+mjbvz,79a3e97bcef5f0bc53f3bdaae79ea518495937dc,https://github.com/microsoft/vscode/commit/79a3e97bcef5f0bc53f3bdaae79ea518495937dc,Matt Bierner,12821956+mjbvz@users.noreply.github.com,414,"Merge pull request #291406 from mjbvz/dev/mjbvz/colorful-asp
+
+A bit more polish on mermaid chat items",2026-01-28T21:38:26Z,79a3e97b,2026-02-04T11:32:43.149654,5
+mjbvz,b895a24030e75700438e64f92eda3c1b6cd01ba2,https://github.com/microsoft/vscode/commit/b895a24030e75700438e64f92eda3c1b6cd01ba2,Matt Bierner,12821956+mjbvz@users.noreply.github.com,415,"A bit more polish on mermaid chat items
+
+- Remove context menu for open in editor since there's a button now
+- Faster pinch zoom
+- Only pan when holding alt/option
+- Fix transparent button on hover",2026-01-28T21:15:08Z,b895a240,2026-02-04T11:32:43.149659,5
+sandy081,b21a7bf5209f91c48a8fe99fae32fe4dbab97907,https://github.com/microsoft/vscode/commit/b21a7bf5209f91c48a8fe99fae32fe4dbab97907,Sandeep Somavarapu,sasomava@microsoft.com,416,"fix: update argument for using custom source in nuget package installation (#291304)
+
+* fix: update argument for using custom source in nuget package installation
+
+* fix tests",2026-01-28T20:29:05Z,b21a7bf5,2026-02-04T11:32:43.149662,5
+jrieken,bddac8596ed18cebd1f4fd365ea2e9ab4e87c9e1,https://github.com/microsoft/vscode/commit/bddac8596ed18cebd1f4fd365ea2e9ab4e87c9e1,Johannes Rieken,johannes.rieken@gmail.com,417,"inline chat input: clamp widget to viewport when scrolling with content (#291390)
+
+When the input has content, the widget now stays visible and clamps to viewport edges (respecting sticky scroll heigh",2026-01-28T20:23:10Z,bddac859,2026-02-04T11:32:43.149667,5
+eleanorjboyd,76749211a7bae0bac9049bb6530099d92643ac73,https://github.com/microsoft/vscode/commit/76749211a7bae0bac9049bb6530099d92643ac73,Eleanor Boyd,26030610+eleanorjboyd@users.noreply.github.com,418,"Merge pull request #291386 from eleanorjboyd/friendly-gayal
+
+bug: prioritize user-selected model during same vscode session for inline chat",2026-01-28T20:13:32Z,76749211,2026-02-04T11:32:43.149673,5
+bpasero,354a53ee3a6906edcd7dc2fcd3eb9aa08ec4c697,https://github.com/microsoft/vscode/commit/354a53ee3a6906edcd7dc2fcd3eb9aa08ec4c697,Benjamin Pasero,benjamin.pasero@gmail.com,419,agent sessions - harden read/unread tracking (#291389),2026-01-28T20:07:54Z,354a53ee,2026-02-04T11:32:43.149677,5
+roblourens,89518b68de36b22c7511ec3c72ada3233063c9d2,https://github.com/microsoft/vscode/commit/89518b68de36b22c7511ec3c72ada3233063c9d2,Rob Lourens,roblourens@gmail.com,420,"Fix issue with runSubagent result text (#291383)
+
+* Fix issue with runSubagent result text
+It was collecting text between tool calls when it should only collect the text after the final tool calls.
+
+A",2026-01-28T20:03:58Z,89518b68,2026-02-04T11:32:43.149682,5
+eleanorjboyd,c2b2a7ab98fe26683802b97cbe0d6620d9b70c9d,https://github.com/microsoft/vscode/commit/c2b2a7ab98fe26683802b97cbe0d6620d9b70c9d,eleanorjboyd,26030610+eleanorjboyd@users.noreply.github.com,421,address comments,2026-01-28T19:54:22Z,c2b2a7ab,2026-02-04T11:32:43.149687,5
+eleanorjboyd,cafabc758fed479206a162c0785caf21f500d62f,https://github.com/microsoft/vscode/commit/cafabc758fed479206a162c0785caf21f500d62f,eleanorjboyd,26030610+eleanorjboyd@users.noreply.github.com,422,bug: prioritize user-selected model during same vscode session for inline chat,2026-01-28T19:34:48Z,cafabc75,2026-02-04T11:32:43.149692,5
+Copilot,7ee6a1d941a4b0cfbfeed9b061aaf2d1fe2313d9,https://github.com/microsoft/vscode/commit/7ee6a1d941a4b0cfbfeed9b061aaf2d1fe2313d9,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,423,"Add chat.disableAIFeatures support to editor.aiStats.enabled
+
+Co-authored-by: hediet <2931520+hediet@users.noreply.github.com>",2026-01-28T18:47:08Z,7ee6a1d9,2026-02-04T11:32:43.149697,5
+connor4312,9295def4c2a8dee035abaa5c9d1a691aa7ea532b,https://github.com/microsoft/vscode/commit/9295def4c2a8dee035abaa5c9d1a691aa7ea532b,Connor Peet,copeet@microsoft.com,424,"chat: use ConnectionObserverElement to track template mount state (#291370)
+
+* chat: use ConnectionObserverElement to track template mount state
+
+Replaces the hacky 'renderedPartsMounted' boolean with",2026-01-28T19:29:29Z,9295def4,2026-02-04T11:32:43.149703,5
+dbaeumer,a2e36f5f8cf8669f7e74b2fce9b81894b6f9e893,https://github.com/microsoft/vscode/commit/a2e36f5f8cf8669f7e74b2fce9b81894b6f9e893,Dirk Bäumer,dirkb@microsoft.com,425,"Merge pull request #291371 from microsoft/dbaeumer/moderate-finch-aquamarine
+
+Handle deletions correctly in rename tracker",2026-01-28T19:14:33Z,a2e36f5f,2026-02-04T11:32:43.149707,5
+eleanorjboyd,5818d0945a86c93f69b79c0dd58fe94e9ff5fc54,https://github.com/microsoft/vscode/commit/5818d0945a86c93f69b79c0dd58fe94e9ff5fc54,Eleanor Boyd,26030610+eleanorjboyd@users.noreply.github.com,426,"Merge pull request #291368 from eleanorjboyd/complete-wolf
+
+fix: update example model name in inline chat configuration description",2026-01-28T19:13:28Z,5818d094,2026-02-04T11:32:43.149712,5
+RedCMD,3b35824fd84b642d37760bae47727383c848661d,https://github.com/microsoft/vscode/commit/3b35824fd84b642d37760bae47727383c848661d,RedCMD,TheRedCMD@gmail.com,427,fix: VB `increaseIndentPattern`,2026-01-28T05:20:12Z,3b35824f,2026-02-04T11:32:43.149715,5
+aeschli,7be7cc7f5691d48fd0b63de0c684651be924f09c,https://github.com/microsoft/vscode/commit/7be7cc7f5691d48fd0b63de0c684651be924f09c,Martin Aeschlimann,martinae@microsoft.com,428,agents field not validated in custom agent file (#291352),2026-01-28T18:41:02Z,7be7cc7f,2026-02-04T11:32:43.149720,5
+eleanorjboyd,ddf7703270c5703283b915cfc64e8cbe116ec0f2,https://github.com/microsoft/vscode/commit/ddf7703270c5703283b915cfc64e8cbe116ec0f2,eleanorjboyd,26030610+eleanorjboyd@users.noreply.github.com,429,fix: update example model name in inline chat configuration description,2026-01-28T18:40:48Z,ddf77032,2026-02-04T11:32:43.149724,5
+benibenj,cff354d42711bd5faa5a9feb91ea29146057509a,https://github.com/microsoft/vscode/commit/cff354d42711bd5faa5a9feb91ea29146057509a,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,430,"Merge pull request #291347 from microsoft/benibenj/common-skink
+
+Tool picker reintroduced in chat input",2026-01-28T18:40:32Z,cff354d4,2026-02-04T11:32:43.149729,5
+lramos15,738a982b7f176a1fbbc902e549e64d0e9326a27c,https://github.com/microsoft/vscode/commit/738a982b7f176a1fbbc902e549e64d0e9326a27c,Logan Ramos,lramos15@gmail.com,431,"Improve context widget UX based on feedback (#291344)
+
+* Fix hover color
+
+* Refactor hover behaviro to match usage widget
+
+* Make the context widget more compact
+
+* Relocate context widget
+
+* Update s",2026-01-28T18:39:59Z,738a982b,2026-02-04T11:32:43.149734,5
+meganrogge,3a334a88aa7f99e1343f1883e836a2f72f3e8f74,https://github.com/microsoft/vscode/commit/3a334a88aa7f99e1343f1883e836a2f72f3e8f74,Megan Rogge,merogge@microsoft.com,432,"allow prompt for input detection in bg terminals (#291325)
+
+fix #290983",2026-01-28T18:32:47Z,3a334a88,2026-02-04T11:32:43.149738,5
+zhichli,919480b2ce52309b5c90d88d18ff9100a4ba3c24,https://github.com/microsoft/vscode/commit/919480b2ce52309b5c90d88d18ff9100a4ba3c24,Zhichao Li,57812115+zhichli@users.noreply.github.com,433,"Merge pull request #291128 from microsoft/zhichli/traj
+
+Add toolMetadata to LanguageModelToolResult for trajectory tracking",2026-01-28T18:26:12Z,919480b2,2026-02-04T11:32:43.149742,5
+kycutler,afc58805a3632aab3f517da8fa5a04cca7f2befd,https://github.com/microsoft/vscode/commit/afc58805a3632aab3f517da8fa5a04cca7f2befd,Kyle Cutler,67761731+kycutler@users.noreply.github.com,434,"Fix ""add element to chat"" overlay not always hiding (#291348)",2026-01-28T18:15:31Z,afc58805,2026-02-04T11:32:43.149747,5
+dbaeumer,9470784c27a6ebe33ba3352ff41dd9ea32a68b89,https://github.com/microsoft/vscode/commit/9470784c27a6ebe33ba3352ff41dd9ea32a68b89,Dirk Baeumer,dirkb@microsoft.com,435,Handle deletions correctly in rename tracker,2026-01-28T18:12:20Z,9470784c,2026-02-04T11:32:43.149751,5
+eleanorjboyd,7b2081533c63181f0ae9cd26d528e2492431acde,https://github.com/microsoft/vscode/commit/7b2081533c63181f0ae9cd26d528e2492431acde,eleanorjboyd,26030610+eleanorjboyd@users.noreply.github.com,436,updates,2026-01-28T18:09:48Z,7b208153,2026-02-04T11:32:43.149756,5
+Copilot,db70877d18af4d0c0393374f9cc0b347a53e0f93,https://github.com/microsoft/vscode/commit/db70877d18af4d0c0393374f9cc0b347a53e0f93,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,437,"Fix ""Done"" affordance not going away after inline chat exit without changes
+
+Co-authored-by: jrieken <1794099+jrieken@users.noreply.github.com>",2026-01-28T18:05:04Z,db70877d,2026-02-04T11:32:43.149760,5
+jrieken,caf8104c0fe3ff7c2dd8f7dd8f06296f6ccce5e4,https://github.com/microsoft/vscode/commit/caf8104c0fe3ff7c2dd8f7dd8f06296f6ccce5e4,Johannes Rieken,johannes.rieken@gmail.com,438,"Remove inline chat affordance suppression logic (#291350)
+
+Users disliked that the inline chat affordance (sparkle icon) would
+only show once per selection and require changing the selection to
+see it",2026-01-28T18:02:11Z,caf8104c,2026-02-04T11:32:43.149765,5
+Copilot,3d17932be829b0c55f55ceab4bafd243161b33bc,https://github.com/microsoft/vscode/commit/3d17932be829b0c55f55ceab4bafd243161b33bc,copilot-swe-agent[bot],198982749+Copilot@users.noreply.github.com,439,Initial plan,2026-01-28T17:56:34Z,3d17932b,2026-02-04T11:32:43.149770,5
+benibenj,8e7a5cd45f2763db1d0bbe935fbe7751cfd60f43,https://github.com/microsoft/vscode/commit/8e7a5cd45f2763db1d0bbe935fbe7751cfd60f43,BeniBenj,besimmonds@microsoft.com,440,tool picker back in chat input,2026-01-28T17:33:47Z,8e7a5cd4,2026-02-04T11:32:43.149775,5
+aeschli,33cbf6ba58c616df6c6c79ac9a83735be76c5d50,https://github.com/microsoft/vscode/commit/33cbf6ba58c616df6c6c79ac9a83735be76c5d50,Martin Aeschlimann,martinae@microsoft.com,441,No intellisense docs for custom agent properties (#291330),2026-01-28T17:18:38Z,33cbf6ba,2026-02-04T11:32:43.149781,5
+benibenj,02a309b4511a8b3a3ec8b625dc08dccd1fa269d9,https://github.com/microsoft/vscode/commit/02a309b4511a8b3a3ec8b625dc08dccd1fa269d9,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,442,"Merge pull request #291333 from microsoft/benibenj/unknown-limpet
+
+Add session type picker for non-delegable sessions",2026-01-28T17:18:18Z,02a309b4,2026-02-04T11:32:43.149787,5
+bpasero,69d1718f97fb119ba67d867eae663086598ba1fb,https://github.com/microsoft/vscode/commit/69d1718f97fb119ba67d867eae663086598ba1fb,Benjamin Pasero,benjamin.pasero@gmail.com,443,agent sessions - harden read/unread tracking (#291308),2026-01-28T17:10:37Z,69d1718f,2026-02-04T11:32:43.149792,5
+eleanorjboyd,69a9b7235d9813cca8da9dc4648d602b30457223,https://github.com/microsoft/vscode/commit/69a9b7235d9813cca8da9dc4648d602b30457223,eleanorjboyd,26030610+eleanorjboyd@users.noreply.github.com,444,feat(chat): add model switching capability during handoff,2026-01-28T17:06:06Z,69a9b723,2026-02-04T11:32:43.149797,5
+connor4312,ff54e5cbb1e1e34873d2bc423314976a2d8b41b6,https://github.com/microsoft/vscode/commit/ff54e5cbb1e1e34873d2bc423314976a2d8b41b6,Connor Peet,copeet@microsoft.com,445,"chat: fix handling of old session states (#291185)
+
+Guard old sessions from Insiders that may have Pending or NeedsInput states,
+converting them to Complete state for consistency. This ensures proper ",2026-01-28T17:05:11Z,ff54e5cb,2026-02-04T11:32:43.149802,5
+benibenj,6e5d25ad82b954669d222b00eca4600cde4200ce,https://github.com/microsoft/vscode/commit/6e5d25ad82b954669d222b00eca4600cde4200ce,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,446,"Merge pull request #291329 from microsoft/benibenj/lost-spider
+
+Fix hover position in chat input components",2026-01-28T17:04:40Z,6e5d25ad,2026-02-04T11:32:43.149806,5
+deepak1556,09a6795b2593c5999cd83f2ae146e25dcc2dfca0,https://github.com/microsoft/vscode/commit/09a6795b2593c5999cd83f2ae146e25dcc2dfca0,Robo,hop2deep@gmail.com,447,"fix: path to appx package in Add-AppxProvisionedPackage command (#291300)
+
+* fix: path to appx package in Add-AppxProvisionedPackage command
+
+* fix: removing appx package in system setup",2026-01-28T16:58:34Z,09a6795b,2026-02-04T11:32:43.149811,5
+karthiknadig,d308743726689a685bc6634bb884a0df53938005,https://github.com/microsoft/vscode/commit/d308743726689a685bc6634bb884a0df53938005,Karthik Nadig,kanadig@microsoft.com,448,fix: add cancellation token support to ChatAgentResponseStream (#291327),2026-01-28T16:56:51Z,d3087437,2026-02-04T11:32:43.149816,5
+benibenj,5446e393268c5f376b3f1ec2a3750be4de09b753,https://github.com/microsoft/vscode/commit/5446e393268c5f376b3f1ec2a3750be4de09b753,BeniBenj,besimmonds@microsoft.com,449,session type picker also for sessions that cannot be delegated.,2026-01-28T16:51:07Z,5446e393,2026-02-04T11:32:43.149820,5
+benibenj,654064886c5e47c3bb96c90a8afad3cf82009c04,https://github.com/microsoft/vscode/commit/654064886c5e47c3bb96c90a8afad3cf82009c04,BeniBenj,besimmonds@microsoft.com,450,fix hover position,2026-01-28T16:43:43Z,65406488,2026-02-04T11:32:43.149824,5
+benibenj,3891e9fe1deba6e4ce159581721799f46938b940,https://github.com/microsoft/vscode/commit/3891e9fe1deba6e4ce159581721799f46938b940,Benjamin Christopher Simmonds,44439583+benibenj@users.noreply.github.com,451,"Merge pull request #291315 from microsoft/benibenj/solid-grouse
+
+Fix incorrect telemetry for inline completions",2026-01-28T16:30:18Z,3891e9fe,2026-02-04T11:32:43.149829,5
+lszomoru,dab807f670916ee1c34612b816f80f31ddaabff7,https://github.com/microsoft/vscode/commit/dab807f670916ee1c34612b816f80f31ddaabff7,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,452,"Git - expose more options to apply a patch (#291309)
+
+* Git - expose more options to apply a patch
+
+* 💄 Reorder options",2026-01-28T16:29:50Z,dab807f6,2026-02-04T11:32:43.149835,5
+aeschli,b6d264afe96157866bc1653b43b15791f6ccf445,https://github.com/microsoft/vscode/commit/b6d264afe96157866bc1653b43b15791f6ccf445,Martin Aeschlimann,martinae@microsoft.com,453,Improve initial instruction/prompt/agent/skill file contents (#291318),2026-01-28T16:29:26Z,b6d264af,2026-02-04T11:32:43.149840,5
+bpasero,38ccea399ca0ce76f833b4b2d2cf2747394c67bf,https://github.com/microsoft/vscode/commit/38ccea399ca0ce76f833b4b2d2cf2747394c67bf,Benjamin Pasero,benjamin.pasero@gmail.com,454,chat - introduce setting to show view badge or not (#291314),2026-01-28T16:28:50Z,38ccea39,2026-02-04T11:32:43.149844,5
+deepak1556,1b505efacc8ddaf9a2591dbf3030c7ef215042c7,https://github.com/microsoft/vscode/commit/1b505efacc8ddaf9a2591dbf3030c7ef215042c7,Robo,hop2deep@gmail.com,455,chore: update dmg icon vertical alignment (#291313),2026-01-28T16:15:37Z,1b505efa,2026-02-04T11:32:43.149848,5
+benibenj,c157f884d4ca5d4df525d807310551de8e06bb44,https://github.com/microsoft/vscode/commit/c157f884d4ca5d4df525d807310551de8e06bb44,BeniBenj,besimmonds@microsoft.com,456,fix incorrect telemetry sending for inline completions that are never shown to the user,2026-01-28T16:01:10Z,c157f884,2026-02-04T11:32:43.149852,5
+meganrogge,921274364e982a1a81e06b7dc8b605a7fc73ec53,https://github.com/microsoft/vscode/commit/921274364e982a1a81e06b7dc8b605a7fc73ec53,Megan Rogge,merogge@microsoft.com,457,"Revert ""fix: memory leak in abstract task service"" (#291306)
+
+Revert ""fix: memory leak in abstract task service (#289863)""
+
+This reverts commit d50d60023986a899797acfa426f8866846fe1a16.",2026-01-28T15:48:01Z,92127436,2026-02-04T11:32:43.149856,5
+bpasero,c721687d3696e9669e97a762786ab94fd4dcf09d,https://github.com/microsoft/vscode/commit/c721687d3696e9669e97a762786ab94fd4dcf09d,Benjamin Pasero,benjamin.pasero@gmail.com,458,"layout - reduce scope of `workbench.secondarySideBar.forceMaximized` to only apply when editors are closed (#291293)
+
+* layout - reduce scope of `workbench.secondarySideBar.forceMaximized` to only app",2026-01-28T15:01:49Z,c721687d,2026-02-04T11:32:43.149861,5
+sandy081,7b0aa3bfa0ad937a1100043db22d1d0b59128310,https://github.com/microsoft/vscode/commit/7b0aa3bfa0ad937a1100043db22d1d0b59128310,Sandeep Somavarapu,sasomava@microsoft.com,459,fix #290688 (#291294),2026-01-28T14:48:03Z,7b0aa3bf,2026-02-04T11:32:43.149865,5
+lszomoru,dca1daf99d4608475346b4c9090af53230048da5,https://github.com/microsoft/vscode/commit/dca1daf99d4608475346b4c9090af53230048da5,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,460,"Chat - add metadata to `ChatSessionItem` (#290000)
+
+* Chat - add metadata to `ChatSessionItem`
+
+* Pull request feedback
+
+* Update src/vscode-dts/vscode.proposed.chatSessionsProvider.d.ts
+
+Co-authored-",2026-01-28T12:07:33Z,dca1daf9,2026-02-04T11:32:43.149869,5
+bpasero,9961a3a8b0a359d52663daf2de3067a0f525733c,https://github.com/microsoft/vscode/commit/9961a3a8b0a359d52663daf2de3067a0f525733c,Benjamin Pasero,benjamin.pasero@gmail.com,461,In stacked view filtering resets the more expansion making filtering hard to see (fix #290873) (#291262),2026-01-28T11:58:24Z,9961a3a8,2026-02-04T11:32:43.149874,5
+lszomoru,1bf610daabec2beeaa632dc1e33d92f21df41237,https://github.com/microsoft/vscode/commit/1bf610daabec2beeaa632dc1e33d92f21df41237,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,462,Git - request resource trust for the parent folder of the .git folder (#291261),2026-01-28T11:56:25Z,1bf610da,2026-02-04T11:32:43.149879,5
+bpasero,1633d48789c0cfe36ae0b1a3c6a09340b96c65ae,https://github.com/microsoft/vscode/commit/1633d48789c0cfe36ae0b1a3c6a09340b96c65ae,Benjamin Pasero,benjamin.pasero@gmail.com,463,agent sessions - hide log channel when AI is disabled (#291259),2026-01-28T11:47:42Z,1633d487,2026-02-04T11:32:43.149884,5
+alexr00,e7114fd5a44553c9dd5c20be04c2b12ad1c2ace8,https://github.com/microsoft/vscode/commit/e7114fd5a44553c9dd5c20be04c2b12ad1c2ace8,Alex Ross,38270282+alexr00@users.noreply.github.com,464,"Checkout button idles for a little bit (#291256)
+
+Fixes #291025",2026-01-28T11:32:22Z,e7114fd5,2026-02-04T11:32:43.149888,5
+mrleemurray,4cbf427ecef0c740c9714ae6b88f63747e2e2979,https://github.com/microsoft/vscode/commit/4cbf427ecef0c740c9714ae6b88f63747e2e2979,Lee Murray,lemurra@microsoft.com,465,"Merge pull request #291254 from microsoft/mrleemurray/youngest-ivory-porcupine
+
+Update background colors in 2026 Light theme",2026-01-28T11:11:39Z,4cbf427e,2026-02-04T11:32:43.149892,5
+mrleemurray,39741bdcab3a9931d4f31097c32da73eb375c046,https://github.com/microsoft/vscode/commit/39741bdcab3a9931d4f31097c32da73eb375c046,Lee Murray,mrleemurray@gmail.com,466,"Merge pull request #290767 from microsoft/mrleemurray/early-purple-vulture
+
+fix: adjust padding and gap for unified quick access tabs and buttons",2026-01-28T11:06:13Z,39741bdc,2026-02-04T11:32:43.149896,5
+mrleemurray,f49d5e896bb108bf9eb82586ed60e1f3bad75d26,https://github.com/microsoft/vscode/commit/f49d5e896bb108bf9eb82586ed60e1f3bad75d26,Lee Murray,lemurra@microsoft.com,467,"Merge pull request #291250 from microsoft/mrleemurray/solid-fuchsia-snake
+
+Update foreground color for comment settings in 2026 Light theme",2026-01-28T11:05:05Z,f49d5e89,2026-02-04T11:32:43.149901,5
+deepak1556,0074df9396a2de55b541de7f14978cbbd4976213,https://github.com/microsoft/vscode/commit/0074df9396a2de55b541de7f14978cbbd4976213,Robo,hop2deep@gmail.com,468,"fix: update disk badge icons for dmg (#290879)
+
+* fix: update disk badge icons for dmg
+
+* chore: try with code icons as badge
+
+* fix: patch badge icon outside of dmgbuild
+
+Refs https://github.com/dmgb",2026-01-28T11:03:31Z,0074df93,2026-02-04T11:32:43.149906,5
+bpasero,e1cede2ffcb069f8021bddca87ca5666be937c8a,https://github.com/microsoft/vscode/commit/e1cede2ffcb069f8021bddca87ca5666be937c8a,Benjamin Pasero,benjamin.pasero@gmail.com,469,"Agent session mode breaks the tri-state toggle of the chat icon in the title bar (fix #291099) (#291243)
+
+* Agent session mode breaks the tri-state toggle of the chat icon in the title bar (fix #29109",2026-01-28T10:56:49Z,e1cede2f,2026-02-04T11:32:43.149911,5
+mrleemurray,f303cf2cd3552959641368adf6702e5e29c78205,https://github.com/microsoft/vscode/commit/f303cf2cd3552959641368adf6702e5e29c78205,mrleemurray,mrleemurray@users.noreply.github.com,470,Update editor and UI background colors in 2026 Light theme,2026-01-28T10:52:50Z,f303cf2c,2026-02-04T11:32:43.149915,5
+mrleemurray,9b0e54707544f3b68a72c65fbe5dc35742ef7a0c,https://github.com/microsoft/vscode/commit/9b0e54707544f3b68a72c65fbe5dc35742ef7a0c,mrleemurray,mrleemurray@users.noreply.github.com,471,Update foreground color for comment settings in 2026 Light theme,2026-01-28T10:46:07Z,9b0e5470,2026-02-04T11:32:43.149919,5
+bpasero,36a463fd5e7e7b46c549b3bf7772c31a6962a882,https://github.com/microsoft/vscode/commit/36a463fd5e7e7b46c549b3bf7772c31a6962a882,Benjamin Pasero,benjamin.pasero@gmail.com,472,Chat Sessions: Add Mark All Read action (fix #291213) (#291244),2026-01-28T10:44:43Z,36a463fd,2026-02-04T11:32:43.149923,5
+eli-w-king,58f407afc7a1cdfc2fce01f589bb146220583f29,https://github.com/microsoft/vscode/commit/58f407afc7a1cdfc2fce01f589bb146220583f29,Elijah King,elijahwilliamking@icloud.com,473,"Merge pull request #290624 from microsoft/eli/theme-fixes
+
+2026 theme fixes",2026-01-28T10:25:32Z,58f407af,2026-02-04T11:32:43.149930,5
+bpasero,761f19c25f6be7cf9cdf90c8d1bd632f8ba21459,https://github.com/microsoft/vscode/commit/761f19c25f6be7cf9cdf90c8d1bd632f8ba21459,Benjamin Pasero,benjamin.pasero@gmail.com,474,"Unread state seems flaky and random (fix #290346) (#291227)
+
+* Unread state seems flaky and random (fix #290346)
+
+* fix tests",2026-01-28T09:56:41Z,761f19c2,2026-02-04T11:32:43.149934,5
+bpasero,4a54efe6fcf72adb92b94891a7c7d35a8753a40e,https://github.com/microsoft/vscode/commit/4a54efe6fcf72adb92b94891a7c7d35a8753a40e,Benjamin Pasero,benjamin.pasero@gmail.com,475,some code :lipstick: (#291196),2026-01-28T08:55:30Z,4a54efe6,2026-02-04T11:32:43.149938,5
+bpasero,555c71bd02142065b21f32c07921b7f072b6bcba,https://github.com/microsoft/vscode/commit/555c71bd02142065b21f32c07921b7f072b6bcba,Benjamin Pasero,benjamin.pasero@gmail.com,476,Don't sort sessions by read/unread state (fix #290858) (#291207),2026-01-28T08:55:11Z,555c71bd,2026-02-04T11:32:43.149943,5
+bpasero,a066abff0fe2962791823f757767d88f079a036c,https://github.com/microsoft/vscode/commit/a066abff0fe2962791823f757767d88f079a036c,Benjamin Pasero,benjamin.pasero@gmail.com,477,Chat progress badge not useful and just distracts me (fix #290793) (#291200),2026-01-28T08:54:58Z,a066abff,2026-02-04T11:32:43.149948,5
+bpasero,63f6c69f4135ec8a7906d0372b089757f462f23a,https://github.com/microsoft/vscode/commit/63f6c69f4135ec8a7906d0372b089757f462f23a,Benjamin Pasero,benjamin.pasero@gmail.com,478,Running chat not marked as 'in-progress' if currently viewed (fix #290642) (#291199),2026-01-28T08:54:33Z,63f6c69f,2026-02-04T11:32:43.149953,5
+joaomoreno,ba4c38776a45cd3e2429a44a64fd770b0ee95af8,https://github.com/microsoft/vscode/commit/ba4c38776a45cd3e2429a44a64fd770b0ee95af8,João Moreno,joaomoreno@users.noreply.github.com,479,fix: dispose of update service contrib on disabling progressive releases (#291189),2026-01-28T08:54:08Z,ba4c3877,2026-02-04T11:32:43.149957,5
+mjbvz,928f9319006064c35f462edc4a83a374393beb84,https://github.com/microsoft/vscode/commit/928f9319006064c35f462edc4a83a374393beb84,Matt Bierner,12821956+mjbvz@users.noreply.github.com,480,"Merge pull request #291174 from mjbvz/dev/mjbvz/common-tern
+
+Polish mermaid chat previews",2026-01-28T05:38:43Z,928f9319,2026-02-04T11:32:43.149962,5
+justschen,2925eb18701604c9acba278f29c885b28b1bc29f,https://github.com/microsoft/vscode/commit/2925eb18701604c9acba278f29c885b28b1bc29f,Justin Chen,54879025+justschen@users.noreply.github.com,481,"fix streaming tool calls still showing (#290981)
+
+* fix streaming tool calls still showing
+
+* handle disposable leaks",2026-01-28T05:26:42Z,2925eb18,2026-02-04T11:32:43.149967,5
+mjbvz,e41a3a88c7d077d4dfa2ff6c75a335e1760a56b1,https://github.com/microsoft/vscode/commit/e41a3a88c7d077d4dfa2ff6c75a335e1760a56b1,Matt Bierner,12821956+mjbvz@users.noreply.github.com,482,"Polish mermaid chat previews
+
+- Updates api so extensions can track lifecycles of webviews
+- Caches heights across reloads
+- Improve rendering of loading indicator
+- Use codicons for icons",2026-01-28T05:14:38Z,e41a3a88,2026-02-04T11:32:43.149971,5
+justschen,7722bb2e963d79be06993622fd2a115e7c98c576,https://github.com/microsoft/vscode/commit/7722bb2e963d79be06993622fd2a115e7c98c576,Justin Chen,54879025+justschen@users.noreply.github.com,483,"fix race condition in confirmation widget (#291165)
+
+* fix race condition in confirmation widget
+
+* add back removed thing",2026-01-28T04:56:57Z,7722bb2e,2026-02-04T11:32:43.149975,5
+pwang347,3f3f644cd5880fb6fdd58881a21b4de5c4478236,https://github.com/microsoft/vscode/commit/3f3f644cd5880fb6fdd58881a21b4de5c4478236,Paul,paul_wang347@hotmail.com,484,Add diagnostics action for chat customizations (#290659),2026-01-28T04:44:27Z,3f3f644c,2026-02-04T11:32:43.149980,5
+deepak1556,da7ccce5449129083319561664cd686d6b01c197,https://github.com/microsoft/vscode/commit/da7ccce5449129083319561664cd686d6b01c197,Robo,hop2deep@gmail.com,485,fix: icon and exe path for stable context menu (#290805),2026-01-28T02:29:04Z,da7ccce5,2026-02-04T11:32:43.149984,5
+pwang347,c73f3dad623b4174f0fe0386d521d6f3e0c4822f,https://github.com/microsoft/vscode/commit/c73f3dad623b4174f0fe0386d521d6f3e0c4822f,Paul,paul_wang347@hotmail.com,486,Add prompts experiment for skill adherence (#291095),2026-01-28T02:08:12Z,c73f3dad,2026-02-04T11:32:43.149989,5
+zhichli,cd09c911526bcdbfa9376013dd28fc1a3e383fd6,https://github.com/microsoft/vscode/commit/cd09c911526bcdbfa9376013dd28fc1a3e383fd6,Zhichao Li,zhichli@microsoft.com,487,fix: enhance subagent tool result with metadata and default name,2026-01-28T01:11:32Z,cd09c911,2026-02-04T11:32:43.149992,5
+kycutler,888cfb6dfad43814d091613268aae276586947f0,https://github.com/microsoft/vscode/commit/888cfb6dfad43814d091613268aae276586947f0,Kyle Cutler,67761731+kycutler@users.noreply.github.com,488,Browser: support options in open command (#291102),2026-01-28T00:10:18Z,888cfb6d,2026-02-04T11:32:43.149997,5
+pwang347,542e6c96557eb9ab9502ff9fef17e53b5b488a2d,https://github.com/microsoft/vscode/commit/542e6c96557eb9ab9502ff9fef17e53b5b488a2d,Paul,paul_wang347@hotmail.com,489,Fix invalid skill contribution blocking chat (#291066),2026-01-27T23:13:45Z,542e6c96,2026-02-04T11:32:43.150001,5
+joshspicer,49b3376eee4709a3b711c3a0d2ce41678287d815,https://github.com/microsoft/vscode/commit/49b3376eee4709a3b711c3a0d2ce41678287d815,Josh Spicer,23246594+joshspicer@users.noreply.github.com,490,"Agent status indicators react to `chat.viewSessions.enabled` (#291042)
+
+Agent status reacts to chat.viewSessions.enabled (https://github.com/microsoft/vscode/issues/290874)",2026-01-27T23:12:14Z,49b3376e,2026-02-04T11:32:43.150006,5
+eli-w-king,9dd32e4f02f570f88652eb4ff058383c13d0c255,https://github.com/microsoft/vscode/commit/9dd32e4f02f570f88652eb4ff058383c13d0c255,Elijah King,elijahwilliamking@icloud.com,491,Merge branch 'main' into eli/theme-fixes,2026-01-27T22:33:03Z,9dd32e4f,2026-02-04T11:32:43.150010,5
+kycutler,0572734f79d63a19678077d49bb980e746bf103f,https://github.com/microsoft/vscode/commit/0572734f79d63a19678077d49bb980e746bf103f,Kyle Cutler,67761731+kycutler@users.noreply.github.com,492,"Browser: ""New Tab"" command (#291018)",2026-01-27T22:06:44Z,0572734f,2026-02-04T11:32:43.150014,5
+karthiknadig,c7f64eb61b4fe4a5847ce458022943f2a60162fb,https://github.com/microsoft/vscode/commit/c7f64eb61b4fe4a5847ce458022943f2a60162fb,Karthik Nadig,kanadig@microsoft.com,493,"fix: display and navigation improvements (#290684)
+
+* fix: display and navigation improvements
+
+* address comments
+
+* address comments.
+
+* fix: improve accessibility and clean up button handling in ch",2026-01-27T21:32:09Z,c7f64eb6,2026-02-04T11:32:43.150018,5
+mjbvz,c2df422c20cfa4f411d351dc71e9e299aecb9f2d,https://github.com/microsoft/vscode/commit/c2df422c20cfa4f411d351dc71e9e299aecb9f2d,Matt Bierner,12821956+mjbvz@users.noreply.github.com,494,"Merge pull request #286476 from dalisoft/patch-1
+
+fix(typescript): `tsserver.useSyntaxServer.always` description",2026-01-27T21:21:04Z,c2df422c,2026-02-04T11:32:43.150022,5
+pwang347,afd10ebb0582a1f680e32c054c260629f402544b,https://github.com/microsoft/vscode/commit/afd10ebb0582a1f680e32c054c260629f402544b,Paul,paul_wang347@hotmail.com,495,Make contributed prompt files always read-only (#290920),2026-01-27T20:54:54Z,afd10ebb,2026-02-04T11:32:43.150027,5
+kycutler,199ed55b73a73bc69c9f26fe377b4b9fe33e767e,https://github.com/microsoft/vscode/commit/199ed55b73a73bc69c9f26fe377b4b9fe33e767e,Kyle Cutler,67761731+kycutler@users.noreply.github.com,496,"Browser: improve keyboard shortcuts (#290944)
+
+* Browser: improve keyboard shortcuts
+
+* Fix Alt+Left/Right priority
+
+* feedback",2026-01-27T20:30:27Z,199ed55b,2026-02-04T11:32:43.150031,5
+kycutler,0f2109db340cf29816ec69616379e48cd9affa7d,https://github.com/microsoft/vscode/commit/0f2109db340cf29816ec69616379e48cd9affa7d,Kyle Cutler,67761731+kycutler@users.noreply.github.com,497,Browser: add option to clear storage in ephemeral sessions (#290973),2026-01-27T20:13:04Z,0f2109db,2026-02-04T11:32:43.150036,5
+kycutler,c5707b1cb69473d19723d361cbd701003e037f64,https://github.com/microsoft/vscode/commit/c5707b1cb69473d19723d361cbd701003e037f64,Kyle Cutler,67761731+kycutler@users.noreply.github.com,498,"Browser: auto-hide for suggestions, editor widgets (#290930)
+
+* Browser: auto-hide for suggestions, editor widgets
+
+* feedback",2026-01-27T19:51:53Z,c5707b1c,2026-02-04T11:32:43.150040,5
+joshspicer,f95b1b3ed3e6999dba07826ac38d4f555246ead2,https://github.com/microsoft/vscode/commit/f95b1b3ed3e6999dba07826ac38d4f555246ead2,Josh Spicer,23246594+joshspicer@users.noreply.github.com,499,"agent indicator tweaks (#290907)
+
+* fix: remove padding that extended cursor hit area beyond control bounds
+
+Fixes #290742
+
+* Add ""input required"" indicator (from https://github.com/microsoft/vscode-i",2026-01-27T19:47:33Z,f95b1b3e,2026-02-04T11:32:43.150044,5
+joshspicer,58dc0f13d1ae718ab89278fc1f4211c3b16e1736,https://github.com/microsoft/vscode/commit/58dc0f13d1ae718ab89278fc1f4211c3b16e1736,Josh Spicer,23246594+joshspicer@users.noreply.github.com,500,consistent border radius covering all cases,2026-01-27T19:28:19Z,58dc0f13,2026-02-04T11:32:43.150048,5

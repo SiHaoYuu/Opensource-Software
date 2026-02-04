@@ -1,5 +1,8 @@
 # Visual Studio Code 开源项目演化分析
 
+[!NOTE]  
+如要执行`cyxcode.py`代码，请在第896行填入自己的GitHub Token.
+
 ## 📋 项目概览
 
 本项目针对[Visual Studio Code - Open Source ("Code - OSS")](https://github.com/microsoft/vscode)开源软件，对其历史提交信息、贡献者、社区活跃度等多维度数据进行深入分析统计，并通过可视化展示项目演化规律。

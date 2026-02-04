@@ -3,7 +3,7 @@ import json
 import time
 from typing import Dict, List, Optional, Any
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 import csv
 import os
 
@@ -53,14 +53,14 @@ class MaxDataVSCodeCrawler:
             'forks': 100,  # Fork仓库：100条
         }
 
-    def _make_request_safe(self, url: str, params: Dict = None) -> Optional[Any]:
+    def _make_request_safe(self, url: str, params: Dict = None, headers: Dict = None) -> Optional[Any]:
         """
         安全的API请求，增加重试机制
         """
         max_retries = 3
         for attempt in range(max_retries):
             try:
-                response = self.session.get(url, params=params, timeout=30)
+                response = self.session.get(url, params=params, headers=headers, timeout=30)
 
                 # 显示API限制
                 remaining = response.headers.get('X-RateLimit-Remaining', 'N/A')
@@ -239,26 +239,32 @@ class MaxDataVSCodeCrawler:
         print(f"✅ 最终获取到 {len(commits)} 条提交记录")
         return commits
 
-    def get_massive_issues_safe(self, state: str = "all", issue_type: str = "issues") -> List[Dict]:
+    def get_massive_issues_safe(self, state: str = "all", issue_type: str = "issues", days: int = 30) -> List[Dict]:
         """
-        修复版：获取大量问题/PR数据（修复NoneType错误）
+        修复版：获取近 N 天问题/PR数据（修复NoneType错误）
         """
-        max_items = self.config['issues'] if issue_type == "issues" else self.config['prs']
         type_name = "问题" if issue_type == "issues" else "PR"
 
-        print(f"🔍 获取{state}{type_name}（目标: {max_items}条）...")
+        cutoff_time = datetime.now() - timedelta(days=days)
+        cutoff_iso = cutoff_time.isoformat()
+
+        print(f"🔍 获取{state}{type_name}（近 {days} 天）...")
 
         items = []
         page = 1
         endpoint = "/issues" if issue_type == "issues" else "/pulls"
+        reached_cutoff = False
 
-        while len(items) < max_items:
+        while True:
             print(f"  获取第{page}页{type_name}...")
 
             params = {
-                "per_page": min(self.max_per_page, max_items - len(items)),
+                "per_page": self.max_per_page,
                 "page": page,
                 "state": state,
+                "sort": "created",
+                "direction": "desc",
+                "since": cutoff_iso,
             }
 
             url = f"{self.base_url}{endpoint}"
@@ -284,6 +290,16 @@ class MaxDataVSCodeCrawler:
                 body = self._safe_get(item, 'body', '')
                 labels = self._safe_get(item, 'labels', [])
                 user_info = self._safe_get(item, 'user', {})
+                created_at_str = self._safe_get(item, 'created_at', '')
+
+                if created_at_str:
+                    try:
+                        created_at = datetime.fromisoformat(created_at_str.replace('Z', '+00:00'))
+                        if created_at < cutoff_time:
+                            reached_cutoff = True
+                            break
+                    except Exception:
+                        pass
 
                 # 处理标签
                 label_names = []
@@ -301,7 +317,7 @@ class MaxDataVSCodeCrawler:
                     "类型": "PR" if 'pull_request' in item else "Issue",
                     "状态": self._safe_get(item, 'state', ''),
                     "创建者": self._safe_get(user_info, 'login', ''),
-                    "创建时间": self._safe_get(item, 'created_at', ''),
+                    "创建时间": created_at_str,
                     "更新时间": self._safe_get(item, 'updated_at', ''),
                     "关闭时间": self._safe_get(item, 'closed_at', ''),
                     "标签数": len(label_names),
@@ -316,6 +332,10 @@ class MaxDataVSCodeCrawler:
 
             print(f"  本页获取: {len(data)} 条，累计: {len(items)} 条")
 
+            if reached_cutoff:
+                print(f"  ✅ 已到达时间范围，停止获取")
+                break
+
             if len(data) < params["per_page"]:
                 print(f"  ✅ 已获取所有数据，共 {len(items)} 条")
                 break
@@ -323,32 +343,36 @@ class MaxDataVSCodeCrawler:
             time.sleep(1.2)  # Issues API限制较严格
             page += 1
 
-            if len(items) >= max_items:
-                print(f"  ✅ 已达到目标数量: {len(items)} 条")
-                break
-
         print(f"✅ 最终获取到 {len(items)} 条{type_name}数据")
         return items
 
-    def get_massive_stargazers(self) -> List[Dict]:
+    def get_massive_stargazers(self, days: int = 30) -> List[Dict]:
         """
-        获取大量star用户
+        获取近 N 天的Star用户
         """
-        print(f"🔍 获取Star用户（目标: {self.config['stargazers']}条）...")
+        print(f"🔍 获取Star用户（近 {days} 天）...")
 
         stargazers = []
         page = 1
+        cutoff_time = datetime.now() - timedelta(days=days)
+        reached_cutoff = False
 
-        while len(stargazers) < self.config['stargazers']:
+        while True:
             print(f"  获取第{page}页Star用户...")
 
             params = {
-                "per_page": min(self.max_per_page, self.config['stargazers'] - len(stargazers)),
+                "per_page": self.max_per_page,
                 "page": page
             }
 
             url = f"{self.base_url}/stargazers"
-            data = self._make_request_safe(url, params)
+            data = self._make_request_safe(
+                url,
+                params,
+                headers={
+                    "Accept": "application/vnd.github.star+json"
+                }
+            )
 
             if data is None or not isinstance(data, list):
                 print("  ⚠️  获取数据失败或格式错误")
@@ -362,17 +386,34 @@ class MaxDataVSCodeCrawler:
                 if not isinstance(user, dict):
                     continue
 
+                starred_at_str = self._safe_get(user, 'starred_at', '')
+                if starred_at_str:
+                    try:
+                        starred_at = datetime.fromisoformat(starred_at_str.replace('Z', '+00:00'))
+                        if starred_at < cutoff_time:
+                            reached_cutoff = True
+                            break
+                    except Exception:
+                        pass
+
+                user_info = self._safe_get(user, 'user', user)
+
                 stargazers.append({
                     "序号": len(stargazers) + 1,
-                    "用户名": self._safe_get(user, 'login', '未知'),
-                    "用户ID": self._safe_get(user, 'id', ''),
-                    "头像URL": self._safe_get(user, 'avatar_url', ''),
-                    "主页": self._safe_get(user, 'html_url', ''),
-                    "类型": self._safe_get(user, 'type', 'User'),
-                    "管理员": self._safe_get(user, 'site_admin', False),
+                    "用户名": self._safe_get(user_info, 'login', '未知'),
+                    "用户ID": self._safe_get(user_info, 'id', ''),
+                    "头像URL": self._safe_get(user_info, 'avatar_url', ''),
+                    "主页": self._safe_get(user_info, 'html_url', ''),
+                    "类型": self._safe_get(user_info, 'type', 'User'),
+                    "管理员": self._safe_get(user_info, 'site_admin', False),
+                    "Star时间": starred_at_str,
                     "获取时间": datetime.now().isoformat(),
                     "页码": page
                 })
+
+            if reached_cutoff:
+                print(f"  ✅ 已到达时间范围，停止获取")
+                break
 
             if len(data) < params["per_page"]:
                 print(f"  ✅ 已获取所有数据，共 {len(stargazers)} 条")
@@ -380,10 +421,6 @@ class MaxDataVSCodeCrawler:
 
             time.sleep(1.0)
             page += 1
-
-            if len(stargazers) >= self.config['stargazers']:
-                print(f"  ✅ 已达到目标数量: {len(stargazers)} 条")
-                break
 
         print(f"✅ 最终获取到 {len(stargazers)} 条Star用户数据")
         return stargazers
@@ -856,7 +893,7 @@ def main():
     print("=" * 60)
 
     # 必须设置你的GitHub Token
-    GITHUB_TOKEN = "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1"  # 必须替换！
+    GITHUB_TOKEN = ""  # 必须替换！
 
     try:
         # 创建爬虫实例
