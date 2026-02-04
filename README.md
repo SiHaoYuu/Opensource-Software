@@ -1,7 +1,7 @@
 # Visual Studio Code 开源项目演化分析
 
-[!NOTE]  
-如要执行`cyxcode.py`代码，请在第896行填入自己的GitHub Token.
+>[!WARNING]
+>如要执行`cyxcode.py`代码，请在第896行填入自己的GitHub Token.
 
 ## 📋 项目概览
 
