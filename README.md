@@ -1,6 +1,6 @@
 # Visual Studio Code 开源项目演化分析
 
->[!WARNING]
+>[!IMPORTANT]
 >如要执行`cyxcode.py`代码，请在第896行填入自己的GitHub Token.
 
 ## 📋 项目概览
@@ -25,30 +25,33 @@
 ```
 .
 ├── README.md                          # 项目说明文档
-├── requirements.txt                   # Python依赖库清单
+├── PROJECT_UPDATE.md                  # 更新记录与数据适配说明
+├── requirements.txt                   # Python 依赖清单
+├── environment.yml                    # Conda 环境配置
 │
-├── 📊 原始数据文件 (爬虫产出)
-│   ├── 1_contributors.csv             # 贡献者信息 (301行)
-│   ├── 2_commits.csv                  # 提交记录 (920行)
-│   ├── 3_issues_open.csv              # Issue数据 (604行)
-│   ├── 4_prs_open.csv                 # PR数据 (398行)
-│   ├── 5_stargazers.csv               # Star历史 (301行)
-│   ├── 6_forks.csv                    # Fork历史 (101行)
-│   ├── 7_releases.csv                 # 版本发布 (54行)
-│   ├── 8_branches.csv                 # 分支信息 (31行)
-│   ├── 9_repository_stats.csv         # 仓库统计 (2行)
-│   ├── commits_massive.csv            # 大规模提交数据 (4900行)
-│   ├── contributors_massive.csv       # 大规模贡献者 (329行)
-│   └── vscode_commit_history.csv      # 完整提交历史 (91689行) ⭐
+├── 📊 数据文件
+│   ├── vscode_massive_data/            # 主要数据目录（当前分析默认使用）
+│   │   ├── 1_contributors.csv          # 贡献者信息
+│   │   ├── 2_commits.csv               # 提交记录（当前主数据源）
+│   │   ├── 3_issues_open.csv           # Issue 数据
+│   │   ├── 4_prs_open.csv              # PR 数据
+│   │   ├── 5_stargazers.csv            # Star 历史
+│   │   ├── 6_forks.csv                 # Fork 历史
+│   │   ├── 7_releases.csv              # 版本发布
+│   │   ├── 8_branches.csv              # 分支信息
+│   │   └── 9_repository_stats.csv      # 仓库统计
+│   ├── commits_massive.csv             # 大规模提交数据（历史数据）
+│   ├── contributors_massive.csv        # 大规模贡献者（历史数据）
+│   └── vscode_commit_history.csv       # 完整提交历史（历史数据）
 │
 ├── 📝 分析代码
-│   ├── run.py                         # 本地Git仓库分析脚本
-│   ├── cyxcode.py                     # 数据爬虫脚本
-│   └── code-oss-history.ipynb         # 📊 可视化分析Notebook
+│   ├── run.py                          # 本地 Git 仓库分析脚本
+│   ├── cyxcode.py                      # 数据爬虫脚本
+│   └── code-oss-history.ipynb          # 📊 可视化分析 Notebook
 │
 └── 📄 文档
-    ├── 创新点.txt                     # 项目创新点说明
-    └── 数据类型和数据结构.txt         # 数据字典
+    ├── 创新点.txt                      # 项目创新点说明
+    └── 数据类型和数据结构.txt          # 数据字典
 ```
 
 
@@ -83,14 +86,16 @@
 ## 📝 注意事项
 
 ### 数据说明
-- `vscode_commit_history.csv` 是最全的提交历史（91689行，建议作为主要分析数据源）
-- 其他CSV文件是不同维度的补充数据
-- 所有时间均为UTC时间，分析时可按需转换
+- 当前 Notebook 默认使用 [vscode_massive_data/2_commits.csv](vscode_massive_data/2_commits.csv) 作为提交历史主数据源
+- `vscode_commit_history.csv` 与 `commits_massive.csv` 为历史完整数据，可用于更长周期分析
+- `vscode_massive_data` 中字段为中文列名，Notebook 已适配（详见 [PROJECT_UPDATE.md](PROJECT_UPDATE.md)）
+- 所有时间均为 UTC 时间，分析时可按需转换
 
 ---
 
 ## 📞 其他
 
 如有问题，请参考本项目的其他文档文件：
-- `创新点.txt` - 项目技术亮点说明
-- `数据类型和数据结构.txt` - 数据字典详解
+- [创新点.txt](创新点.txt) - 项目技术亮点说明
+- [数据类型和数据结构.txt](数据类型和数据结构.txt) - 数据字典详解
+- [PROJECT_UPDATE.md](PROJECT_UPDATE.md) - 数据迁移与 Notebook 适配记录
