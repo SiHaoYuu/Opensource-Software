@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="Bug Fix 占比变化">
+  <style>
+    .title { font: 18px sans-serif; font-weight: 700; }
+    .label { font: 12px sans-serif; }
+    .axis { stroke: #333; stroke-width: 1; }
+    .line { fill: none; stroke: #e15759; stroke-width: 3; }
+    .dot { fill: #e15759; }
+  </style>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="450" y="26" text-anchor="middle" class="title">Bug Fix 占比变化（2020-2026）</text>
+  <line x1="70" y1="300" x2="860" y2="300" class="axis" />
+  <line x1="70" y1="60" x2="70" y2="300" class="axis" />
+
+  <!-- Y scale: 30% -> 300, 45% -> 60 (range 15%) -->
+  <!-- Data: 2020 40.0, 2021 37.8, 2022 39.7, 2023 36.2, 2024 40.5, 2025 36.6, 2026 35.4 -->
+  <polyline class="line" points="110,120 220,153 330,126 440,177 550,114 660,171 770,189" />
+
+  <circle class="dot" cx="110" cy="120" r="4" />
+  <circle class="dot" cx="220" cy="153" r="4" />
+  <circle class="dot" cx="330" cy="126" r="4" />
+  <circle class="dot" cx="440" cy="177" r="4" />
+  <circle class="dot" cx="550" cy="114" r="4" />
+  <circle class="dot" cx="660" cy="171" r="4" />
+  <circle class="dot" cx="770" cy="189" r="4" />
+
+  <text x="110" y="320" text-anchor="middle" class="label">2020</text>
+  <text x="220" y="320" text-anchor="middle" class="label">2021</text>
+  <text x="330" y="320" text-anchor="middle" class="label">2022</text>
+  <text x="440" y="320" text-anchor="middle" class="label">2023</text>
+  <text x="550" y="320" text-anchor="middle" class="label">2024</text>
+  <text x="660" y="320" text-anchor="middle" class="label">2025</text>
+  <text x="770" y="320" text-anchor="middle" class="label">2026</text>
+
+  <text x="810" y="80" class="label">40.5%</text>
+  <text x="780" y="200" class="label">35.4%</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="提交类型分布">
+  <style>
+    .title { font: 18px sans-serif; font-weight: 700; }
+    .label { font: 11px sans-serif; }
+    .value { font: 11px sans-serif; font-weight: 700; }
+    .axis { stroke: #333; stroke-width: 1; }
+    .bar { fill: #f28e2b; }
+  </style>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="450" y="28" text-anchor="middle" class="title">提交类型分布（历史数据）</text>
+  <line x1="60" y1="360" x2="860" y2="360" class="axis" />
+  <line x1="60" y1="70" x2="60" y2="360" class="axis" />
+
+  <!-- Scale: max 26047 -> 270px height -->
+  <rect x="90" y="90" width="90" height="270" class="bar" />
+  <text x="135" y="380" text-anchor="middle" class="label">Bug Fix</text>
+  <text x="135" y="84" text-anchor="middle" class="value">26047</text>
+
+  <rect x="200" y="110" width="90" height="250" class="bar" />
+  <text x="245" y="380" text-anchor="middle" class="label">Other</text>
+  <text x="245" y="104" text-anchor="middle" class="value">21695</text>
+
+  <rect x="310" y="268" width="90" height="92" class="bar" />
+  <text x="355" y="380" text-anchor="middle" class="label">Feature</text>
+  <text x="355" y="262" text-anchor="middle" class="value">7840</text>
+
+  <rect x="420" y="304" width="90" height="56" class="bar" />
+  <text x="465" y="380" text-anchor="middle" class="label">Merge</text>
+  <text x="465" y="298" text-anchor="middle" class="value">5349</text>
+
+  <rect x="530" y="309" width="90" height="51" class="bar" />
+  <text x="575" y="380" text-anchor="middle" class="label">Refactor</text>
+  <text x="575" y="303" text-anchor="middle" class="value">5022</text>
+
+  <rect x="640" y="342" width="90" height="18" class="bar" />
+  <text x="685" y="380" text-anchor="middle" class="label">Test</text>
+  <text x="685" y="336" text-anchor="middle" class="value">1757</text>
+
+  <rect x="750" y="351" width="90" height="9" class="bar" />
+  <text x="795" y="380" text-anchor="middle" class="label">Doc</text>
+  <text x="795" y="345" text-anchor="middle" class="value">858</text>
+</svg>

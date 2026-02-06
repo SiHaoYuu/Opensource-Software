@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="Top 5 贡献者贡献次数">
+  <style>
+    .title { font: 18px sans-serif; font-weight: 700; }
+    .label { font: 12px sans-serif; }
+    .value { font: 12px sans-serif; font-weight: 700; }
+    .axis { stroke: #333; stroke-width: 1; }
+    .bar { fill: #4e79a7; }
+  </style>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="450" y="28" text-anchor="middle" class="title">Top 5 贡献者贡献次数（采样数据）</text>
+  <line x1="80" y1="360" x2="860" y2="360" class="axis" />
+  <line x1="80" y1="60" x2="80" y2="360" class="axis" />
+
+  <!-- Scale: max 15000 -> 280px height -->
+  <!-- bpasero 14386 -->
+  <rect x="110" y="92" width="120" height="268" class="bar" />
+  <text x="170" y="380" text-anchor="middle" class="label">bpasero</text>
+  <text x="170" y="84" text-anchor="middle" class="value">14386</text>
+
+  <!-- jrieken 12448 -->
+  <rect x="260" y="126" width="120" height="234" class="bar" />
+  <text x="320" y="380" text-anchor="middle" class="label">jrieken</text>
+  <text x="320" y="118" text-anchor="middle" class="value">12448</text>
+
+  <!-- Tyria 12444 -->
+  <rect x="410" y="126" width="120" height="234" class="bar" />
+  <text x="470" y="380" text-anchor="middle" class="label">Tyria</text>
+  <text x="470" y="118" text-anchor="middle" class="value">12444</text>
+
+  <!-- mjbvz 9738 -->
+  <rect x="560" y="178" width="120" height="182" class="bar" />
+  <text x="620" y="380" text-anchor="middle" class="label">mjbvz</text>
+  <text x="620" y="170" text-anchor="middle" class="value">9738</text>
+
+  <!-- joaomoreno 8738 -->
+  <rect x="710" y="198" width="120" height="162" class="bar" />
+  <text x="770" y="380" text-anchor="middle" class="label">joaomoreno</text>
+  <text x="770" y="190" text-anchor="middle" class="value">8738</text>
+</svg>
